@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nasfame
 - 👀 I’m interested in Tech entrepreneurship, Physics and Computer Science 
-- 🌱 I’m currently experimenting in Backend Development, Automation and Machine Learning.
+- 🌱 I’m currently experimenting in Backend Development,Pentesting, Automation and Machine Learning.
 - 💞️ I’m looking to collaborate on backend development and Machine Learning.
 - 📫 How to reach me ... +91 735673933
 
