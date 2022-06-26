@@ -1,10 +1,10 @@
 <blockquote align="left">
-👋 Hi, I’m @Nasfame
-👨🏾‍💻 An engineer who likes to build projects at scale. I love solving problems in the simplest way possible. 
-🌱 I’m currently experimenting DevOps & Automation.
-👀 Interested in Machine Learning, DataScience, Quantum Computing
-💞️ Chess, Engineering, Physics, Technology
-📫 How to reach me ... +91 7012573336, laciferin@gmail.com
+- 👋 Hi, I’m @Nasfame
+- 👨🏾‍💻 An engineer who likes to build projects at scale. I love solving problems in the simplest way possible. 
+- 🌱 I’m currently experimenting DevOps & Automation.
+- 👀 Interested in Machine Learning, DataScience, Quantum Computing
+- 💞️ Chess, Engineering, Physics, Technology
+- 📫 How to reach me ... +91 7012573336, laciferin@gmail.com
 </blockquote>
 
 <!-- <a href="https://github.com/Nasfame/">
