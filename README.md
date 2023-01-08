@@ -2,7 +2,7 @@
   👨🏾‍💻 An engineer who likes to build projects at scale. I love solving problems in the simplest way possible. 
  </blockquote>
  
-- 👋 Hi, I’m @Nasfame
+- 👋 Hi, I’m @Nasfame @goferHiro @pythoneerHiro @jeyserHiro
 - 🌱 I’m currently experimenting DevOps & Automation.
 - 👀 Interested in Machine Learning, DataScience, Quantum Computing
 - 💞️ Chess, Engineering, Physics, Technology
