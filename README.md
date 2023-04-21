@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Business Analytics [ML,DL, Data Visualization]**
 - 👯 I’m looking to collaborate on **ML, DevOps,Backend Engineering**
 - 🤝 I’m looking for peer learners & experts on **Quantum Computing, Machine Learning **
-- 👨‍💻 Most of my personal projects are available at [Python](https://github.com/Nasfame), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro), [Pre-2022 Projects](https://github.com/Nasfame)
+- 👨‍💻 Most of my personal projects are available at [Python](https://github.com/pythoneerHiro), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro), [Pre-2022 Projects](https://github.com/Nasfame)
 - 📝 My Entrepreneurial/Engineering Ideas - [Enclave](https://discord.com/channels/1084725625664839760/1086406011260256327)
 - 💬 Ask me about **Go, Python, Supervised ML, Responsive Frontend**
 - 💻 Coding/Programming - [Python](https://github.com/Nasfame), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro)
