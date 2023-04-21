@@ -9,12 +9,12 @@
 - 🔭 I’m currently working on **Backend Engineering**
 - 🌱 I’m currently learning **Business Analytics [ML,DL, Data Visualization]**
 - 👯 I’m looking to collaborate on **ML, DevOps,Backend Engineering**
-- 🤝 I’m looking for peer learners & experts on **Quantum Computing, Machine Learning**
-- 👨‍💻 Most of my personal projects are available at [Python](https://github.com/pythoneerHiro), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro), [Pre-2022 Projects](https://github.com/Nasfame)
+- 🤝 I’m looking for peer learners & experts on **Quantum Computing, ML**
+- 👨‍💻 My projects @ [Python](https://github.com/pythoneerHiro), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro), [Pre-2022 Projects](https://github.com/Nasfame)
 - 📝 My Entrepreneurial/Engineering Ideas - [Enclave](https://discord.com/channels/1084725625664839760/1086406011260256327)
 - 💬 Ask me about **Go, Python, Supervised ML, Responsive Frontend**
-- 💻 Coding/Programming - [Python](https://github.com/Nasfame), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro)
-- 📫 Reach me @ **Nasfame@gmail.com**,**+917012573336**
+- 💻 Coding/Programming - [Python](https://github.com/pythoneerHiro), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro)
+- 📫 Reach me @ **pythoneerHiro@gmail.com**,**+917012573336**
 - ⚡ Fun fact **Embarrassed by the power of AI in software engineering**
 
 <h3 align="left">Connect with me:</h3>
