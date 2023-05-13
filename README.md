@@ -24,11 +24,12 @@
 - 👨‍💻 Most of my personal projects are available
   at [Python](https://github.com/pythoneerHiro), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro), [Pre-2022 Projects](https://github.com/Nasfame)
 - 📝 My Entrepreneurial/Engineering
+- 📝 My Entrepreneurial/Engineering
   Ideas - [Enclave](https://discord.com/channels/1084725625664839760/1086406011260256327)
 - 💬 Ask me on **Go, Python, Backend/Frontend Engineering**
-- 💻 Coding/Programming - *
-  *[Personal](https://github.com/Nasfame), [Python](https://github.com/pythoneerHiro), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro)
-  **
+- 💻 Coding/Programming - 
+  [@Nasfame](https://github.com/Nasfame)
+
 - 📫 Reach me @ <a href="mailto:laciferin@gmail.com"> Send Mail</a>
 - ⚡ Fun fact **AGI is better than me @ coding**
 
