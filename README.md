@@ -4,13 +4,13 @@
 <h4 align="justify">I am a Backend Engineer. I enjoy Problem-Solving (DS,Algo, Chess), AI Prompting & Automation for fun</h4>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
-<p align="left"> <a href="https://twitter.com/laciferin" target="blank"><img src="https://img.shields.io/twitter/follow/laciferin?logo=twitter&style=for-the-badge" alt="laciferin" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/laciferin" target="blank"><img src="https://img.shields.io/twitter/follow/laciferin?logo=twitter&style=for-the-badge" alt="laciferin" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laciferin" height="30" width="40" /></a>
-<a href="https://twitter.com/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laciferin" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laciferin" height="30" width="40" /></a> -->
 <a href="https://instagram.com/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laciferin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laciferin" height="30" width="40" /></a>
 </p>
