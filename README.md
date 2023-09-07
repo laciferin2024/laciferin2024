@@ -65,7 +65,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasfame&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="Nasfame" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasfame&show_icons=true&locale=en&layout=compact&hide=CSS,Makefile,PHP,CMake,Powershell,TSQL,Java,HTML,Shell,Batchfile,SCSS" alt="Nasfame" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nasfame&show_icons=true&locale=en&&hide=javascript,html" alt="Nasfame" /></p>
 
