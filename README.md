@@ -8,9 +8,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **Backend Engineering**
-- 🌱 I’m currently learning **Business Analytics [ML,DL, Data Visualization]**
-- 👯 I’m looking to collaborate on **ML, DevOps,Backend Engineering**
+- 🔭 Pioneering **Bleeding/Cutting Edge** Tech
+- 🌱 Discovering **Quantum Computing**
+- 👯 I’m looking to collaborate on **ML, AI, Web3, OpenSource**
 - 🤝 I’m looking for peer learners & experts on **Quantum Computing, Machine Learning **
 - 👨‍💻 Most of my personal projects are available
   at [Python](https://github.com/pythoneerHiro), [Go](https://github.com/goferHiro), [JS](https://github.com/jeyserHiro), [Pre-2022 Projects](https://github.com/Nasfame)
