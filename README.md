@@ -1,19 +1,19 @@
 <img src="./Hiro.svg"></img>  
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Nasfame">Hiro</a> </h1>
-<h4 align="justify">I am a Backend Engineer. I kill time working on projects. I enjoy Problem-Solving (DS,Algo, Chess), AI Prompting & Automation for fun</h4>
+<h2 align="center">Senior Polyglot Web2/3 Engineer </h2>
+<!-- <h4 align="justify">I am a Backend Engineer. I kill time working on projects. I enjoy Problem-Solving (DS,Algo, Chess), AI Prompting & Automation for fun</h4> -->
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
 <!-- <p align="left"> <a href="https://twitter.com/laciferin" target="blank"><img src="https://img.shields.io/twitter/follow/laciferin?logo=twitter&style=for-the-badge" alt="laciferin" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+## 📬 Connect with me:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laciferin" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laciferin" height="30" width="40" /></a> -->
-<a href="https://instagram.com/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laciferin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/laciferin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laciferin" height="30" width="40" /></a>
-</p>
+[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://bit.ly/m/laciferin)&nbsp;
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCJlpMeDKO2vi0kfUPBsi9aQ)&nbsp;
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/laciferin)&nbsp;
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/laciferin/)&nbsp;
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:laciferin@gmail.com)&nbsp;
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@laciferin)&nbsp;
 
 <br>
 
