@@ -6,15 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
 <!-- <p align="left"> <a href="https://twitter.com/laciferin" target="blank"><img src="https://img.shields.io/twitter/follow/laciferin?logo=twitter&style=for-the-badge" alt="laciferin" /></a> </p> -->
 
-## 📬 Connect with me:
-
-[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://bit.ly/m/laciferin)&nbsp;
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCJlpMeDKO2vi0kfUPBsi9aQ)&nbsp;
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/laciferin)&nbsp;
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/laciferin/)&nbsp;
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:laciferin@gmail.com)&nbsp;
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@laciferin)&nbsp;
-
 <br>
 
 - 🔭 I’m currently working on **Backend Engineering**
@@ -68,4 +59,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasfame&show_icons=true&locale=en&layout=compact&hide=CSS,Makefile,PHP,CMake,Powershell,TSQL,Java,HTML,Shell,Batchfile,SCSS" alt="Nasfame" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nasfame&show_icons=true&locale=en&&hide=javascript,html" alt="Nasfame" /></p>
+
+## 📬 Connect with me:
+
+[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://bit.ly/m/laciferin)&nbsp;
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCJlpMeDKO2vi0kfUPBsi9aQ)&nbsp;
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/laciferin)&nbsp;
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/laciferin/)&nbsp;
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:laciferin@gmail.com)&nbsp;
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@laciferin)&nbsp;
 
