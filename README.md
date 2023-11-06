@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **ML, AI, Web3, Zkproofs** 
 <!-- - 🤝 I’m looking for peer learners & experts on **Quantum Computing, ML** -->
 - 👨‍💻 Checkout my projects @ <b> [Nasfame](https://github.com/Nasfame), [Web3Musketeers](https://github.com/web3mustketeers/), [DecenterAI](https://github.com/DeCenter-AI/) </b>
-- 💬 Ask me your doubts on **OSS (Open Source) Go, Python, Javascript, BE/FE/Full Stack, Physics, Chemistry** 📝 
+- 💬 Ask me your doubts on **OSS,Go, Python, Javascript,BE (Backend)** 📝 
 - 🥅 2024 Goals: Build **Quantum Zkproofs**, <b> Multi-modal(video,audio,text) ML **AGI** model </b>
   <!-- - 💻 Coding/Programming - [@Nasfame](https://github.com/Nasfame) -->
 <!-- - 📫 Reach me @ <a href="mailto:laciferin@gmail.com"> Send Mail</a> -->
