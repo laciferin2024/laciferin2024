@@ -46,3 +46,14 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
+      - uses: vimtor/action-zip@v1.1
+        with:
+          files: ${{github.workspace}}/profile-3d-contrib
+          recursive: true
+          dest: profile-3d-contrib.zip
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: profile-3d-contrib.zip
+          path: ${{ github.workspace }}/profile-3d-contrib.zip
