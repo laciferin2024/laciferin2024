@@ -2,13 +2,16 @@ name: Update Github Activity
 
 on:
   push:
-    - main
+    branches:
+      - main
+    tags:
 
   pull_request:
-    - main
+    branches:
+      - main
 
   schedule: # 00:00 IST == 05:30 UTC
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
     # 00:00 IST == 05:30 UTC
     - cron: "30 5 * * *"
   workflow_dispatch:
