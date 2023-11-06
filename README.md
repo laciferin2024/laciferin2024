@@ -3,9 +3,9 @@
 <h2 align="center">Polyglot-Web2,3,ML,AI Engineer/Product Manager </h2>
 <!-- <h4 align="justify">I am a Backend Engineer. I kill time working on projects. I enjoy Problem-Solving (DS,Algo, Chess), AI Prompting & Automation for fun</h4> -->
 
-<!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g"> -->
-
-<img align="right" alt="Coding" width="400" src="./profile-3d-contrib/profile-south-season-animate.svg">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
+<!-- 
+<img align="right" alt="Coding" width="400" src="./profile-3d-contrib/profile-south-season-animate.svg"> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/laciferin" target="blank"><img src="https://img.shields.io/twitter/follow/laciferin?logo=twitter&style=for-the-badge" alt="laciferin" /></a> </p> -->
 
