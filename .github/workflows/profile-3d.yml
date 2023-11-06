@@ -58,7 +58,6 @@ jobs:
           add_options: "-u"
           # branch: "cron/date"
           create_branch: true
-          push_options: --force
 
       - name: "Run if changes have been detected"
         if: steps.auto-commit.outputs.changes_detected == 'true'
