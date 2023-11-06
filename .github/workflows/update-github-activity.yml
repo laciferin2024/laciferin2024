@@ -1,6 +1,15 @@
 name: Update Github Activity
 
 on:
+  # push: push not supported by this action
+  #   branches:
+  #     - main
+  #   tags:
+
+  pull_request:
+    branches:
+      - main
+
   schedule: # 00:00 IST == 05:30 UTC
     - cron: "*/5 * * * *"
     # 00:00 IST == 05:30 UTC
