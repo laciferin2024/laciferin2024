@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#63970](https://github.com/golang/go/issues/63970) in [golang/go](https://github.com/golang/go)
-2. 🗣 Commented on [#2993](https://github.com/bacalhau-project/bacalhau/pull/2993#issuecomment-1795522999) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. ❌ Closed PR [#2958](https://github.com/bacalhau-project/bacalhau/pull/2958) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-4. 🚀 Published release [v1.3.0](https://github.com/Nasfame/Nasfame/releases/tag/v1.3.0) in [Nasfame/Nasfame](https://github.com/Nasfame/Nasfame)
-5. 🎉 Merged PR [#2](https://github.com/Nasfame/Nasfame/pull/2) in [Nasfame/Nasfame](https://github.com/Nasfame/Nasfame)
+1. 🔒 Closed issue [#80](https://github.com/DeCenter-AI/app.decenterai.com/issues/80) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🎉 Merged PR [#112](https://github.com/DeCenter-AI/app.decenterai.com/pull/112) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. ❗ Opened issue [#63970](https://github.com/golang/go/issues/63970) in [golang/go](https://github.com/golang/go)
+4. 🗣 Commented on [#2993](https://github.com/bacalhau-project/bacalhau/pull/2993#issuecomment-1795522999) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. ❌ Closed PR [#2958](https://github.com/bacalhau-project/bacalhau/pull/2958) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
