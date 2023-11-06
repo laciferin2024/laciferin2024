@@ -10,8 +10,8 @@ on:
   #   branches:
   #     - main
 
-  schedule: # 00:00 IST == 05:30 UTC
-    - cron: "*/5 * * * *"
+  schedule: 
+    - cron: "* */2 * * *"
     # 00:00 IST == 05:30 UTC
     - cron: "30 5 * * *"
   workflow_dispatch:
