@@ -31,10 +31,10 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      # - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #     USERNAME: ${{ github.repository_owner }}
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -42,7 +42,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-contrib/hiro-rainbow.json
 
-      # - name: Commit & Push
+      # - name: Commit & Push 
       #   run: |
       #     git config user.name Baymax
       #     git config user.email laciferin@gmail.com
@@ -63,7 +63,8 @@ jobs:
           commit_message: "update: profile-3d"
           commit_options: "--no-verify --signoff"
           add_options: "-A"
-          # file_pattern: "profile-3d-contrib/*.svg" TODO: 
+          # file_pattern: "profile-3d-contrib/*.svg" #TODO:
+          file_pattern: "profile-3d-contrib/profile-night-rainbow.svg"
           skip_checkout: true
           create_branch: false
 

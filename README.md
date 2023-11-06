@@ -89,4 +89,5 @@
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:laciferin@gmail.com)&nbsp;
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@laciferin)&nbsp;
 
+<!-- TODO: when changing the below image make sure that u r updating the ci: L67 -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg"> 
