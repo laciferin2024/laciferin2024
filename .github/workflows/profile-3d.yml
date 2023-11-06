@@ -28,6 +28,9 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
       # - uses: yoshi389111/github-profile-3d-contrib@0.7.1
       #   env:
       #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -60,6 +63,7 @@ jobs:
           commit_message: "update: profile-3d"
           commit_options: "--no-verify --signoff"
           add_options: "-u"
+
 
       - name: "Run if changes have been detected"
         if: steps.auto-commit.outputs.changes_detected == 'true'
