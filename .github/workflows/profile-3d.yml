@@ -61,7 +61,6 @@ jobs:
           commit_options: "--no-verify --signoff"
           add_options: "-u"
           # branch: "cron/date"
-          create_branch: true
 
       - name: "Run if changes have been detected"
         if: steps.auto-commit.outputs.changes_detected == 'true'
