@@ -11,7 +11,7 @@ on:
       - main
 
   schedule: # 00:00 IST == 05:30 UTC
-    - cron: "*/20 * * * *"
+    - cron: "*/15 * * * *"
     # 00:00 IST == 05:30 UTC
     - cron: "30 5 * * *"
   workflow_dispatch:
