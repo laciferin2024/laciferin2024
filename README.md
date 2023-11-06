@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#80](https://github.com/DeCenter-AI/app.decenterai.com/issues/80) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🎉 Merged PR [#112](https://github.com/DeCenter-AI/app.decenterai.com/pull/112) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. ❗ Opened issue [#63970](https://github.com/golang/go/issues/63970) in [golang/go](https://github.com/golang/go)
-4. 🗣 Commented on [#2993](https://github.com/bacalhau-project/bacalhau/pull/2993#issuecomment-1795522999) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. ❌ Closed PR [#2958](https://github.com/bacalhau-project/bacalhau/pull/2958) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+1. 🗣 Commented on [#105](https://github.com/DeCenter-AI/app.decenterai.com/issues/105#issuecomment-1796346875) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. ❌ Closed PR [#115](https://github.com/DeCenter-AI/app.decenterai.com/pull/115) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🗣 Commented on [#115](https://github.com/DeCenter-AI/app.decenterai.com/pull/115#issuecomment-1796342766) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🔒 Closed issue [#80](https://github.com/DeCenter-AI/app.decenterai.com/issues/80) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🎉 Merged PR [#112](https://github.com/DeCenter-AI/app.decenterai.com/pull/112) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
