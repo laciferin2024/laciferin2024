@@ -1,9 +1,21 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
+  push:
+    - main
+
+  pull_request:
+    - main
+
+  schedule: # 00:00 IST == 05:30 UTC
+    - cron: "*/5 * * * *"
+    # 00:00 IST == 05:30 UTC
+    - cron: "30 5 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: git-commit
+  cancel-in-progress: false
 
 jobs:
   build:
