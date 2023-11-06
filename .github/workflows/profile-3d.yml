@@ -39,13 +39,31 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTINGS_JSON: profile-3d-contrib/rainbow.json
 
-      - name: Commit & Push
-        run: |
-          git config user.name Baymax
-          git config user.email laciferin@gmail.com
-          git add -A .
-          git commit -m "update: profile-3d"
-          git push
+      # - name: Commit & Push
+      #   run: |
+      #     git config user.name Baymax
+      #     git config user.email laciferin@gmail.com
+      #     git add -A .
+      #     git commit -m "update: profile-3d"
+      #     git push
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        id: auto-commit
+        with:
+          commit_message: "update: profile-3d"
+          commit_options: "--no-verify --signoff"
+          add_options: "-u"
+          # branch: "cron/date"
+          create_branch: true
+          push_options: --force
+
+      - name: "Run if changes have been detected"
+        if: steps.auto-commit.outputs.changes_detected == 'true'
+        run: echo "Changes!"
+
+      - name: "Run if no changes have been detected"
+        if: steps.auto-commit.outputs.changes_detected == 'false'
+        run: echo "No Changes!"
 
       - uses: vimtor/action-zip@v1.1
         with:
