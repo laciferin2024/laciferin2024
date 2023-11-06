@@ -70,11 +70,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Nasfame/Nasfame/pull/2) in [Nasfame/Nasfame](https://github.com/Nasfame/Nasfame)
-2. 💪 Opened PR [#2993](https://github.com/bacalhau-project/bacalhau/pull/2993) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. ❌ Closed PR [#2991](https://github.com/bacalhau-project/bacalhau/pull/2991) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-4. 💪 Opened PR [#2992](https://github.com/bacalhau-project/bacalhau/pull/2992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. 🚀 Published release [v1.0.0](https://github.com/Nasfame/Nasfame/releases/tag/v1.0.0) in [Nasfame/Nasfame](https://github.com/Nasfame/Nasfame)
+1. 🎉 Merged PR [#2](https://github.com/Nasfame/Nasfame/pull/2) in [Nasfame/Nasfame](https://github.com/Nasfame/Nasfame)
+2. 💪 Opened PR [#2](https://github.com/Nasfame/Nasfame/pull/2) in [Nasfame/Nasfame](https://github.com/Nasfame/Nasfame)
+3. 💪 Opened PR [#2993](https://github.com/bacalhau-project/bacalhau/pull/2993) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. ❌ Closed PR [#2991](https://github.com/bacalhau-project/bacalhau/pull/2991) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. 💪 Opened PR [#2992](https://github.com/bacalhau-project/bacalhau/pull/2992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
