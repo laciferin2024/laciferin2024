@@ -1,4 +1,4 @@
-<img src="./Hiro.svg"></img>  
+<img src="./Hiro.svg">
 
 <h2 align="center">Senior Polyglot-Web2,3,ML,AI Engineer/Product Manager </h2>
 <!-- <h4 align="justify">I am a Backend Engineer. I kill time working on projects. I enjoy Problem-Solving (DS,Algo, Chess), AI Prompting & Automation for fun</h4> -->
@@ -83,4 +83,4 @@
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:laciferin@gmail.com)&nbsp;
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@laciferin)&nbsp;
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"></img>  
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"> 
