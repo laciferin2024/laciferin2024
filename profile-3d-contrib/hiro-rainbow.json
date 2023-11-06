@@ -1,6 +1,6 @@
 {
-  "type": "rainbow",
-  "fileName": "profile-customize-rainbow.svg",
+  "type": "hiro-rainbow",
+  "fileName": "hiro-rainbow.svg",
   "backgroundColor": "#00000f",
   "foregroundColor": "#eeeeff",
   "strongColor": "rgb(255,200,55)",
