@@ -55,6 +55,19 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nasfame&show_icons=true&locale=en&&hide=javascript,html" alt="Nasfame" /></p>
 
+ ## ⭐ My projects
+
+* [open-source-chat: Documentation Chatbot](https://devpost.com/software/oschat)
+* [DecenterAI-PoC](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+* [DecenterAI](https://github.com/DeCenter-AI/app.decenterai.com/)
+* [DBResolver-Golang Database Resolver and Wrapper for any multiple database connections](https://github.com/bxcodec/dbresolver)
+* [Web3Sub](https://github.com/Web3Mustketeers/web3.sub)
+
+<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+
 ## 📬 Connect with me:
 
 [<img align="left" alt="codeSTACKr | Website" width="22px" src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://bit.ly/m/laciferin)&nbsp;
