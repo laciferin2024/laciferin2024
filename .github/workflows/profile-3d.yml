@@ -6,8 +6,8 @@ on:
       - main
     paths-ignore:
       - "profile-3d-contrib/*.svg"
-    paths:
-      - .github/workflows/profile-3d.yml
+    # paths:
+    #   - .github/workflows/profile-3d.yml
 
   # pull_request: need to set head_ref
   #   branches:
