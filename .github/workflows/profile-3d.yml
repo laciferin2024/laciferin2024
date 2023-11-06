@@ -63,7 +63,7 @@ jobs:
           commit_message: "update: profile-3d"
           commit_options: "--no-verify --signoff"
           add_options: "-A"
-          # file_pattern: "profile-3d-contrib/*.svg"
+          # file_pattern: "profile-3d-contrib/*.svg" TODO: 
           skip_checkout: true
           create_branch: false
 
