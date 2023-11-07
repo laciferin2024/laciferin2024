@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/golangFame/go/issues/9) in [golangFame/go](https://github.com/golangFame/go)
-2. 🎉 Merged PR [#6](https://github.com/golangFame/go/pull/6) in [golangFame/go](https://github.com/golangFame/go)
-3. 🎉 Merged PR [#8](https://github.com/golangFame/go/pull/8) in [golangFame/go](https://github.com/golangFame/go)
-4. 💪 Opened PR [#8](https://github.com/golangFame/go/pull/8) in [golangFame/go](https://github.com/golangFame/go)
-5. ❗ Opened issue [#116](https://github.com/DeCenter-AI/app.decenterai.com/issues/116) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 💪 Opened PR [#117](https://github.com/DeCenter-AI/app.decenterai.com/pull/117) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. ❗ Opened issue [#9](https://github.com/golangFame/go/issues/9) in [golangFame/go](https://github.com/golangFame/go)
+3. 🎉 Merged PR [#6](https://github.com/golangFame/go/pull/6) in [golangFame/go](https://github.com/golangFame/go)
+4. 🎉 Merged PR [#8](https://github.com/golangFame/go/pull/8) in [golangFame/go](https://github.com/golangFame/go)
+5. 💪 Opened PR [#8](https://github.com/golangFame/go/pull/8) in [golangFame/go](https://github.com/golangFame/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
