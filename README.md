@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/DeCenter-AI/app.decenterai.com/pull/117) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. ❗ Opened issue [#9](https://github.com/golangFame/go/issues/9) in [golangFame/go](https://github.com/golangFame/go)
-3. 🎉 Merged PR [#6](https://github.com/golangFame/go/pull/6) in [golangFame/go](https://github.com/golangFame/go)
-4. 🎉 Merged PR [#8](https://github.com/golangFame/go/pull/8) in [golangFame/go](https://github.com/golangFame/go)
-5. 💪 Opened PR [#8](https://github.com/golangFame/go/pull/8) in [golangFame/go](https://github.com/golangFame/go)
+1. 🗣 Commented on [#2993](https://github.com/bacalhau-project/bacalhau/pull/2993#issuecomment-1799277792) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🗣 Commented on [#117](https://github.com/DeCenter-AI/app.decenterai.com/pull/117#issuecomment-1799275875) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 💪 Opened PR [#117](https://github.com/DeCenter-AI/app.decenterai.com/pull/117) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. ❗ Opened issue [#9](https://github.com/golangFame/go/issues/9) in [golangFame/go](https://github.com/golangFame/go)
+5. 🎉 Merged PR [#6](https://github.com/golangFame/go/pull/6) in [golangFame/go](https://github.com/golangFame/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
