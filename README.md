@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1799885632) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1799883459) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. ❗ Opened issue [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-4. 🗣 Commented on [#2993](https://github.com/bacalhau-project/bacalhau/pull/2993#issuecomment-1799277792) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. 🗣 Commented on [#117](https://github.com/DeCenter-AI/app.decenterai.com/pull/117#issuecomment-1799275875) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. ❗ Opened issue [#119](https://github.com/DeCenter-AI/app.decenterai.com/issues/119) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1799959563) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1799885632) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1799883459) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. ❗ Opened issue [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
