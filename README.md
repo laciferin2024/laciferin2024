@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#119](https://github.com/DeCenter-AI/app.decenterai.com/issues/119) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🎉 Merged PR [#120](https://github.com/DeCenter-AI/app.decenterai.com/pull/120) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. ❗ Opened issue [#197705](https://github.com/microsoft/vscode/issues/197705) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#197703](https://github.com/microsoft/vscode/pull/197703#issuecomment-1801151772) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 💪 Opened PR [#197703](https://github.com/microsoft/vscode/pull/197703) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#121](https://github.com/DeCenter-AI/app.decenterai.com/issues/121) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🔒 Closed issue [#119](https://github.com/DeCenter-AI/app.decenterai.com/issues/119) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🎉 Merged PR [#120](https://github.com/DeCenter-AI/app.decenterai.com/pull/120) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. ❗ Opened issue [#197705](https://github.com/microsoft/vscode/issues/197705) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#197703](https://github.com/microsoft/vscode/pull/197703#issuecomment-1801151772) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
