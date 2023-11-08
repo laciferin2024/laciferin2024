@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#123](https://github.com/DeCenter-AI/app.decenterai.com/issues/123) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🎉 Merged PR [#124](https://github.com/DeCenter-AI/app.decenterai.com/pull/124) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🗣 Commented on [#124](https://github.com/DeCenter-AI/app.decenterai.com/pull/124#issuecomment-1802686153) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-4. 💪 Opened PR [#124](https://github.com/DeCenter-AI/app.decenterai.com/pull/124) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🔒 Closed issue [#104](https://github.com/DeCenter-AI/app.decenterai.com/issues/104) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. ❗ Opened issue [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. ❗ Opened issue [#125](https://github.com/DeCenter-AI/app.decenterai.com/issues/125) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🔒 Closed issue [#123](https://github.com/DeCenter-AI/app.decenterai.com/issues/123) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🎉 Merged PR [#124](https://github.com/DeCenter-AI/app.decenterai.com/pull/124) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🗣 Commented on [#124](https://github.com/DeCenter-AI/app.decenterai.com/pull/124#issuecomment-1802686153) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
