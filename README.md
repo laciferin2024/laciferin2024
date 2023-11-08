@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#197705](https://github.com/microsoft/vscode/issues/197705) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#197703](https://github.com/microsoft/vscode/pull/197703#issuecomment-1801151772) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💪 Opened PR [#197703](https://github.com/microsoft/vscode/pull/197703) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🎉 Merged PR [#117](https://github.com/DeCenter-AI/app.decenterai.com/pull/117) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🗣 Commented on [#63970](https://github.com/golang/go/issues/63970#issuecomment-1800097596) in [golang/go](https://github.com/golang/go)
+1. 🔒 Closed issue [#119](https://github.com/DeCenter-AI/app.decenterai.com/issues/119) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🎉 Merged PR [#120](https://github.com/DeCenter-AI/app.decenterai.com/pull/120) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. ❗ Opened issue [#197705](https://github.com/microsoft/vscode/issues/197705) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#197703](https://github.com/microsoft/vscode/pull/197703#issuecomment-1801151772) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💪 Opened PR [#197703](https://github.com/microsoft/vscode/pull/197703) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
