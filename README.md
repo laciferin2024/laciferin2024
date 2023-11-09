@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#64046](https://github.com/golang/go/issues/64046) in [golang/go](https://github.com/golang/go)
-2. 🎉 Merged PR [#127](https://github.com/DeCenter-AI/app.decenterai.com/pull/127) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🗣 Commented on [#21](https://github.com/chainwayxyz/bitcoin-da/issues/21#issuecomment-1803462355) in [chainwayxyz/bitcoin-da](https://github.com/chainwayxyz/bitcoin-da)
-4. 💪 Opened PR [#127](https://github.com/DeCenter-AI/app.decenterai.com/pull/127) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🚀 Published release [v0.1](https://github.com/Nasfame/hardhat-template/releases/tag/v0.1) in [Nasfame/hardhat-template](https://github.com/Nasfame/hardhat-template)
+1. 🔒 Closed issue [#113](https://github.com/DeCenter-AI/app.decenterai.com/issues/113) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🗣 Commented on [#107](https://github.com/DeCenter-AI/app.decenterai.com/issues/107#issuecomment-1804722715) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🗣 Commented on [#129](https://github.com/DeCenter-AI/app.decenterai.com/pull/129#issuecomment-1804721937) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🔒 Closed issue [#66](https://github.com/DeCenter-AI/app.decenterai.com/issues/66) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. ❗ Opened issue [#64046](https://github.com/golang/go/issues/64046) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
