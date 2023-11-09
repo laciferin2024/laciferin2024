@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#127](https://github.com/DeCenter-AI/app.decenterai.com/pull/127) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🚀 Published release [v0.1](https://github.com/Nasfame/hardhat-template/releases/tag/v0.1) in [Nasfame/hardhat-template](https://github.com/Nasfame/hardhat-template)
-3. 🎉 Merged PR [#1](https://github.com/Nasfame/hardhat-template/pull/1) in [Nasfame/hardhat-template](https://github.com/Nasfame/hardhat-template)
-4. 💪 Opened PR [#1](https://github.com/Nasfame/hardhat-template/pull/1) in [Nasfame/hardhat-template](https://github.com/Nasfame/hardhat-template)
-5. ❗ Opened issue [#3](https://github.com/DeCenter-AI/hiro/issues/3) in [DeCenter-AI/hiro](https://github.com/DeCenter-AI/hiro)
+1. 🎉 Merged PR [#127](https://github.com/DeCenter-AI/app.decenterai.com/pull/127) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🗣 Commented on [#21](https://github.com/chainwayxyz/bitcoin-da/issues/21#issuecomment-1803462355) in [chainwayxyz/bitcoin-da](https://github.com/chainwayxyz/bitcoin-da)
+3. 💪 Opened PR [#127](https://github.com/DeCenter-AI/app.decenterai.com/pull/127) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🚀 Published release [v0.1](https://github.com/Nasfame/hardhat-template/releases/tag/v0.1) in [Nasfame/hardhat-template](https://github.com/Nasfame/hardhat-template)
+5. 🎉 Merged PR [#1](https://github.com/Nasfame/hardhat-template/pull/1) in [Nasfame/hardhat-template](https://github.com/Nasfame/hardhat-template)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
