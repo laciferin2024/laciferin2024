@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#132](https://github.com/DeCenter-AI/app.decenterai.com/issues/132) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. ❗ Opened issue [#131](https://github.com/DeCenter-AI/app.decenterai.com/issues/131) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🗣 Commented on [#64046](https://github.com/golang/go/issues/64046#issuecomment-1804890578) in [golang/go](https://github.com/golang/go)
-4. 🗣 Commented on [#64046](https://github.com/golang/go/issues/64046#issuecomment-1804887941) in [golang/go](https://github.com/golang/go)
-5. ❗ Opened issue [#130](https://github.com/DeCenter-AI/app.decenterai.com/issues/130) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 🗣 Commented on [#8](https://github.com/DeCenter-AI/decenterai-demo.streamlit/pull/8#issuecomment-1805000764) in [DeCenter-AI/decenterai-demo.streamlit](https://github.com/DeCenter-AI/decenterai-demo.streamlit)
+2. ❗ Opened issue [#132](https://github.com/DeCenter-AI/app.decenterai.com/issues/132) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. ❗ Opened issue [#131](https://github.com/DeCenter-AI/app.decenterai.com/issues/131) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🗣 Commented on [#64046](https://github.com/golang/go/issues/64046#issuecomment-1804890578) in [golang/go](https://github.com/golang/go)
+5. 🗣 Commented on [#64046](https://github.com/golang/go/issues/64046#issuecomment-1804887941) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
