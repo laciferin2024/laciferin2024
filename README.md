@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#52](https://github.com/DeCenter-AI/app.decenterai.com/issues/52) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🗣 Commented on [#52](https://github.com/DeCenter-AI/app.decenterai.com/issues/52#issuecomment-1805267267) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🔒 Closed issue [#116](https://github.com/DeCenter-AI/app.decenterai.com/issues/116) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-4. 🎉 Merged PR [#128](https://github.com/DeCenter-AI/app.decenterai.com/pull/128) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🎉 Merged PR [#8](https://github.com/DeCenter-AI/decenterai-demo.streamlit/pull/8) in [DeCenter-AI/decenterai-demo.streamlit](https://github.com/DeCenter-AI/decenterai-demo.streamlit)
+1. 🗣 Commented on [#64046](https://github.com/golang/go/issues/64046#issuecomment-1805419898) in [golang/go](https://github.com/golang/go)
+2. 🔒 Closed issue [#52](https://github.com/DeCenter-AI/app.decenterai.com/issues/52) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🗣 Commented on [#52](https://github.com/DeCenter-AI/app.decenterai.com/issues/52#issuecomment-1805267267) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🔒 Closed issue [#116](https://github.com/DeCenter-AI/app.decenterai.com/issues/116) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🎉 Merged PR [#128](https://github.com/DeCenter-AI/app.decenterai.com/pull/128) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
