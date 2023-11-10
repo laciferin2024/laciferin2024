@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/DeCenter-AI/decenterai-demo.streamlit/pull/8) in [DeCenter-AI/decenterai-demo.streamlit](https://github.com/DeCenter-AI/decenterai-demo.streamlit)
-2. 💪 Opened PR [#133](https://github.com/DeCenter-AI/app.decenterai.com/pull/133) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🔒 Closed issue [#4163](https://github.com/quic-go/quic-go/issues/4163) in [quic-go/quic-go](https://github.com/quic-go/quic-go)
-4. 🗣 Commented on [#4163](https://github.com/quic-go/quic-go/issues/4163#issuecomment-1805039258) in [quic-go/quic-go](https://github.com/quic-go/quic-go)
-5. ❗ Opened issue [#4163](https://github.com/quic-go/quic-go/issues/4163) in [quic-go/quic-go](https://github.com/quic-go/quic-go)
+1. 🔒 Closed issue [#52](https://github.com/DeCenter-AI/app.decenterai.com/issues/52) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🗣 Commented on [#52](https://github.com/DeCenter-AI/app.decenterai.com/issues/52#issuecomment-1805267267) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🔒 Closed issue [#116](https://github.com/DeCenter-AI/app.decenterai.com/issues/116) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🎉 Merged PR [#128](https://github.com/DeCenter-AI/app.decenterai.com/pull/128) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🎉 Merged PR [#8](https://github.com/DeCenter-AI/decenterai-demo.streamlit/pull/8) in [DeCenter-AI/decenterai-demo.streamlit](https://github.com/DeCenter-AI/decenterai-demo.streamlit)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
