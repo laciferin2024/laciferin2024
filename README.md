@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14545](https://github.com/MinaProtocol/mina/issues/14545) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
-2. 🗣 Commented on [#14544](https://github.com/MinaProtocol/mina/issues/14544#issuecomment-1806929557) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
-3. ❗ Opened issue [#14544](https://github.com/MinaProtocol/mina/issues/14544) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
-4. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1806911411) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1806911270) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. ❗ Opened issue [#14546](https://github.com/MinaProtocol/mina/issues/14546) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
+2. ❗ Opened issue [#14545](https://github.com/MinaProtocol/mina/issues/14545) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
+3. 🗣 Commented on [#14544](https://github.com/MinaProtocol/mina/issues/14544#issuecomment-1806929557) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
+4. ❗ Opened issue [#14544](https://github.com/MinaProtocol/mina/issues/14544) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
+5. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1806911411) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
