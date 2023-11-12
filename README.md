@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1807029610) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1807029551) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1807029416) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-4. ❗ Opened issue [#14546](https://github.com/MinaProtocol/mina/issues/14546) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
-5. ❗ Opened issue [#14545](https://github.com/MinaProtocol/mina/issues/14545) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
+1. ❌ Closed PR [#141](https://github.com/DeCenter-AI/app.decenterai.com/pull/141) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🗣 Commented on [#107](https://github.com/DeCenter-AI/app.decenterai.com/issues/107#issuecomment-1807218893) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1807029610) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1807029551) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1807029416) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
