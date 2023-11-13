@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#130](https://github.com/DeCenter-AI/app.decenterai.com/issues/130) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🎉 Merged PR [#138](https://github.com/DeCenter-AI/app.decenterai.com/pull/138) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🗣 Commented on [#147](https://github.com/DeCenter-AI/app.decenterai.com/issues/147#issuecomment-1809066246) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-4. ❗ Opened issue [#147](https://github.com/DeCenter-AI/app.decenterai.com/issues/147) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🔒 Closed issue [#144](https://github.com/DeCenter-AI/app.decenterai.com/issues/144) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 🗣 Commented on [#61702](https://github.com/golang/go/pull/61702#issuecomment-1809084484) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#10752](https://github.com/MinaProtocol/mina/issues/10752#issuecomment-1809081918) in [MinaProtocol/mina](https://github.com/MinaProtocol/mina)
+3. 🔒 Closed issue [#130](https://github.com/DeCenter-AI/app.decenterai.com/issues/130) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🎉 Merged PR [#138](https://github.com/DeCenter-AI/app.decenterai.com/pull/138) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🗣 Commented on [#147](https://github.com/DeCenter-AI/app.decenterai.com/issues/147#issuecomment-1809066246) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
