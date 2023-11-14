@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1811128069) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🗣 Commented on [#130](https://github.com/DeCenter-AI/app.decenterai.com/issues/130#issuecomment-1811116757) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811045166) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-4. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1810218598) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🗣 Commented on [#142](https://github.com/DeCenter-AI/app.decenterai.com/pull/142#issuecomment-1810218264) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1811158298) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🗣 Commented on [#3](https://github.com/Particle-Network/particle-network-docs/issues/3#issuecomment-1811153982) in [Particle-Network/particle-network-docs](https://github.com/Particle-Network/particle-network-docs)
+3. ❗ Opened issue [#3](https://github.com/Particle-Network/particle-network-docs/issues/3) in [Particle-Network/particle-network-docs](https://github.com/Particle-Network/particle-network-docs)
+4. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1811128069) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🗣 Commented on [#130](https://github.com/DeCenter-AI/app.decenterai.com/issues/130#issuecomment-1811116757) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
