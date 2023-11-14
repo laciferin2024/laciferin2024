@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/DeCenter-AI/app.decenterai.com/pull/148) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🎉 Merged PR [#133](https://github.com/DeCenter-AI/app.decenterai.com/pull/133) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. ❗ Opened issue [#36](https://github.com/bacalhau-project/lilypad/issues/36) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-4. 🔓 Reopened issue [#130](https://github.com/DeCenter-AI/app.decenterai.com/issues/130) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🗣 Commented on [#61702](https://github.com/golang/go/pull/61702#issuecomment-1809084484) in [golang/go](https://github.com/golang/go)
+1. ❗ Opened issue [#2](https://github.com/datasci888/AISmartTask/issues/2) in [datasci888/AISmartTask](https://github.com/datasci888/AISmartTask)
+2. ❗ Opened issue [#1](https://github.com/datasci888/AISmartTask/issues/1) in [datasci888/AISmartTask](https://github.com/datasci888/AISmartTask)
+3. 💪 Opened PR [#148](https://github.com/DeCenter-AI/app.decenterai.com/pull/148) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🎉 Merged PR [#133](https://github.com/DeCenter-AI/app.decenterai.com/pull/133) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. ❗ Opened issue [#36](https://github.com/bacalhau-project/lilypad/issues/36) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
