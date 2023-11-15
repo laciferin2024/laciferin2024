@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811843642) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-2. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811831733) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-3. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811787081) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-4. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1811158298) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🗣 Commented on [#3](https://github.com/Particle-Network/particle-network-docs/issues/3#issuecomment-1811153982) in [Particle-Network/particle-network-docs](https://github.com/Particle-Network/particle-network-docs)
+1. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811863279) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+2. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811860421) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+3. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1811858644) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🗣 Commented on [#3](https://github.com/Particle-Network/particle-network-docs/issues/3#issuecomment-1811858083) in [Particle-Network/particle-network-docs](https://github.com/Particle-Network/particle-network-docs)
+5. 🔒 Closed issue [#3](https://github.com/Particle-Network/particle-network-docs/issues/3) in [Particle-Network/particle-network-docs](https://github.com/Particle-Network/particle-network-docs)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
