@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811863279) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-2. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811860421) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-3. 🗣 Commented on [#118](https://github.com/DeCenter-AI/app.decenterai.com/issues/118#issuecomment-1811858644) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-4. 🗣 Commented on [#3](https://github.com/Particle-Network/particle-network-docs/issues/3#issuecomment-1811858083) in [Particle-Network/particle-network-docs](https://github.com/Particle-Network/particle-network-docs)
-5. 🔒 Closed issue [#3](https://github.com/Particle-Network/particle-network-docs/issues/3) in [Particle-Network/particle-network-docs](https://github.com/Particle-Network/particle-network-docs)
+1. 🗣 Commented on [#9](https://github.com/aru-py/programmer-colemak/issues/9#issuecomment-1812005045) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
+2. ❗ Opened issue [#9](https://github.com/aru-py/programmer-colemak/issues/9) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
+3. 🗣 Commented on [#8](https://github.com/aru-py/programmer-colemak/issues/8#issuecomment-1811998832) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
+4. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811998126) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+5. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1811994394) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
