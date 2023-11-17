@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#117](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/117) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-2. 🔒 Closed issue [#115](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/115) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-3. 🎉 Merged PR [#116](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/pull/116) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-4. ❗ Opened issue [#115](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/115) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-5. ❗ Opened issue [#114](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/114) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+1. 🗣 Commented on [#9](https://github.com/aru-py/programmer-colemak/issues/9#issuecomment-1815683287) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
+2. ❗ Opened issue [#117](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/117) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+3. 🔒 Closed issue [#115](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/115) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+4. 🎉 Merged PR [#116](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/pull/116) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+5. ❗ Opened issue [#115](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/115) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
