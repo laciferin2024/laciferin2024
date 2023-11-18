@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/aru-py/programmer-colemak/issues/9#issuecomment-1815707418) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
-2. 🗣 Commented on [#9](https://github.com/aru-py/programmer-colemak/issues/9#issuecomment-1815683287) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
-3. ❗ Opened issue [#117](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/117) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-4. 🔒 Closed issue [#115](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/115) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-5. 🎉 Merged PR [#116](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/pull/116) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+1. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817284932) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+2. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817282422) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+3. 🗣 Commented on [#9](https://github.com/aru-py/programmer-colemak/issues/9#issuecomment-1815707418) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
+4. 🗣 Commented on [#9](https://github.com/aru-py/programmer-colemak/issues/9#issuecomment-1815683287) in [aru-py/programmer-colemak](https://github.com/aru-py/programmer-colemak)
+5. ❗ Opened issue [#117](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/117) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
