@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/bacalhau-project/lilypad/pull/41) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-2. ❗ Opened issue [#119](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/119) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-3. 🗣 Commented on [#27](https://github.com/bacalhau-project/lilypad/issues/27#issuecomment-1817593356) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-4. 🗣 Commented on [#30](https://github.com/bacalhau-project/lilypad/issues/30#issuecomment-1817593268) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-5. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817407087) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+1. 💪 Opened PR [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. ❗ Opened issue [#3029](https://github.com/bacalhau-project/bacalhau/issues/3029) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+3. 💪 Opened PR [#41](https://github.com/bacalhau-project/lilypad/pull/41) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+4. ❗ Opened issue [#119](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/119) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+5. 🗣 Commented on [#27](https://github.com/bacalhau-project/lilypad/issues/27#issuecomment-1817593356) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
