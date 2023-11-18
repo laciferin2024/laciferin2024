@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/bacalhau-project/lilypad/issues/27#issuecomment-1817593356) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-2. 🗣 Commented on [#30](https://github.com/bacalhau-project/lilypad/issues/30#issuecomment-1817593268) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-3. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817407087) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-4. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817284932) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-5. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817282422) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+1. ❗ Opened issue [#119](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/119) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+2. 🗣 Commented on [#27](https://github.com/bacalhau-project/lilypad/issues/27#issuecomment-1817593356) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+3. 🗣 Commented on [#30](https://github.com/bacalhau-project/lilypad/issues/30#issuecomment-1817593268) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+4. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817407087) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+5. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817284932) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
