@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21182](https://github.com/golang/go/issues/21182#issuecomment-1817816421) in [golang/go](https://github.com/golang/go)
-2. 💪 Opened PR [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. ❗ Opened issue [#3029](https://github.com/bacalhau-project/bacalhau/issues/3029) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-4. 💪 Opened PR [#41](https://github.com/bacalhau-project/lilypad/pull/41) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-5. ❗ Opened issue [#119](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/119) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+1. 🗣 Commented on [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030#issuecomment-1817829461) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🗣 Commented on [#21182](https://github.com/golang/go/issues/21182#issuecomment-1817816421) in [golang/go](https://github.com/golang/go)
+3. 💪 Opened PR [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. ❗ Opened issue [#3029](https://github.com/bacalhau-project/bacalhau/issues/3029) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. 💪 Opened PR [#41](https://github.com/bacalhau-project/lilypad/pull/41) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
