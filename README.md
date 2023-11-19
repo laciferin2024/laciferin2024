@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/117#issuecomment-1817907017) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-2. 🔒 Closed issue [#117](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/117) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-3. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1817834833) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-4. 🗣 Commented on [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030#issuecomment-1817829461) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. 🗣 Commented on [#21182](https://github.com/golang/go/issues/21182#issuecomment-1817816421) in [golang/go](https://github.com/golang/go)
+1. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1817962691) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🗣 Commented on [#107](https://github.com/DeCenter-AI/app.decenterai.com/issues/107#issuecomment-1817962608) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+3. 🗣 Commented on [#25](https://github.com/DeCenter-AI/compute.decenterai/issues/25#issuecomment-1817962523) in [DeCenter-AI/compute.decenterai](https://github.com/DeCenter-AI/compute.decenterai)
+4. 🗣 Commented on [#132](https://github.com/DeCenter-AI/app.decenterai.com/issues/132#issuecomment-1817962433) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🗣 Commented on [#109](https://github.com/DeCenter-AI/app.decenterai.com/issues/109#issuecomment-1817962335) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
