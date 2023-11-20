@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1817962691) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-2. 🗣 Commented on [#107](https://github.com/DeCenter-AI/app.decenterai.com/issues/107#issuecomment-1817962608) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🗣 Commented on [#25](https://github.com/DeCenter-AI/compute.decenterai/issues/25#issuecomment-1817962523) in [DeCenter-AI/compute.decenterai](https://github.com/DeCenter-AI/compute.decenterai)
-4. 🗣 Commented on [#132](https://github.com/DeCenter-AI/app.decenterai.com/issues/132#issuecomment-1817962433) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🗣 Commented on [#109](https://github.com/DeCenter-AI/app.decenterai.com/issues/109#issuecomment-1817962335) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 🗣 Commented on [#1965](https://github.com/comfyanonymous/ComfyUI/issues/1965#issuecomment-1818344449) in [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+2. 🗣 Commented on [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030#issuecomment-1818342752) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+3. 🗣 Commented on [#3029](https://github.com/bacalhau-project/bacalhau/issues/3029#issuecomment-1818338348) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. ❗ Opened issue [#42](https://github.com/bacalhau-project/lilypad/issues/42) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+5. 🗣 Commented on [#126](https://github.com/DeCenter-AI/app.decenterai.com/issues/126#issuecomment-1817962691) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
