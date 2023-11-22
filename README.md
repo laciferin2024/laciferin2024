@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#291](https://github.com/bacalhau-project/docs.bacalhau.org/pull/291#issuecomment-1820440825) in [bacalhau-project/docs.bacalhau.org](https://github.com/bacalhau-project/docs.bacalhau.org)
-2. 🗣 Commented on [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030#issuecomment-1820439024) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🗣 Commented on [#291](https://github.com/bacalhau-project/docs.bacalhau.org/pull/291#issuecomment-1820437751) in [bacalhau-project/docs.bacalhau.org](https://github.com/bacalhau-project/docs.bacalhau.org)
-4. 💪 Opened PR [#291](https://github.com/bacalhau-project/docs.bacalhau.org/pull/291) in [bacalhau-project/docs.bacalhau.org](https://github.com/bacalhau-project/docs.bacalhau.org)
-5. 🗣 Commented on [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030#issuecomment-1818475182) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+1. ❌ Closed PR [#20](https://github.com/golangFame/go/pull/20) in [golangFame/go](https://github.com/golangFame/go)
+2. 💪 Opened PR [#20](https://github.com/golangFame/go/pull/20) in [golangFame/go](https://github.com/golangFame/go)
+3. 🗣 Commented on [#291](https://github.com/bacalhau-project/docs.bacalhau.org/pull/291#issuecomment-1820440825) in [bacalhau-project/docs.bacalhau.org](https://github.com/bacalhau-project/docs.bacalhau.org)
+4. 🗣 Commented on [#3030](https://github.com/bacalhau-project/bacalhau/pull/3030#issuecomment-1820439024) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. 🗣 Commented on [#291](https://github.com/bacalhau-project/docs.bacalhau.org/pull/291#issuecomment-1820437751) in [bacalhau-project/docs.bacalhau.org](https://github.com/bacalhau-project/docs.bacalhau.org)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
