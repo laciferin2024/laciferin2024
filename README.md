@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64351](https://github.com/golang/go/issues/64351#issuecomment-1824809048) in [golang/go](https://github.com/golang/go)
-2. ❗ Opened issue [#64367](https://github.com/golang/go/issues/64367) in [golang/go](https://github.com/golang/go)
-3. ❗ Opened issue [#32](https://github.com/Web3Mustketeers/web3.sub/issues/32) in [Web3Mustketeers/web3.sub](https://github.com/Web3Mustketeers/web3.sub)
-4. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1824049688) in [golang/go](https://github.com/golang/go)
-5. 🗣 Commented on [#153](https://github.com/DeCenter-AI/app.decenterai.com/pull/153#issuecomment-1823916655) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 💪 Opened PR [#64368](https://github.com/golang/go/pull/64368) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#64351](https://github.com/golang/go/issues/64351#issuecomment-1824809048) in [golang/go](https://github.com/golang/go)
+3. ❗ Opened issue [#64367](https://github.com/golang/go/issues/64367) in [golang/go](https://github.com/golang/go)
+4. ❗ Opened issue [#32](https://github.com/Web3Mustketeers/web3.sub/issues/32) in [Web3Mustketeers/web3.sub](https://github.com/Web3Mustketeers/web3.sub)
+5. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1824049688) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
