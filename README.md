@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64351](https://github.com/golang/go/issues/64351#issuecomment-1825925215) in [golang/go](https://github.com/golang/go)
-2. 💪 Opened PR [#64368](https://github.com/golang/go/pull/64368) in [golang/go](https://github.com/golang/go)
-3. 🗣 Commented on [#64351](https://github.com/golang/go/issues/64351#issuecomment-1824809048) in [golang/go](https://github.com/golang/go)
-4. ❗ Opened issue [#64367](https://github.com/golang/go/issues/64367) in [golang/go](https://github.com/golang/go)
-5. ❗ Opened issue [#32](https://github.com/Web3Mustketeers/web3.sub/issues/32) in [Web3Mustketeers/web3.sub](https://github.com/Web3Mustketeers/web3.sub)
+1. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1825939876) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#64351](https://github.com/golang/go/issues/64351#issuecomment-1825925215) in [golang/go](https://github.com/golang/go)
+3. 💪 Opened PR [#64368](https://github.com/golang/go/pull/64368) in [golang/go](https://github.com/golang/go)
+4. 🗣 Commented on [#64351](https://github.com/golang/go/issues/64351#issuecomment-1824809048) in [golang/go](https://github.com/golang/go)
+5. ❗ Opened issue [#64367](https://github.com/golang/go/issues/64367) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
