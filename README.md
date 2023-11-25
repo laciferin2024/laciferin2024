@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197705](https://github.com/microsoft/vscode/issues/197705#issuecomment-1826351031) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🔒 Closed issue [#155](https://github.com/DeCenter-AI/app.decenterai.com/issues/155) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🔓 Reopened issue [#155](https://github.com/DeCenter-AI/app.decenterai.com/issues/155) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 🎉 Merged PR [#1](https://github.com/Nasfame/colemak-arabic/pull/1) in [Nasfame/colemak-arabic](https://github.com/Nasfame/colemak-arabic)
+2. 💪 Opened PR [#1](https://github.com/Nasfame/colemak-arabic/pull/1) in [Nasfame/colemak-arabic](https://github.com/Nasfame/colemak-arabic)
+3. 🗣 Commented on [#197705](https://github.com/microsoft/vscode/issues/197705#issuecomment-1826351031) in [microsoft/vscode](https://github.com/microsoft/vscode)
 4. 🔒 Closed issue [#155](https://github.com/DeCenter-AI/app.decenterai.com/issues/155) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. ❗ Opened issue [#155](https://github.com/DeCenter-AI/app.decenterai.com/issues/155) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+5. 🔓 Reopened issue [#155](https://github.com/DeCenter-AI/app.decenterai.com/issues/155) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
