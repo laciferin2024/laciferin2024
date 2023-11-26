@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#64388](https://github.com/golang/go/issues/64388) in [golang/go](https://github.com/golang/go)
-2. 🎉 Merged PR [#1](https://github.com/Nasfame/colemak-arabic/pull/1) in [Nasfame/colemak-arabic](https://github.com/Nasfame/colemak-arabic)
-3. 💪 Opened PR [#1](https://github.com/Nasfame/colemak-arabic/pull/1) in [Nasfame/colemak-arabic](https://github.com/Nasfame/colemak-arabic)
-4. 🗣 Commented on [#197705](https://github.com/microsoft/vscode/issues/197705#issuecomment-1826351031) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🔒 Closed issue [#155](https://github.com/DeCenter-AI/app.decenterai.com/issues/155) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+1. 🗣 Commented on [#64388](https://github.com/golang/go/issues/64388#issuecomment-1826846303) in [golang/go](https://github.com/golang/go)
+2. ❗ Opened issue [#64388](https://github.com/golang/go/issues/64388) in [golang/go](https://github.com/golang/go)
+3. 🎉 Merged PR [#1](https://github.com/Nasfame/colemak-arabic/pull/1) in [Nasfame/colemak-arabic](https://github.com/Nasfame/colemak-arabic)
+4. 💪 Opened PR [#1](https://github.com/Nasfame/colemak-arabic/pull/1) in [Nasfame/colemak-arabic](https://github.com/Nasfame/colemak-arabic)
+5. 🗣 Commented on [#197705](https://github.com/microsoft/vscode/issues/197705#issuecomment-1826351031) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
