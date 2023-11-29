@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/bacalhau-project/lilypad/pull/43) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-2. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1830703275) in [golang/go](https://github.com/golang/go)
-3. 💪 Opened PR [#64415](https://github.com/golang/go/pull/64415) in [golang/go](https://github.com/golang/go)
-4. ❗ Opened issue [#128](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/128) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-5. 🗣 Commented on [#127](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/127#issuecomment-1828888456) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+1. ❗ Opened issue [#131](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/131) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+2. 💪 Opened PR [#43](https://github.com/bacalhau-project/lilypad/pull/43) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+3. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1830703275) in [golang/go](https://github.com/golang/go)
+4. 💪 Opened PR [#64415](https://github.com/golang/go/pull/64415) in [golang/go](https://github.com/golang/go)
+5. ❗ Opened issue [#128](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/128) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
