@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
-2. 💪 Opened PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
-3. 🚀 Published release [v0.4.1](https://github.com/AIFame/boteach/releases/tag/v0.4.1) in [AIFame/boteach](https://github.com/AIFame/boteach)
-4. 🎉 Merged PR [#11](https://github.com/AIFame/boteach/pull/11) in [AIFame/boteach](https://github.com/AIFame/boteach)
-5. 🚀 Published release [v0.4.0](https://github.com/AIFame/boteach/releases/tag/v0.4.0) in [AIFame/boteach](https://github.com/AIFame/boteach)
+1. 🚀 Published release [v0.5.0](https://github.com/AIFame/boteach/releases/tag/v0.5.0) in [AIFame/boteach](https://github.com/AIFame/boteach)
+2. 🎉 Merged PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
+3. 💪 Opened PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
+4. 🚀 Published release [v0.4.1](https://github.com/AIFame/boteach/releases/tag/v0.4.1) in [AIFame/boteach](https://github.com/AIFame/boteach)
+5. 🎉 Merged PR [#11](https://github.com/AIFame/boteach/pull/11) in [AIFame/boteach](https://github.com/AIFame/boteach)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
