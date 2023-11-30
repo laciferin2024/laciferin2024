@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/AIFame/boteach/releases/tag/v0.5.0) in [AIFame/boteach](https://github.com/AIFame/boteach)
-2. 🎉 Merged PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
-3. 💪 Opened PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
-4. 🚀 Published release [v0.4.1](https://github.com/AIFame/boteach/releases/tag/v0.4.1) in [AIFame/boteach](https://github.com/AIFame/boteach)
-5. 🎉 Merged PR [#11](https://github.com/AIFame/boteach/pull/11) in [AIFame/boteach](https://github.com/AIFame/boteach)
+1. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1834540694) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+2. 🚀 Published release [v0.5.0](https://github.com/AIFame/boteach/releases/tag/v0.5.0) in [AIFame/boteach](https://github.com/AIFame/boteach)
+3. 🎉 Merged PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
+4. 💪 Opened PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
+5. 🚀 Published release [v0.4.1](https://github.com/AIFame/boteach/releases/tag/v0.4.1) in [AIFame/boteach](https://github.com/AIFame/boteach)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
