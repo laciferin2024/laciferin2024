@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1841113860) in [golang/go](https://github.com/golang/go)
-2. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1834540694) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-3. 🚀 Published release [v0.5.0](https://github.com/AIFame/boteach/releases/tag/v0.5.0) in [AIFame/boteach](https://github.com/AIFame/boteach)
-4. 🎉 Merged PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
-5. 💪 Opened PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
+1. 🗣 Commented on [#439](https://github.com/actions/setup-go/issues/439#issuecomment-1844872878) in [actions/setup-go](https://github.com/actions/setup-go)
+2. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1841113860) in [golang/go](https://github.com/golang/go)
+3. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1834540694) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+4. 🚀 Published release [v0.5.0](https://github.com/AIFame/boteach/releases/tag/v0.5.0) in [AIFame/boteach](https://github.com/AIFame/boteach)
+5. 🎉 Merged PR [#12](https://github.com/AIFame/boteach/pull/12) in [AIFame/boteach](https://github.com/AIFame/boteach)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
