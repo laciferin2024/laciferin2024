@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#952](https://github.com/waku-org/go-waku/pull/952) in [waku-org/go-waku](https://github.com/waku-org/go-waku)
-2. 🗣 Commented on [#439](https://github.com/actions/setup-go/issues/439#issuecomment-1844872878) in [actions/setup-go](https://github.com/actions/setup-go)
-3. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1841113860) in [golang/go](https://github.com/golang/go)
-4. 🗣 Commented on [#140](https://github.com/DeCenter-AI/app.decenterai.com/pull/140#issuecomment-1834540694) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-5. 🚀 Published release [v0.5.0](https://github.com/AIFame/boteach/releases/tag/v0.5.0) in [AIFame/boteach](https://github.com/AIFame/boteach)
+1. 🗣 Commented on [#953](https://github.com/waku-org/go-waku/issues/953#issuecomment-1848284519) in [waku-org/go-waku](https://github.com/waku-org/go-waku)
+2. ❗ Opened issue [#953](https://github.com/waku-org/go-waku/issues/953) in [waku-org/go-waku](https://github.com/waku-org/go-waku)
+3. 💪 Opened PR [#952](https://github.com/waku-org/go-waku/pull/952) in [waku-org/go-waku](https://github.com/waku-org/go-waku)
+4. 🗣 Commented on [#439](https://github.com/actions/setup-go/issues/439#issuecomment-1844872878) in [actions/setup-go](https://github.com/actions/setup-go)
+5. 🗣 Commented on [#64332](https://github.com/golang/go/issues/64332#issuecomment-1841113860) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
