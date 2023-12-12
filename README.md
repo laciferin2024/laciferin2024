@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/owenthereal/goup/issues/59#issuecomment-1852787996) in [owenthereal/goup](https://github.com/owenthereal/goup)
-2. ❗ Opened issue [#59](https://github.com/owenthereal/goup/issues/59) in [owenthereal/goup](https://github.com/owenthereal/goup)
-3. 💪 Opened PR [#58](https://github.com/owenthereal/goup/pull/58) in [owenthereal/goup](https://github.com/owenthereal/goup)
-4. 🗣 Commented on [#953](https://github.com/waku-org/go-waku/issues/953#issuecomment-1848284519) in [waku-org/go-waku](https://github.com/waku-org/go-waku)
-5. ❗ Opened issue [#953](https://github.com/waku-org/go-waku/issues/953) in [waku-org/go-waku](https://github.com/waku-org/go-waku)
+1. 🗣 Commented on [#61696](https://github.com/golang/go/issues/61696#issuecomment-1852926060) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#59](https://github.com/owenthereal/goup/issues/59#issuecomment-1852787996) in [owenthereal/goup](https://github.com/owenthereal/goup)
+3. ❗ Opened issue [#59](https://github.com/owenthereal/goup/issues/59) in [owenthereal/goup](https://github.com/owenthereal/goup)
+4. 💪 Opened PR [#58](https://github.com/owenthereal/goup/pull/58) in [owenthereal/goup](https://github.com/owenthereal/goup)
+5. 🗣 Commented on [#953](https://github.com/waku-org/go-waku/issues/953#issuecomment-1848284519) in [waku-org/go-waku](https://github.com/waku-org/go-waku)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
