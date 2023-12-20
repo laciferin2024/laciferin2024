@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569438) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-2. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569436) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-3. 🗣 Commented on [#196842](https://github.com/microsoft/vscode/issues/196842#issuecomment-1859134544) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#61696](https://github.com/golang/go/issues/61696#issuecomment-1852926060) in [golang/go](https://github.com/golang/go)
-5. 🗣 Commented on [#59](https://github.com/owenthereal/goup/issues/59#issuecomment-1852787996) in [owenthereal/goup](https://github.com/owenthereal/goup)
+1. 🗣 Commented on [#439](https://github.com/actions/setup-go/issues/439#issuecomment-1864113913) in [actions/setup-go](https://github.com/actions/setup-go)
+2. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569438) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+3. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569436) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+4. 🗣 Commented on [#196842](https://github.com/microsoft/vscode/issues/196842#issuecomment-1859134544) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#61696](https://github.com/golang/go/issues/61696#issuecomment-1852926060) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
