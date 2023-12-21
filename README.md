@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1077](https://github.com/coreybutler/nvm-windows/issues/1077) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-2. 🗣 Commented on [#439](https://github.com/actions/setup-go/issues/439#issuecomment-1864113913) in [actions/setup-go](https://github.com/actions/setup-go)
-3. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569438) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-4. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569436) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-5. 🗣 Commented on [#196842](https://github.com/microsoft/vscode/issues/196842#issuecomment-1859134544) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#1](https://github.com/contribFame/nvm-windows/pull/1) in [contribFame/nvm-windows](https://github.com/contribFame/nvm-windows)
+2. ❗ Opened issue [#1077](https://github.com/coreybutler/nvm-windows/issues/1077) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+3. 🗣 Commented on [#439](https://github.com/actions/setup-go/issues/439#issuecomment-1864113913) in [actions/setup-go](https://github.com/actions/setup-go)
+4. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569438) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+5. 🗣 Commented on [#42](https://github.com/bacalhau-project/lilypad/issues/42#issuecomment-1862569436) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
