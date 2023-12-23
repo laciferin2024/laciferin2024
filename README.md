@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1080](https://github.com/coreybutler/nvm-windows/pull/1080#issuecomment-1867973290) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-2. 🗣 Commented on [#1080](https://github.com/coreybutler/nvm-windows/pull/1080#issuecomment-1867807365) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-3. 💪 Opened PR [#1080](https://github.com/coreybutler/nvm-windows/pull/1080) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-4. 🎉 Merged PR [#1](https://github.com/Nasfame/nvm-windows/pull/1) in [Nasfame/nvm-windows](https://github.com/Nasfame/nvm-windows)
-5. 💪 Opened PR [#2](https://github.com/Nasfame/nvm-windows/pull/2) in [Nasfame/nvm-windows](https://github.com/Nasfame/nvm-windows)
+1. 🗣 Commented on [#1079](https://github.com/coreybutler/nvm-windows/pull/1079#issuecomment-1868156513) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+2. 🗣 Commented on [#1080](https://github.com/coreybutler/nvm-windows/pull/1080#issuecomment-1867973290) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+3. 🗣 Commented on [#1080](https://github.com/coreybutler/nvm-windows/pull/1080#issuecomment-1867807365) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+4. 💪 Opened PR [#1080](https://github.com/coreybutler/nvm-windows/pull/1080) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+5. 🎉 Merged PR [#1](https://github.com/Nasfame/nvm-windows/pull/1) in [Nasfame/nvm-windows](https://github.com/Nasfame/nvm-windows)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
