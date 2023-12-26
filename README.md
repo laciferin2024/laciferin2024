@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#200](https://github.com/ethereum/remix-desktop/issues/200#issuecomment-1869150159) in [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop)
-2. ❗ Opened issue [#9605](https://github.com/laurent22/joplin/issues/9605) in [laurent22/joplin](https://github.com/laurent22/joplin)
-3. 🗣 Commented on [#200](https://github.com/ethereum/remix-desktop/issues/200#issuecomment-1868573609) in [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop)
-4. ❗ Opened issue [#64851](https://github.com/golang/go/issues/64851) in [golang/go](https://github.com/golang/go)
-5. 🗣 Commented on [#1079](https://github.com/coreybutler/nvm-windows/pull/1079#issuecomment-1868156513) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+1. ❗ Opened issue [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
+2. 🗣 Commented on [#200](https://github.com/ethereum/remix-desktop/issues/200#issuecomment-1869150159) in [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop)
+3. ❗ Opened issue [#9605](https://github.com/laurent22/joplin/issues/9605) in [laurent22/joplin](https://github.com/laurent22/joplin)
+4. 🗣 Commented on [#200](https://github.com/ethereum/remix-desktop/issues/200#issuecomment-1868573609) in [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop)
+5. ❗ Opened issue [#64851](https://github.com/golang/go/issues/64851) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
