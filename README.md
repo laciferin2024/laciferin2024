@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
-2. 🗣 Commented on [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35#issuecomment-1869523669) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
-3. 🗣 Commented on [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35#issuecomment-1869522436) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
-4. 🗣 Commented on [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35#issuecomment-1869520893) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
-5. 🗣 Commented on [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35#issuecomment-1869516013) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
+1. 🗣 Commented on [#9605](https://github.com/laurent22/joplin/issues/9605#issuecomment-1869720637) in [laurent22/joplin](https://github.com/laurent22/joplin)
+2. 🔒 Closed issue [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
+3. 🗣 Commented on [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35#issuecomment-1869523669) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
+4. 🗣 Commented on [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35#issuecomment-1869522436) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
+5. 🗣 Commented on [#35](https://github.com/reclaimprotocol/reclaim-sdk/issues/35#issuecomment-1869520893) in [reclaimprotocol/reclaim-sdk](https://github.com/reclaimprotocol/reclaim-sdk)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
