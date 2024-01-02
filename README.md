@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/ekzhang/sshx/issues/66#issuecomment-1874646470) in [ekzhang/sshx](https://github.com/ekzhang/sshx)
-2. ❗ Opened issue [#66](https://github.com/ekzhang/sshx/issues/66) in [ekzhang/sshx](https://github.com/ekzhang/sshx)
-3. 💪 Opened PR [#45](https://github.com/bacalhau-project/lilypad/pull/45) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
-4. 🎉 Merged PR [#21](https://github.com/golangFame/go/pull/21) in [golangFame/go](https://github.com/golangFame/go)
-5. 🗣 Commented on [#64894](https://github.com/golang/go/issues/64894#issuecomment-1872413639) in [golang/go](https://github.com/golang/go)
+1. 🗣 Commented on [#64851](https://github.com/golang/go/issues/64851#issuecomment-1874679831) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#66](https://github.com/ekzhang/sshx/issues/66#issuecomment-1874646470) in [ekzhang/sshx](https://github.com/ekzhang/sshx)
+3. ❗ Opened issue [#66](https://github.com/ekzhang/sshx/issues/66) in [ekzhang/sshx](https://github.com/ekzhang/sshx)
+4. 💪 Opened PR [#45](https://github.com/bacalhau-project/lilypad/pull/45) in [bacalhau-project/lilypad](https://github.com/bacalhau-project/lilypad)
+5. 🎉 Merged PR [#21](https://github.com/golangFame/go/pull/21) in [golangFame/go](https://github.com/golangFame/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
