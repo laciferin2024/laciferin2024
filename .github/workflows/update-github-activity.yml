@@ -36,4 +36,4 @@ jobs:
           COMMIT_NAME: Baymax
           COMMIT_EMAIL: "pythoneerHiro@gmail.com"
           TARGET_FILE: README.md
-          MAX_LINES: 5
+          MAX_LINES: 10
