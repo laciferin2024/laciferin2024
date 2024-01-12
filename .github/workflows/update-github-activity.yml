@@ -6,16 +6,16 @@ on:
   #     - main
   #   tags:
 
-  push:
-    paths:
-      - .github/workflows/update-github-activity.yml
+  # push:
+  #   paths: #not supported by action
+  #     - .github/workflows/update-github-activity.yml
 
   # pull_request:
   #   branches:
   #     - main
 
   schedule: 
-    - cron: "*/20 * * * *"
+    - cron: "*/5 * * * *"
     # 00:00 IST == 05:30 UTC
     - cron: "30 5 * * *"
   workflow_dispatch:
