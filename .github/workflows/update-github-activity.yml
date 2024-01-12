@@ -38,6 +38,6 @@ jobs:
         with:
           COMMIT_MSG: "ci: recent activity updated"
           COMMIT_NAME: Baymax
-          COMMIT_EMAIL: "pythoneerHiro@gmail.com"
+          COMMIT_EMAIL: "laciferin@gmail.com"
           TARGET_FILE: README.md
           MAX_LINES: 5
