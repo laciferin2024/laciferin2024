@@ -40,4 +40,4 @@ jobs:
           COMMIT_NAME: Baymax
           COMMIT_EMAIL: "laciferin@gmail.com"
           TARGET_FILE: README.md
-          MAX_LINES: 5
+          MAX_LINES: 15
