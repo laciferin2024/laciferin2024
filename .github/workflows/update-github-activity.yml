@@ -38,7 +38,7 @@ jobs:
           git status
           git pull
 
-      - uses: jamesgeorge007/github-activity-readme@v0.4.3
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
