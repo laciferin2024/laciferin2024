@@ -14,9 +14,9 @@ on:
   #     - main
 
   schedule: # 00:00 IST == 05:30 UTC
-    - cron: "10 */1 * * *"
+    - cron: "* */1 * * *"
     # 00:00 IST == 05:30 UTC
-    - cron: "30 5 * * *"
+    # - cron: "30 5 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -55,7 +55,7 @@ jobs:
         continue-on-error: true
         run: |
           git status
-          git pull
+          # git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit
