@@ -59,7 +59,7 @@ jobs:
         id: auto-commit
         with:
           commit_user_name: Baymax
-          commit_user_email: baymax@gmail.com
+          commit_user_email: laciferin@gmail.com
           commit_author: Hiro <laciferin@gmail.com>
           commit_message: "ci: update profile-3d"
           commit_options: "--no-verify --signoff"
