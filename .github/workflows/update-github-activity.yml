@@ -36,7 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "ci: recent activity updated"
+          COMMIT_MSG: "⚡ ci: Update README with the recent activity"
           COMMIT_NAME: Baymax
           COMMIT_EMAIL: "laciferin@gmail.com"
           TARGET_FILE: README.md
