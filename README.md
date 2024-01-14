@@ -87,7 +87,7 @@
 12. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1890508452) in [CoopHive/hive](https://github.com/CoopHive/hive)
 13. ❗ Opened issue [#16](https://github.com/CoopHive/hive/issues/16) in [CoopHive/hive](https://github.com/CoopHive/hive)
 14. 🚀 Published release [v0.0.0 ](https://github.com/CoopHive/hive/releases/tag/v0.0.0) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🚀 Published release [v0.0.0 ](https://github.com/CoopHive/hive/releases/tag/v0.0.0) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❌ Closed PR [#3](https://github.com/CoopHive/hive/pull/3) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
