@@ -70,7 +70,7 @@
 * [DecenterAI-PoC](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
 * [DecenterAI](https://github.com/DeCenter-AI/app.decenterai.com/)
 * [DBResolver-Golang Database Resolver and Wrapper for any multiple database connections](https://github.com/bxcodec/dbresolver)
-* [Web3Sub](https://github.com/Web3Mustketeers/web3.sub)
+* [Web3Sub: Decentralized Web3 Users Management Protocol](https://github.com/Web3Mustketeers/web3.sub)
 
 <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 
