@@ -1,7 +1,7 @@
 <img src="./Hiro.svg">
 
 <h2 align="center">Pioneering Decentralized Compute Marketplaces | OSS Engineer | Polyglot ⚡Go, Python, JS | 💪 with AI,ML | 🪔 Web3 Adovocate </h2>
-<!-- <h4 align="justify">I am a Backend Engineer. I kill time working on projects. I enjoy Problem-Solving (DS,Algo, Chess), AI Prompting & Automation for fun</h4> -->
+<!--For Coders... <h4 align="justify">I am a Backend Engineer. I kill time working on projects. I enjoy Problem-Solving (DS,Algo, Chess), AI Prompting & Automation for fun</h4> -->
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g"> -->
 <!-- 
@@ -18,7 +18,7 @@
 - 🌱 Discovering **Quantum Computing, Zkproofs** ⚡ 
 - 👯 I’m looking to collaborate on **ML, AI, Web3, Zkproofs** 
 <!-- - 🤝 I’m looking for peer learners & experts on **Quantum Computing, ML** -->
-- 👨‍💻 Checkout my projects @ <b> [Nasfame](https://github.com/Nasfame), [Web3Musketeers](https://github.com/web3mustketeers/), [DecenterAI](https://github.com/DeCenter-AI/) </b>
+- 👨‍💻 Checkout my projects @ <b> [Nasfame](https://github.com/Nasfame), [Web3Musketeers](https://github.com/CoopHive/), [DecenterAI](https://github.com/DeCenter-AI/) </b>
 - 💬 Ask me your doubts on **OSS,Go, Python, Javascript,BE (Backend)** 📝 
 - 🥅 2024 Goals: Build **Quantum Zkproofs**, <b> Multi-modal(video,audio,text) ML **AGI** model </b>
   <!-- - 💻 Coding/Programming - [@Nasfame](https://github.com/Nasfame) -->
