@@ -73,11 +73,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/ipfs/ipfs-docs/issues/248#issuecomment-1867022326) in [ipfs/ipfs-docs](https://github.com/ipfs/ipfs-docs)
-2. 🗣 Commented on [#1078](https://github.com/coreybutler/nvm-windows/pull/1078#issuecomment-1865513737) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-3. 💪 Opened PR [#1078](https://github.com/coreybutler/nvm-windows/pull/1078) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-4. 💪 Opened PR [#1](https://github.com/contribFame/nvm-windows/pull/1) in [contribFame/nvm-windows](https://github.com/contribFame/nvm-windows)
-5. ❗ Opened issue [#1077](https://github.com/coreybutler/nvm-windows/issues/1077) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+1. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. ❗ Opened issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
