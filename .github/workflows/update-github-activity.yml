@@ -33,7 +33,6 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Git Status
-        continue-on-error: true
         run: |
           git status
           git pull
