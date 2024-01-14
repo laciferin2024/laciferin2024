@@ -46,5 +46,4 @@ jobs:
           COMMIT_NAME: Baymax
           COMMIT_EMAIL: "laciferin@gmail.com"
           TARGET_FILE: README.md
-          MAX_LINES: 15
-
+          MAX_LINES: 15 #u need to seed if n : u need to seed n activities.
