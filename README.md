@@ -78,6 +78,15 @@
 3. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
 4. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
 5. ❗ Opened issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. ❗ Opened issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13.  ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
