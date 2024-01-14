@@ -61,8 +61,11 @@
 <!-- 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nasfame&show_icons=true&locale=en&&hide=javascript,html" alt="Nasfame" /></p> -->
 
- ## ⭐ My projects
+ ## ⭐ My Latest projects
 
+* [CoopHive: Decentralized Compute Protocol](https://github.com/CoopHive/hive) 
+* [Lilypad: Decentralized AI Inference Protocol](https://github.com/bacalhau-project/lilypad)
+* [Bacalhau: Decentralized Compute Network](https://github.com/bacalhau-project/bacalhau)
 * [open-source-chat: Documentation Chatbot](https://devpost.com/software/oschat)
 * [DecenterAI-PoC](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
 * [DecenterAI](https://github.com/DeCenter-AI/app.decenterai.com/)
