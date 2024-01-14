@@ -7,7 +7,7 @@
 <!-- 
 <img align="right" alt="Coding" width="400" src="./profile-3d-contrib/profile-south-season-animate.svg"> -->
 
-<img align="right" alt="Profile Status" width="400" src="https://github-readme-stats.vercel.app/api?username=Nasfame&show_icons=true&locale=en&hide=stars,javascript,html">
+<img align="right" alt="Profile Status" width="400" src="https://github-readme-stats.vercel.app/api?username=Nasfame&show_icons=true&&theme=github_dark&locale=en&hide=stars,javascript,html">
 
 
 <!-- <p align="left"> <a href="https://twitter.com/laciferin" target="blank"><img src="https://img.shields.io/twitter/follow/laciferin?logo=twitter&style=for-the-badge" alt="laciferin" /></a> </p> -->
