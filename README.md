@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892350219) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892342798) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892338676) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892335902) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 💪 Opened PR [#716](https://github.com/frappe/lms/pull/716) in [frappe/lms](https://github.com/frappe/lms)
-6. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. ❗ Opened issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1890882115) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🔒 Closed issue [#11](https://github.com/CoopHive/hive/issues/11) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 🗣 Commented on [#17](https://github.com/CoopHive/hive/pull/17#issuecomment-1890750158) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🚀 Published release [v0.1.0: CoopHive Rebranded ](https://github.com/CoopHive/hive/releases/tag/v0.1.0) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🎉 Merged PR [#17](https://github.com/CoopHive/hive/pull/17) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469982) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469805) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892350219) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892342798) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892338676) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892335902) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 💪 Opened PR [#716](https://github.com/frappe/lms/pull/716) in [frappe/lms](https://github.com/frappe/lms)
+8. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. ❗ Opened issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1890882115) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🔒 Closed issue [#11](https://github.com/CoopHive/hive/issues/11) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 🗣 Commented on [#17](https://github.com/CoopHive/hive/pull/17#issuecomment-1890750158) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
