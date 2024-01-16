@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894624316) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894618423) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469982) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469805) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892350219) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892342798) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892338676) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892335902) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 💪 Opened PR [#716](https://github.com/frappe/lms/pull/716) in [frappe/lms](https://github.com/frappe/lms)
-10. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. ❗ Opened issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1890882115) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894694560) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🔒 Closed issue [#16](https://github.com/CoopHive/hive/issues/16) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894624316) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894618423) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469982) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469805) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892350219) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892342798) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892338676) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892335902) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 💪 Opened PR [#716](https://github.com/frappe/lms/pull/716) in [frappe/lms](https://github.com/frappe/lms)
+12. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❗ Opened issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
