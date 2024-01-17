@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1894938159) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-2. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894694560) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🔒 Closed issue [#16](https://github.com/CoopHive/hive/issues/16) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894624316) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894618423) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469982) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469805) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892350219) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892342798) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892338676) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892335902) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 💪 Opened PR [#716](https://github.com/frappe/lms/pull/716) in [frappe/lms](https://github.com/frappe/lms)
-13. ❗ Opened issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. ❗ Opened issue [#21](https://github.com/CoopHive/hive/issues/21) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. ❗ Opened issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🎉 Merged PR [#24](https://github.com/CoopHive/hive/pull/24) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 💪 Opened PR [#24](https://github.com/CoopHive/hive/pull/24) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🚀 Published release [v0.1.4](https://github.com/CoopHive/hive/releases/tag/v0.1.4) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1894938159) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+5. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894694560) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🔒 Closed issue [#16](https://github.com/CoopHive/hive/issues/16) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894624316) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894618423) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469982) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892469805) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892350219) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892342798) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892338676) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🗣 Commented on [#20](https://github.com/CoopHive/hive/issues/20#issuecomment-1892335902) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 💪 Opened PR [#716](https://github.com/frappe/lms/pull/716) in [frappe/lms](https://github.com/frappe/lms)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
