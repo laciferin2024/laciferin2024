@@ -78,13 +78,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/CoopHive/hive/pull/26) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🗣 Commented on [#19](https://github.com/CoopHive/hive/issues/19#issuecomment-1895123781) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 💪 Opened PR [#25](https://github.com/CoopHive/hive/pull/25) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🎉 Merged PR [#24](https://github.com/CoopHive/hive/pull/24) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 💪 Opened PR [#24](https://github.com/CoopHive/hive/pull/24) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🚀 Published release [v0.1.4](https://github.com/CoopHive/hive/releases/tag/v0.1.4) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1894938159) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+1. 🎉 Merged PR [#26](https://github.com/CoopHive/hive/pull/26) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 💪 Opened PR [#26](https://github.com/CoopHive/hive/pull/26) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🗣 Commented on [#19](https://github.com/CoopHive/hive/issues/19#issuecomment-1895123781) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 💪 Opened PR [#25](https://github.com/CoopHive/hive/pull/25) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🎉 Merged PR [#24](https://github.com/CoopHive/hive/pull/24) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 💪 Opened PR [#24](https://github.com/CoopHive/hive/pull/24) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🚀 Published release [v0.1.4](https://github.com/CoopHive/hive/releases/tag/v0.1.4) in [CoopHive/hive](https://github.com/CoopHive/hive)
 8. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894694560) in [CoopHive/hive](https://github.com/CoopHive/hive)
 9. 🔒 Closed issue [#16](https://github.com/CoopHive/hive/issues/16) in [CoopHive/hive](https://github.com/CoopHive/hive)
 10. 🗣 Commented on [#16](https://github.com/CoopHive/hive/issues/16#issuecomment-1894624316) in [CoopHive/hive](https://github.com/CoopHive/hive)
