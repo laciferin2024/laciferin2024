@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1896775870) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-2. 🗣 Commented on [#64](https://github.com/Clarifai/clarifai-nodejs-grpc/pull/64#issuecomment-1896757635) in [Clarifai/clarifai-nodejs-grpc](https://github.com/Clarifai/clarifai-nodejs-grpc)
-3. 🗣 Commented on [#716](https://github.com/frappe/lms/pull/716#issuecomment-1895394923) in [frappe/lms](https://github.com/frappe/lms)
-4. 🗣 Commented on [#36](https://github.com/bxcodec/dbresolver/pull/36#issuecomment-1895365750) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-5. 🗣 Commented on [#39](https://github.com/bxcodec/dbresolver/pull/39#issuecomment-1895365107) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-6. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1895363632) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-7. 💪 Opened PR [#45](https://github.com/bxcodec/dbresolver/pull/45) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-8. 🚀 Published release [v0.1.9](https://github.com/CoopHive/hive/releases/tag/v0.1.9) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🚀 Published release [v0.1.8](https://github.com/CoopHive/hive/releases/tag/v0.1.8) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🚀 Published release [v0.1.7](https://github.com/CoopHive/hive/releases/tag/v0.1.7) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🚀 Published release [v0.1.6](https://github.com/CoopHive/hive/releases/tag/v0.1.6) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🎉 Merged PR [#26](https://github.com/CoopHive/hive/pull/26) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 💪 Opened PR [#26](https://github.com/CoopHive/hive/pull/26) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🗣 Commented on [#19](https://github.com/CoopHive/hive/issues/19#issuecomment-1895123781) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🗣 Commented on [#21](https://github.com/CoopHive/hive/issues/21#issuecomment-1892342798) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🔒 Closed issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🗣 Commented on [#22](https://github.com/CoopHive/hive/issues/22#issuecomment-1897590422) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🔒 Closed issue [#13](https://github.com/CoopHive/hive/issues/13) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🔒 Closed issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🔒 Closed issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 💪 Opened PR [#28](https://github.com/CoopHive/hive/pull/28) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🎉 Merged PR [#25](https://github.com/CoopHive/hive/pull/25) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🎉 Merged PR [#23](https://github.com/CoopHive/hive/pull/23) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🚀 Published release [v0.1.10](https://github.com/CoopHive/hive/releases/tag/v0.1.10) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🎉 Merged PR [#27](https://github.com/CoopHive/hive/pull/27) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🚀 Published release [v0.1.10](https://github.com/CoopHive/hive/releases/tag/v0.1.10) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 💪 Opened PR [#27](https://github.com/CoopHive/hive/pull/27) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1896775870) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+14. 🗣 Commented on [#64](https://github.com/Clarifai/clarifai-nodejs-grpc/pull/64#issuecomment-1896757635) in [Clarifai/clarifai-nodejs-grpc](https://github.com/Clarifai/clarifai-nodejs-grpc)
+15. 🗣 Commented on [#716](https://github.com/frappe/lms/pull/716#issuecomment-1895394923) in [frappe/lms](https://github.com/frappe/lms)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
