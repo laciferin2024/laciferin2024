@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/CoopHive/hive/pull/29) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#29](https://github.com/CoopHive/hive/pull/29) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#28](https://github.com/CoopHive/hive/pull/28) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🔒 Closed issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#22](https://github.com/CoopHive/hive/issues/22#issuecomment-1897590422) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🔒 Closed issue [#13](https://github.com/CoopHive/hive/issues/13) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🔒 Closed issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🔒 Closed issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 💪 Opened PR [#28](https://github.com/CoopHive/hive/pull/28) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🎉 Merged PR [#25](https://github.com/CoopHive/hive/pull/25) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🎉 Merged PR [#23](https://github.com/CoopHive/hive/pull/23) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🚀 Published release [v0.1.10](https://github.com/CoopHive/hive/releases/tag/v0.1.10) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 🎉 Merged PR [#27](https://github.com/CoopHive/hive/pull/27) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🚀 Published release [v0.1.10](https://github.com/CoopHive/hive/releases/tag/v0.1.10) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#27](https://github.com/CoopHive/hive/pull/27) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1898604706) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+2. 🎉 Merged PR [#29](https://github.com/CoopHive/hive/pull/29) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 💪 Opened PR [#29](https://github.com/CoopHive/hive/pull/29) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🎉 Merged PR [#28](https://github.com/CoopHive/hive/pull/28) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🔒 Closed issue [#22](https://github.com/CoopHive/hive/issues/22) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🗣 Commented on [#22](https://github.com/CoopHive/hive/issues/22#issuecomment-1897590422) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🔒 Closed issue [#13](https://github.com/CoopHive/hive/issues/13) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🔒 Closed issue [#19](https://github.com/CoopHive/hive/issues/19) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🔒 Closed issue [#20](https://github.com/CoopHive/hive/issues/20) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#28](https://github.com/CoopHive/hive/pull/28) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🎉 Merged PR [#25](https://github.com/CoopHive/hive/pull/25) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🎉 Merged PR [#23](https://github.com/CoopHive/hive/pull/23) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🚀 Published release [v0.1.10](https://github.com/CoopHive/hive/releases/tag/v0.1.10) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🎉 Merged PR [#27](https://github.com/CoopHive/hive/pull/27) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 🚀 Published release [v0.1.10](https://github.com/CoopHive/hive/releases/tag/v0.1.10) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
