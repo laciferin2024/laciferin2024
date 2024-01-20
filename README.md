@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/bxcodec/dbresolver/pull/46) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-2. 🗣 Commented on [#47](https://github.com/bxcodec/dbresolver/pull/47#issuecomment-1902110740) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-3. 💪 Opened PR [#47](https://github.com/bxcodec/dbresolver/pull/47) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-4. 🗣 Commented on [#12](https://github.com/CoopHive/hive/issues/12#issuecomment-1900351854) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#46](https://github.com/bxcodec/dbresolver/pull/46#issuecomment-1899641096) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-6. 🗣 Commented on [#46](https://github.com/bxcodec/dbresolver/pull/46#issuecomment-1899641060) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-7. 🗣 Commented on [#46](https://github.com/bxcodec/dbresolver/pull/46#issuecomment-1899582737) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-8. 💪 Opened PR [#46](https://github.com/bxcodec/dbresolver/pull/46) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-9. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1899464885) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-10. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1899455638) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-11. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1898795415) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-12. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1898790029) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-13. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1898604706) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-14. 🎉 Merged PR [#29](https://github.com/CoopHive/hive/pull/29) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#29](https://github.com/CoopHive/hive/pull/29) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. ❗ Opened issue [#31](https://github.com/CoopHive/hive/issues/31) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. ❗ Opened issue [#30](https://github.com/CoopHive/hive/issues/30) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. ❌ Closed PR [#46](https://github.com/bxcodec/dbresolver/pull/46) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+4. 🗣 Commented on [#47](https://github.com/bxcodec/dbresolver/pull/47#issuecomment-1902110740) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+5. 💪 Opened PR [#47](https://github.com/bxcodec/dbresolver/pull/47) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+6. 🗣 Commented on [#12](https://github.com/CoopHive/hive/issues/12#issuecomment-1900351854) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🗣 Commented on [#46](https://github.com/bxcodec/dbresolver/pull/46#issuecomment-1899641096) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+8. 🗣 Commented on [#46](https://github.com/bxcodec/dbresolver/pull/46#issuecomment-1899641060) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+9. 🗣 Commented on [#46](https://github.com/bxcodec/dbresolver/pull/46#issuecomment-1899582737) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+10. 💪 Opened PR [#46](https://github.com/bxcodec/dbresolver/pull/46) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+11. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1899464885) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+12. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1899455638) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+13. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1898795415) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+14. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1898790029) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+15. 🗣 Commented on [#44](https://github.com/bxcodec/dbresolver/issues/44#issuecomment-1898604706) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
