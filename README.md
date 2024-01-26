@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Nasfame/pfg/pull/7) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-2. 🎉 Merged PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-3. ❌ Reopened PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-4. ❌ Closed PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-5. 💪 Opened PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-6. ❗ Opened issue [#5](https://github.com/Nasfame/pfg/issues/5) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-7. 💪 Opened PR [#4](https://github.com/Nasfame/pfg/pull/4) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-8. 🚀 Published release [v0.1.1](https://github.com/Nasfame/pfg/releases/tag/v0.1.1) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-9. 🎉 Merged PR [#3](https://github.com/Nasfame/pfg/pull/3) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-10. 💪 Opened PR [#3](https://github.com/Nasfame/pfg/pull/3) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-11. 🗣 Commented on [#34](https://github.com/CoopHive/hive/issues/34#issuecomment-1910890525) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🗣 Commented on [#36](https://github.com/CoopHive/hive/issues/36#issuecomment-1910890188) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. ❗ Opened issue [#36](https://github.com/CoopHive/hive/issues/36) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🗣 Commented on [#35](https://github.com/CoopHive/hive/issues/35#issuecomment-1910878844) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. ❗ Opened issue [#35](https://github.com/CoopHive/hive/issues/35) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. ❌ Closed PR [#4](https://github.com/Nasfame/pfg/pull/4) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+2. 🚀 Published release [v0.2.0: Hardhat deploy](https://github.com/Nasfame/pfg/releases/tag/v0.2.0) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+3. 🎉 Merged PR [#7](https://github.com/Nasfame/pfg/pull/7) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+4. 💪 Opened PR [#7](https://github.com/Nasfame/pfg/pull/7) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+5. 🎉 Merged PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+6. ❌ Reopened PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+7. ❌ Closed PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+8. 💪 Opened PR [#6](https://github.com/Nasfame/pfg/pull/6) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+9. ❗ Opened issue [#5](https://github.com/Nasfame/pfg/issues/5) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+10. 💪 Opened PR [#4](https://github.com/Nasfame/pfg/pull/4) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+11. 🚀 Published release [v0.1.1](https://github.com/Nasfame/pfg/releases/tag/v0.1.1) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+12. 🎉 Merged PR [#3](https://github.com/Nasfame/pfg/pull/3) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+13. 💪 Opened PR [#3](https://github.com/Nasfame/pfg/pull/3) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+14. 🗣 Commented on [#34](https://github.com/CoopHive/hive/issues/34#issuecomment-1910890525) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 🗣 Commented on [#36](https://github.com/CoopHive/hive/issues/36#issuecomment-1910890188) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
