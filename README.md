@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/CoopHive/hive/pull/38) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#38](https://github.com/CoopHive/hive/pull/38) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🚀 Published release [v0.3.0: Hardhat tests](https://github.com/Nasfame/pfg/releases/tag/v0.3.0) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-4. 🎉 Merged PR [#8](https://github.com/Nasfame/pfg/pull/8) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-5. 💪 Opened PR [#8](https://github.com/Nasfame/pfg/pull/8) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-6. 🔒 Closed issue [#143](https://github.com/DeCenter-AI/app.decenterai.com/issues/143) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-7. 🔒 Closed issue [#137](https://github.com/DeCenter-AI/app.decenterai.com/issues/137) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-8. 🔒 Closed issue [#18](https://github.com/DeCenter-AI/decenterai.com/issues/18) in [DeCenter-AI/decenterai.com](https://github.com/DeCenter-AI/decenterai.com)
-9. 🔒 Closed issue [#33](https://github.com/DeCenter-AI/decenterai.com/issues/33) in [DeCenter-AI/decenterai.com](https://github.com/DeCenter-AI/decenterai.com)
-10. 🔒 Closed issue [#17](https://github.com/DeCenter-AI/decenterai.com/issues/17) in [DeCenter-AI/decenterai.com](https://github.com/DeCenter-AI/decenterai.com)
-11. 🔒 Closed issue [#59](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/59) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-12. 🔒 Closed issue [#21](https://github.com/DeCenter-AI/app.decenterai.com/issues/21) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-13. 🔒 Closed issue [#56](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/56) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
-14. 🔒 Closed issue [#1](https://github.com/DeCenter-AI/.github/issues/1) in [DeCenter-AI/.github](https://github.com/DeCenter-AI/.github)
-15. 🔒 Closed issue [#2](https://github.com/DeCenter-AI/.github/issues/2) in [DeCenter-AI/.github](https://github.com/DeCenter-AI/.github)
+1. 🗣 Commented on [#39](https://github.com/CoopHive/hive/issues/39#issuecomment-1913080970) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. ❗ Opened issue [#39](https://github.com/CoopHive/hive/issues/39) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🎉 Merged PR [#38](https://github.com/CoopHive/hive/pull/38) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 💪 Opened PR [#38](https://github.com/CoopHive/hive/pull/38) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🚀 Published release [v0.3.0: Hardhat tests](https://github.com/Nasfame/pfg/releases/tag/v0.3.0) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+6. 🎉 Merged PR [#8](https://github.com/Nasfame/pfg/pull/8) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+7. 💪 Opened PR [#8](https://github.com/Nasfame/pfg/pull/8) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+8. 🔒 Closed issue [#143](https://github.com/DeCenter-AI/app.decenterai.com/issues/143) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+9. 🔒 Closed issue [#137](https://github.com/DeCenter-AI/app.decenterai.com/issues/137) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+10. 🔒 Closed issue [#18](https://github.com/DeCenter-AI/decenterai.com/issues/18) in [DeCenter-AI/decenterai.com](https://github.com/DeCenter-AI/decenterai.com)
+11. 🔒 Closed issue [#33](https://github.com/DeCenter-AI/decenterai.com/issues/33) in [DeCenter-AI/decenterai.com](https://github.com/DeCenter-AI/decenterai.com)
+12. 🔒 Closed issue [#17](https://github.com/DeCenter-AI/decenterai.com/issues/17) in [DeCenter-AI/decenterai.com](https://github.com/DeCenter-AI/decenterai.com)
+13. 🔒 Closed issue [#59](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/59) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
+14. 🔒 Closed issue [#21](https://github.com/DeCenter-AI/app.decenterai.com/issues/21) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+15. 🔒 Closed issue [#56](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/56) in [DeCenter-AI/decenter-ai.streamlit.app](https://github.com/DeCenter-AI/decenter-ai.streamlit.app)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
