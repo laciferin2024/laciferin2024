@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/CoopHive/hive/pull/41) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🎉 Merged PR [#44](https://github.com/CoopHive/hive/pull/44) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 💪 Opened PR [#44](https://github.com/CoopHive/hive/pull/44) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. ❗ Opened issue [#43](https://github.com/CoopHive/hive/issues/43) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#42](https://github.com/CoopHive/hive/issues/42#issuecomment-1915527702) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. ❗ Opened issue [#42](https://github.com/CoopHive/hive/issues/42) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. ❗ Opened issue [#9](https://github.com/Nasfame/pfg/issues/9) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-8. 🔒 Closed issue [#5](https://github.com/Nasfame/pfg/issues/5) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-9. 🗣 Commented on [#5](https://github.com/Nasfame/pfg/issues/5#issuecomment-1914368214) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-10. 🔒 Closed issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🔒 Closed issue [#2](https://github.com/CoopHive/.github/issues/2) in [CoopHive/.github](https://github.com/CoopHive/.github)
-12. 🗣 Commented on [#14](https://github.com/CoopHive/hive/issues/14#issuecomment-1913548086) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 🗣 Commented on [#14](https://github.com/CoopHive/hive/issues/14#issuecomment-1913547958) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. ❗ Opened issue [#40](https://github.com/CoopHive/hive/issues/40) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🗣 Commented on [#14](https://github.com/CoopHive/hive/issues/14#issuecomment-1913520003) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🔒 Closed issue [#43](https://github.com/CoopHive/hive/issues/43) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🎉 Merged PR [#41](https://github.com/CoopHive/hive/pull/41) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🎉 Merged PR [#44](https://github.com/CoopHive/hive/pull/44) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 💪 Opened PR [#44](https://github.com/CoopHive/hive/pull/44) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. ❗ Opened issue [#43](https://github.com/CoopHive/hive/issues/43) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🗣 Commented on [#42](https://github.com/CoopHive/hive/issues/42#issuecomment-1915527702) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. ❗ Opened issue [#42](https://github.com/CoopHive/hive/issues/42) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. ❗ Opened issue [#9](https://github.com/Nasfame/pfg/issues/9) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+9. 🔒 Closed issue [#5](https://github.com/Nasfame/pfg/issues/5) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+10. 🗣 Commented on [#5](https://github.com/Nasfame/pfg/issues/5#issuecomment-1914368214) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+11. 🔒 Closed issue [#18](https://github.com/CoopHive/hive/issues/18) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🔒 Closed issue [#2](https://github.com/CoopHive/.github/issues/2) in [CoopHive/.github](https://github.com/CoopHive/.github)
+13. 🗣 Commented on [#14](https://github.com/CoopHive/hive/issues/14#issuecomment-1913548086) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🗣 Commented on [#14](https://github.com/CoopHive/hive/issues/14#issuecomment-1913547958) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❗ Opened issue [#40](https://github.com/CoopHive/hive/issues/40) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
