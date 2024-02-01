@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#62](https://github.com/CoopHive/hive/issues/62) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#61](https://github.com/CoopHive/hive/pull/61) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 💪 Opened PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920165408) in [golang/go](https://github.com/golang/go)
-6. 🔒 Closed issue [#65367](https://github.com/golang/go/issues/65367) in [golang/go](https://github.com/golang/go)
-7. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920125648) in [golang/go](https://github.com/golang/go)
-8. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920082164) in [golang/go](https://github.com/golang/go)
-9. ❗ Opened issue [#136](https://github.com/creyD/prettier_action/issues/136) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
-10. 🎉 Merged PR [#59](https://github.com/CoopHive/hive/pull/59) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 💪 Opened PR [#59](https://github.com/CoopHive/hive/pull/59) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. ❌ Closed PR [#58](https://github.com/CoopHive/hive/pull/58) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 💪 Opened PR [#58](https://github.com/CoopHive/hive/pull/58) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🎉 Merged PR [#51](https://github.com/CoopHive/hive/pull/51) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#51](https://github.com/CoopHive/hive/pull/51) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🎉 Merged PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 💪 Opened PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. ❗ Opened issue [#62](https://github.com/CoopHive/hive/issues/62) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 💪 Opened PR [#61](https://github.com/CoopHive/hive/pull/61) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🎉 Merged PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 💪 Opened PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920165408) in [golang/go](https://github.com/golang/go)
+8. 🔒 Closed issue [#65367](https://github.com/golang/go/issues/65367) in [golang/go](https://github.com/golang/go)
+9. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920125648) in [golang/go](https://github.com/golang/go)
+10. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920082164) in [golang/go](https://github.com/golang/go)
+11. ❗ Opened issue [#136](https://github.com/creyD/prettier_action/issues/136) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
+12. 🎉 Merged PR [#59](https://github.com/CoopHive/hive/pull/59) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 💪 Opened PR [#59](https://github.com/CoopHive/hive/pull/59) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. ❌ Closed PR [#58](https://github.com/CoopHive/hive/pull/58) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 💪 Opened PR [#58](https://github.com/CoopHive/hive/pull/58) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
