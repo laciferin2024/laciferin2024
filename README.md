@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 💪 Opened PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. ❗ Opened issue [#62](https://github.com/CoopHive/hive/issues/62) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 💪 Opened PR [#61](https://github.com/CoopHive/hive/pull/61) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🎉 Merged PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 💪 Opened PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920165408) in [golang/go](https://github.com/golang/go)
-10. 🔒 Closed issue [#65367](https://github.com/golang/go/issues/65367) in [golang/go](https://github.com/golang/go)
-11. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920125648) in [golang/go](https://github.com/golang/go)
-12. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920082164) in [golang/go](https://github.com/golang/go)
-13. ❗ Opened issue [#136](https://github.com/creyD/prettier_action/issues/136) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
-14. 🎉 Merged PR [#59](https://github.com/CoopHive/hive/pull/59) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#59](https://github.com/CoopHive/hive/pull/59) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🎉 Merged PR [#1](https://github.com/CoopHive/faucet.coophive.network/pull/1) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+2. 💪 Opened PR [#1](https://github.com/CoopHive/faucet.coophive.network/pull/1) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+3. 🎉 Merged PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 💪 Opened PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🎉 Merged PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 💪 Opened PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. ❗ Opened issue [#62](https://github.com/CoopHive/hive/issues/62) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 💪 Opened PR [#61](https://github.com/CoopHive/hive/pull/61) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🎉 Merged PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920165408) in [golang/go](https://github.com/golang/go)
+12. 🔒 Closed issue [#65367](https://github.com/golang/go/issues/65367) in [golang/go](https://github.com/golang/go)
+13. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920125648) in [golang/go](https://github.com/golang/go)
+14. 🗣 Commented on [#65367](https://github.com/golang/go/issues/65367#issuecomment-1920082164) in [golang/go](https://github.com/golang/go)
+15. ❗ Opened issue [#136](https://github.com/creyD/prettier_action/issues/136) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
