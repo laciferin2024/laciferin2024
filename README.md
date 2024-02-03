@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/CoopHive/hive/pull/61) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. ❗ Opened issue [#65](https://github.com/CoopHive/hive/issues/65) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🗣 Commented on [#8660](https://github.com/cli/cli/issues/8660#issuecomment-1924172786) in [cli/cli](https://github.com/cli/cli)
-4. 🗣 Commented on [#8660](https://github.com/cli/cli/issues/8660#issuecomment-1924169859) in [cli/cli](https://github.com/cli/cli)
-5. 🗣 Commented on [#8660](https://github.com/cli/cli/issues/8660#issuecomment-1924169511) in [cli/cli](https://github.com/cli/cli)
-6. ❗ Opened issue [#8660](https://github.com/cli/cli/issues/8660) in [cli/cli](https://github.com/cli/cli)
-7. 🎉 Merged PR [#1](https://github.com/CoopHive/faucet.coophive.network/pull/1) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-8. 💪 Opened PR [#1](https://github.com/CoopHive/faucet.coophive.network/pull/1) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-9. 🎉 Merged PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 💪 Opened PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🎉 Merged PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 💪 Opened PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. ❗ Opened issue [#62](https://github.com/CoopHive/hive/issues/62) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 💪 Opened PR [#61](https://github.com/CoopHive/hive/pull/61) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🎉 Merged PR [#60](https://github.com/CoopHive/hive/pull/60) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. ❗ Opened issue [#66](https://github.com/CoopHive/hive/issues/66) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🚀 Published release [Release: latest](https://github.com/CoopHive/coophive-module-cowsay/releases/tag/latest) in [CoopHive/coophive-module-cowsay](https://github.com/CoopHive/coophive-module-cowsay)
+3. 🎉 Merged PR [#61](https://github.com/CoopHive/hive/pull/61) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. ❗ Opened issue [#65](https://github.com/CoopHive/hive/issues/65) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🗣 Commented on [#8660](https://github.com/cli/cli/issues/8660#issuecomment-1924172786) in [cli/cli](https://github.com/cli/cli)
+6. 🗣 Commented on [#8660](https://github.com/cli/cli/issues/8660#issuecomment-1924169859) in [cli/cli](https://github.com/cli/cli)
+7. 🗣 Commented on [#8660](https://github.com/cli/cli/issues/8660#issuecomment-1924169511) in [cli/cli](https://github.com/cli/cli)
+8. ❗ Opened issue [#8660](https://github.com/cli/cli/issues/8660) in [cli/cli](https://github.com/cli/cli)
+9. 🎉 Merged PR [#1](https://github.com/CoopHive/faucet.coophive.network/pull/1) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+10. 💪 Opened PR [#1](https://github.com/CoopHive/faucet.coophive.network/pull/1) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+11. 🎉 Merged PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 💪 Opened PR [#64](https://github.com/CoopHive/hive/pull/64) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🎉 Merged PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 💪 Opened PR [#63](https://github.com/CoopHive/hive/pull/63) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❗ Opened issue [#62](https://github.com/CoopHive/hive/issues/62) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
