@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/CoopHive/hive/pull/72) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#72](https://github.com/CoopHive/hive/pull/72) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🚀 Published release [v0.2.5: Refactored options; Hotfix: infinite cli run](https://github.com/CoopHive/hive/releases/tag/v0.2.5) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🎉 Merged PR [#71](https://github.com/CoopHive/hive/pull/71) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 💪 Opened PR [#71](https://github.com/CoopHive/hive/pull/71) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🎉 Merged PR [#54](https://github.com/CoopHive/hive/pull/54) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🎉 Merged PR [#55](https://github.com/CoopHive/hive/pull/55) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🎉 Merged PR [#53](https://github.com/CoopHive/hive/pull/53) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🎉 Merged PR [#52](https://github.com/CoopHive/hive/pull/52) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🎉 Merged PR [#56](https://github.com/CoopHive/hive/pull/56) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🎉 Merged PR [#57](https://github.com/CoopHive/hive/pull/57) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🎉 Merged PR [#70](https://github.com/CoopHive/hive/pull/70) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 💪 Opened PR [#70](https://github.com/CoopHive/hive/pull/70) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🚀 Published release [v0.2.1](https://github.com/CoopHive/hive/releases/tag/v0.2.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🚀 Published release [v0.2.2: Config module - pflags](https://github.com/CoopHive/hive/releases/tag/v0.2.2) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🎉 Merged PR [#73](https://github.com/CoopHive/hive/pull/73) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 💪 Opened PR [#73](https://github.com/CoopHive/hive/pull/73) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🎉 Merged PR [#72](https://github.com/CoopHive/hive/pull/72) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 💪 Opened PR [#72](https://github.com/CoopHive/hive/pull/72) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🚀 Published release [v0.2.5: Refactored options; Hotfix: infinite cli run](https://github.com/CoopHive/hive/releases/tag/v0.2.5) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🎉 Merged PR [#71](https://github.com/CoopHive/hive/pull/71) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 💪 Opened PR [#71](https://github.com/CoopHive/hive/pull/71) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🎉 Merged PR [#54](https://github.com/CoopHive/hive/pull/54) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🎉 Merged PR [#55](https://github.com/CoopHive/hive/pull/55) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🎉 Merged PR [#53](https://github.com/CoopHive/hive/pull/53) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🎉 Merged PR [#52](https://github.com/CoopHive/hive/pull/52) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🎉 Merged PR [#56](https://github.com/CoopHive/hive/pull/56) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🎉 Merged PR [#57](https://github.com/CoopHive/hive/pull/57) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🎉 Merged PR [#70](https://github.com/CoopHive/hive/pull/70) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 💪 Opened PR [#70](https://github.com/CoopHive/hive/pull/70) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
