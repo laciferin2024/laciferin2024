@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.5: Refactored options; Hotfix: infinite cli run](https://github.com/CoopHive/hive/releases/tag/v0.2.5) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🎉 Merged PR [#78](https://github.com/CoopHive/hive/pull/78) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🗣 Commented on [#61626](https://github.com/golang/go/issues/61626#issuecomment-1927223456) in [golang/go](https://github.com/golang/go)
-4. 💪 Opened PR [#78](https://github.com/CoopHive/hive/pull/78) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🎉 Merged PR [#77](https://github.com/CoopHive/hive/pull/77) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 💪 Opened PR [#77](https://github.com/CoopHive/hive/pull/77) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🎉 Merged PR [#75](https://github.com/CoopHive/hive/pull/75) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🗣 Commented on [#28931](https://github.com/ethereum/go-ethereum/pull/28931#issuecomment-1926785312) in [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-9. ❗ Opened issue [#76](https://github.com/CoopHive/hive/issues/76) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 💪 Opened PR [#75](https://github.com/CoopHive/hive/pull/75) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 💪 Opened PR [#28931](https://github.com/ethereum/go-ethereum/pull/28931) in [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-12. 🎉 Merged PR [#74](https://github.com/CoopHive/hive/pull/74) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 💪 Opened PR [#74](https://github.com/CoopHive/hive/pull/74) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🎉 Merged PR [#73](https://github.com/CoopHive/hive/pull/73) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#73](https://github.com/CoopHive/hive/pull/73) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🎉 Merged PR [#79](https://github.com/CoopHive/hive/pull/79) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🎉 Merged PR [#80](https://github.com/CoopHive/hive/pull/80) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🎉 Merged PR [#81](https://github.com/CoopHive/hive/pull/81) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🎉 Merged PR [#82](https://github.com/CoopHive/hive/pull/82) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🚀 Published release [v0.2.5: Refactored options; Hotfix: infinite cli run](https://github.com/CoopHive/hive/releases/tag/v0.2.5) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🎉 Merged PR [#78](https://github.com/CoopHive/hive/pull/78) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🗣 Commented on [#61626](https://github.com/golang/go/issues/61626#issuecomment-1927223456) in [golang/go](https://github.com/golang/go)
+8. 💪 Opened PR [#78](https://github.com/CoopHive/hive/pull/78) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🎉 Merged PR [#77](https://github.com/CoopHive/hive/pull/77) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#77](https://github.com/CoopHive/hive/pull/77) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🎉 Merged PR [#75](https://github.com/CoopHive/hive/pull/75) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🗣 Commented on [#28931](https://github.com/ethereum/go-ethereum/pull/28931#issuecomment-1926785312) in [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+13. ❗ Opened issue [#76](https://github.com/CoopHive/hive/issues/76) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 💪 Opened PR [#75](https://github.com/CoopHive/hive/pull/75) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 💪 Opened PR [#28931](https://github.com/ethereum/go-ethereum/pull/28931) in [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
