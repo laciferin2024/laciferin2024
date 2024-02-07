@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.1](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🚀 Published release [v0.5.1: Disable AppDataDir, AppPlugin Dir options](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#93](https://github.com/CoopHive/hive/pull/93) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 💪 Opened PR [#93](https://github.com/CoopHive/hive/pull/93) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🎉 Merged PR [#92](https://github.com/CoopHive/hive/pull/92) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 💪 Opened PR [#92](https://github.com/CoopHive/hive/pull/92) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🎉 Merged PR [#86](https://github.com/CoopHive/hive/pull/86) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🗣 Commented on [#90](https://github.com/CoopHive/hive/pull/90#issuecomment-1931253379) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. ❗ Opened issue [#89](https://github.com/CoopHive/hive/issues/89) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🔒 Closed issue [#87](https://github.com/CoopHive/hive/issues/87) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🎉 Merged PR [#88](https://github.com/CoopHive/hive/pull/88) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 💪 Opened PR [#88](https://github.com/CoopHive/hive/pull/88) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. ❗ Opened issue [#87](https://github.com/CoopHive/hive/issues/87) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 💪 Opened PR [#86](https://github.com/CoopHive/hive/pull/86) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🎉 Merged PR [#85](https://github.com/CoopHive/hive/pull/85) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🎉 Merged PR [#94](https://github.com/CoopHive/hive/pull/94) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 💪 Opened PR [#94](https://github.com/CoopHive/hive/pull/94) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🚀 Published release [v0.5.1](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🚀 Published release [v0.5.1: Disable AppDataDir, AppPlugin Dir options](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🎉 Merged PR [#93](https://github.com/CoopHive/hive/pull/93) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 💪 Opened PR [#93](https://github.com/CoopHive/hive/pull/93) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🎉 Merged PR [#92](https://github.com/CoopHive/hive/pull/92) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 💪 Opened PR [#92](https://github.com/CoopHive/hive/pull/92) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🎉 Merged PR [#86](https://github.com/CoopHive/hive/pull/86) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🗣 Commented on [#90](https://github.com/CoopHive/hive/pull/90#issuecomment-1931253379) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. ❗ Opened issue [#89](https://github.com/CoopHive/hive/issues/89) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🔒 Closed issue [#87](https://github.com/CoopHive/hive/issues/87) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🎉 Merged PR [#88](https://github.com/CoopHive/hive/pull/88) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 💪 Opened PR [#88](https://github.com/CoopHive/hive/pull/88) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❗ Opened issue [#87](https://github.com/CoopHive/hive/issues/87) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
