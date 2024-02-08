@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#65595](https://github.com/golang/go/issues/65595) in [golang/go](https://github.com/golang/go)
-2. 💪 Opened PR [#99](https://github.com/CoopHive/hive/pull/99) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#98](https://github.com/CoopHive/hive/pull/98) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 💪 Opened PR [#98](https://github.com/CoopHive/hive/pull/98) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🔒 Closed issue [#96](https://github.com/CoopHive/hive/issues/96) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🎉 Merged PR [#97](https://github.com/CoopHive/hive/pull/97) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 💪 Opened PR [#97](https://github.com/CoopHive/hive/pull/97) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. ❗ Opened issue [#96](https://github.com/CoopHive/hive/issues/96) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 💪 Opened PR [#95](https://github.com/CoopHive/hive/pull/95) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🎉 Merged PR [#94](https://github.com/CoopHive/hive/pull/94) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 💪 Opened PR [#94](https://github.com/CoopHive/hive/pull/94) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🚀 Published release [v0.5.1](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 🚀 Published release [v0.5.1: Disable AppDataDir, AppPlugin Dir options](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🎉 Merged PR [#93](https://github.com/CoopHive/hive/pull/93) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#93](https://github.com/CoopHive/hive/pull/93) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 💪 Opened PR [#100](https://github.com/CoopHive/hive/pull/100) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🎉 Merged PR [#99](https://github.com/CoopHive/hive/pull/99) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. ❗ Opened issue [#65595](https://github.com/golang/go/issues/65595) in [golang/go](https://github.com/golang/go)
+4. 💪 Opened PR [#99](https://github.com/CoopHive/hive/pull/99) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🎉 Merged PR [#98](https://github.com/CoopHive/hive/pull/98) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 💪 Opened PR [#98](https://github.com/CoopHive/hive/pull/98) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🔒 Closed issue [#96](https://github.com/CoopHive/hive/issues/96) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🎉 Merged PR [#97](https://github.com/CoopHive/hive/pull/97) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 💪 Opened PR [#97](https://github.com/CoopHive/hive/pull/97) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. ❗ Opened issue [#96](https://github.com/CoopHive/hive/issues/96) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 💪 Opened PR [#95](https://github.com/CoopHive/hive/pull/95) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🎉 Merged PR [#94](https://github.com/CoopHive/hive/pull/94) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 💪 Opened PR [#94](https://github.com/CoopHive/hive/pull/94) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🚀 Published release [v0.5.1](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 🚀 Published release [v0.5.1: Disable AppDataDir, AppPlugin Dir options](https://github.com/CoopHive/hive/releases/tag/v0.5.1) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
