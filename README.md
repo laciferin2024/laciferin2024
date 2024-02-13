@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#116](https://github.com/CoopHive/hive/issues/116) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🔒 Closed issue [#14](https://github.com/CoopHive/hive/issues/14) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🔒 Closed issue [#15](https://github.com/CoopHive/hive/issues/15) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🔒 Closed issue [#76](https://github.com/CoopHive/hive/issues/76) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#76](https://github.com/CoopHive/hive/issues/76#issuecomment-1941685041) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🗣 Commented on [#37](https://github.com/CoopHive/hive/issues/37#issuecomment-1941684447) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🔒 Closed issue [#37](https://github.com/CoopHive/hive/issues/37) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🗣 Commented on [#39](https://github.com/CoopHive/hive/issues/39#issuecomment-1941683889) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🔒 Closed issue [#39](https://github.com/CoopHive/hive/issues/39) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🔒 Closed issue [#84](https://github.com/CoopHive/hive/issues/84) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🔒 Closed issue [#36](https://github.com/CoopHive/hive/issues/36) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🗣 Commented on [#36](https://github.com/CoopHive/hive/issues/36#issuecomment-1941682370) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 🔒 Closed issue [#67](https://github.com/CoopHive/hive/issues/67) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🔒 Closed issue [#30](https://github.com/CoopHive/hive/issues/30) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🎉 Merged PR [#103](https://github.com/CoopHive/hive/pull/103) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🗣 Commented on [#6](https://github.com/DeCenter-AI/explorer.decenterai.com/pull/6#issuecomment-1942744319) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+2. ❗ Opened issue [#116](https://github.com/CoopHive/hive/issues/116) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🔒 Closed issue [#14](https://github.com/CoopHive/hive/issues/14) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🔒 Closed issue [#15](https://github.com/CoopHive/hive/issues/15) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🔒 Closed issue [#76](https://github.com/CoopHive/hive/issues/76) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🗣 Commented on [#76](https://github.com/CoopHive/hive/issues/76#issuecomment-1941685041) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🗣 Commented on [#37](https://github.com/CoopHive/hive/issues/37#issuecomment-1941684447) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🔒 Closed issue [#37](https://github.com/CoopHive/hive/issues/37) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🗣 Commented on [#39](https://github.com/CoopHive/hive/issues/39#issuecomment-1941683889) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🔒 Closed issue [#39](https://github.com/CoopHive/hive/issues/39) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🔒 Closed issue [#84](https://github.com/CoopHive/hive/issues/84) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🔒 Closed issue [#36](https://github.com/CoopHive/hive/issues/36) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🗣 Commented on [#36](https://github.com/CoopHive/hive/issues/36#issuecomment-1941682370) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🔒 Closed issue [#67](https://github.com/CoopHive/hive/issues/67) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 🔒 Closed issue [#30](https://github.com/CoopHive/hive/issues/30) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
