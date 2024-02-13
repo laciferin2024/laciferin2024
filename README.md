@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/CoopHive/hive/pull/113) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#113](https://github.com/CoopHive/hive/pull/113) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#111](https://github.com/CoopHive/hive/pull/111) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🎉 Merged PR [#112](https://github.com/CoopHive/hive/pull/112) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 💪 Opened PR [#112](https://github.com/CoopHive/hive/pull/112) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🗣 Commented on [#5](https://github.com/DeCenter-AI/explorer.decenterai.com/pull/5#issuecomment-1939447792) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-7. 🗣 Commented on [#154](https://github.com/DeCenter-AI/app.decenterai.com/pull/154#issuecomment-1938373716) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
-8. ❗ Opened issue [#4](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/4) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-9. ❗ Opened issue [#3](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/3) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-10. ❗ Opened issue [#2](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/2) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-11. ❗ Opened issue [#1](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/1) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-12. 🎉 Merged PR [#110](https://github.com/CoopHive/hive/pull/110) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 💪 Opened PR [#110](https://github.com/CoopHive/hive/pull/110) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🎉 Merged PR [#109](https://github.com/CoopHive/hive/pull/109) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#109](https://github.com/CoopHive/hive/pull/109) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🔒 Closed issue [#62](https://github.com/CoopHive/hive/issues/62) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🔒 Closed issue [#45](https://github.com/CoopHive/hive/issues/45) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🔒 Closed issue [#12](https://github.com/CoopHive/hive/issues/12) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🎉 Merged PR [#114](https://github.com/CoopHive/hive/pull/114) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 💪 Opened PR [#114](https://github.com/CoopHive/hive/pull/114) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🎉 Merged PR [#113](https://github.com/CoopHive/hive/pull/113) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 💪 Opened PR [#113](https://github.com/CoopHive/hive/pull/113) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🎉 Merged PR [#111](https://github.com/CoopHive/hive/pull/111) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🎉 Merged PR [#112](https://github.com/CoopHive/hive/pull/112) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#112](https://github.com/CoopHive/hive/pull/112) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🗣 Commented on [#5](https://github.com/DeCenter-AI/explorer.decenterai.com/pull/5#issuecomment-1939447792) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+12. 🗣 Commented on [#154](https://github.com/DeCenter-AI/app.decenterai.com/pull/154#issuecomment-1938373716) in [DeCenter-AI/app.decenterai.com](https://github.com/DeCenter-AI/app.decenterai.com)
+13. ❗ Opened issue [#4](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/4) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+14. ❗ Opened issue [#3](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/3) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+15. ❗ Opened issue [#2](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/2) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
