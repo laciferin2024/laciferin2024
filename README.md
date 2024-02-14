@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#3](https://github.com/DeCenter-AI/bacalhau/pull/3) in [DeCenter-AI/bacalhau](https://github.com/DeCenter-AI/bacalhau)
-4. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
-6. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
-7. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
-8. ❌ Closed PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 💪 Opened PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🔒 Closed issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🎉 Merged PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 💪 Opened PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. ❗ Opened issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. ❗ Opened issue [#117](https://github.com/CoopHive/hive/issues/117) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🗣 Commented on [#6](https://github.com/DeCenter-AI/explorer.decenterai.com/pull/6#issuecomment-1942744319) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+1. 🗣 Commented on [#2](https://github.com/apple/pkl-go/issues/2#issuecomment-1944635772) in [apple/pkl-go](https://github.com/apple/pkl-go)
+2. 🎉 Merged PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 💪 Opened PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🎉 Merged PR [#3](https://github.com/DeCenter-AI/bacalhau/pull/3) in [DeCenter-AI/bacalhau](https://github.com/DeCenter-AI/bacalhau)
+5. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
+7. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
+8. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
+9. ❌ Closed PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🔒 Closed issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🎉 Merged PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 💪 Opened PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. ❗ Opened issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❗ Opened issue [#117](https://github.com/CoopHive/hive/issues/117) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
