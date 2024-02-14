@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/apple/pkl-go/issues/2#issuecomment-1944635772) in [apple/pkl-go](https://github.com/apple/pkl-go)
-2. 🎉 Merged PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 💪 Opened PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 🎉 Merged PR [#3](https://github.com/DeCenter-AI/bacalhau/pull/3) in [DeCenter-AI/bacalhau](https://github.com/DeCenter-AI/bacalhau)
-5. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
-7. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
-8. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
-9. ❌ Closed PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 💪 Opened PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🔒 Closed issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🎉 Merged PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 💪 Opened PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. ❗ Opened issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. ❗ Opened issue [#117](https://github.com/CoopHive/hive/issues/117) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. ❗ Opened issue [#8](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/8) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+2. 🚀 Published release [v0.1.0](https://github.com/DeCenter-AI/explorer.decenterai.com/releases/tag/v0.1.0) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+3. 🗣 Commented on [#2](https://github.com/apple/pkl-go/issues/2#issuecomment-1944635772) in [apple/pkl-go](https://github.com/apple/pkl-go)
+4. 🎉 Merged PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 💪 Opened PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🎉 Merged PR [#3](https://github.com/DeCenter-AI/bacalhau/pull/3) in [DeCenter-AI/bacalhau](https://github.com/DeCenter-AI/bacalhau)
+7. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
+9. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
+10. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
+11. ❌ Closed PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 💪 Opened PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🔒 Closed issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 🎉 Merged PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 💪 Opened PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
