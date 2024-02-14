@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
-3. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
-4. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
-5. ❌ Closed PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 💪 Opened PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🔒 Closed issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🎉 Merged PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 💪 Opened PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. ❗ Opened issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. ❗ Opened issue [#117](https://github.com/CoopHive/hive/issues/117) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🗣 Commented on [#6](https://github.com/DeCenter-AI/explorer.decenterai.com/pull/6#issuecomment-1942744319) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-13. ❗ Opened issue [#116](https://github.com/CoopHive/hive/issues/116) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🔒 Closed issue [#14](https://github.com/CoopHive/hive/issues/14) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🔒 Closed issue [#15](https://github.com/CoopHive/hive/issues/15) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🎉 Merged PR [#3](https://github.com/DeCenter-AI/bacalhau/pull/3) in [DeCenter-AI/bacalhau](https://github.com/DeCenter-AI/bacalhau)
+2. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
+4. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
+5. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
+6. ❌ Closed PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 💪 Opened PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🔒 Closed issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🎉 Merged PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#119](https://github.com/CoopHive/hive/pull/119) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. ❗ Opened issue [#118](https://github.com/CoopHive/hive/issues/118) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. ❗ Opened issue [#117](https://github.com/CoopHive/hive/issues/117) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🗣 Commented on [#6](https://github.com/DeCenter-AI/explorer.decenterai.com/pull/6#issuecomment-1942744319) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+14. ❗ Opened issue [#116](https://github.com/CoopHive/hive/issues/116) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 🔒 Closed issue [#14](https://github.com/CoopHive/hive/issues/14) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
