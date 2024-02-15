@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. ❗ Opened issue [#10](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/10) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-3. ❗ Opened issue [#9](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/9) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-4. ❗ Opened issue [#8](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/8) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-5. 🚀 Published release [v0.1.0](https://github.com/DeCenter-AI/explorer.decenterai.com/releases/tag/v0.1.0) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
-6. 🗣 Commented on [#2](https://github.com/apple/pkl-go/issues/2#issuecomment-1944635772) in [apple/pkl-go](https://github.com/apple/pkl-go)
-7. 🎉 Merged PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 💪 Opened PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🎉 Merged PR [#3](https://github.com/DeCenter-AI/bacalhau/pull/3) in [DeCenter-AI/bacalhau](https://github.com/DeCenter-AI/bacalhau)
-10. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
-12. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
-13. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
-14. ❌ Closed PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 💪 Opened PR [#120](https://github.com/CoopHive/hive/pull/120) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 💪 Opened PR [#124](https://github.com/CoopHive/hive/pull/124) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🎉 Merged PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 💪 Opened PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. ❗ Opened issue [#10](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/10) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+5. ❗ Opened issue [#9](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/9) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+6. ❗ Opened issue [#8](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/8) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+7. 🚀 Published release [v0.1.0](https://github.com/DeCenter-AI/explorer.decenterai.com/releases/tag/v0.1.0) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
+8. 🗣 Commented on [#2](https://github.com/apple/pkl-go/issues/2#issuecomment-1944635772) in [apple/pkl-go](https://github.com/apple/pkl-go)
+9. 🎉 Merged PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#122](https://github.com/CoopHive/hive/pull/122) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🎉 Merged PR [#3](https://github.com/DeCenter-AI/bacalhau/pull/3) in [DeCenter-AI/bacalhau](https://github.com/DeCenter-AI/bacalhau)
+12. ❗ Opened issue [#121](https://github.com/CoopHive/hive/issues/121) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943191994) in [apple/pkl-go](https://github.com/apple/pkl-go)
+14. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943187982) in [apple/pkl-go](https://github.com/apple/pkl-go)
+15. 🗣 Commented on [#13](https://github.com/apple/pkl-go/pull/13#issuecomment-1943181534) in [apple/pkl-go](https://github.com/apple/pkl-go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
