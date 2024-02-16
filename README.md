@@ -78,13 +78,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/CoopHive/faucet.coophive.network/pull/4) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-2. 💪 Opened PR [#4](https://github.com/CoopHive/faucet.coophive.network/pull/4) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-3. 🎉 Merged PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-4. 💪 Opened PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-5. 💪 Opened PR [#2](https://github.com/CoopHive/faucet.coophive.network/pull/2) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-6. 💪 Opened PR [#124](https://github.com/CoopHive/hive/pull/124) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🎉 Merged PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 💪 Opened PR [#5](https://github.com/CoopHive/faucet.coophive.network/pull/5) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+2. ❌ Closed PR [#2](https://github.com/CoopHive/faucet.coophive.network/pull/2) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+3. 🎉 Merged PR [#4](https://github.com/CoopHive/faucet.coophive.network/pull/4) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+4. 💪 Opened PR [#4](https://github.com/CoopHive/faucet.coophive.network/pull/4) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+5. 🎉 Merged PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+6. 💪 Opened PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+7. 💪 Opened PR [#2](https://github.com/CoopHive/faucet.coophive.network/pull/2) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
 8. 💪 Opened PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
 9. ❗ Opened issue [#10](https://github.com/DeCenter-AI/explorer.decenterai.com/issues/10) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
 10. 🚀 Published release [v0.1.0](https://github.com/DeCenter-AI/explorer.decenterai.com/releases/tag/v0.1.0) in [DeCenter-AI/explorer.decenterai.com](https://github.com/DeCenter-AI/explorer.decenterai.com)
