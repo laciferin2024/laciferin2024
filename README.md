@@ -78,7 +78,7 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#127](https://github.com/CoopHive/hive/issues/127) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 💪 Opened PR [#2](https://github.com/CoopHive/faucet.coophive.network/pull/2) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
 2. ❗ Opened issue [#126](https://github.com/CoopHive/hive/issues/126) in [CoopHive/hive](https://github.com/CoopHive/hive)
 3. 🚀 Published release [v0.8.2: HardhatTask deploy to all networks](https://github.com/CoopHive/hive/releases/tag/v0.8.2) in [CoopHive/hive](https://github.com/CoopHive/hive)
 4. 🎉 Merged PR [#125](https://github.com/CoopHive/hive/pull/125) in [CoopHive/hive](https://github.com/CoopHive/hive)
