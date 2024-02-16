@@ -78,11 +78,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/CoopHive/faucet.coophive.network/pull/4) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-2. 🎉 Merged PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-3. 💪 Opened PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-4. 💪 Opened PR [#2](https://github.com/CoopHive/faucet.coophive.network/pull/2) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-5. 🗣 Commented on [#2391](https://github.com/NomicFoundation/hardhat/issues/2391#issuecomment-1946172369) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
+1. 🎉 Merged PR [#4](https://github.com/CoopHive/faucet.coophive.network/pull/4) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+2. 💪 Opened PR [#4](https://github.com/CoopHive/faucet.coophive.network/pull/4) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+3. 🎉 Merged PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+4. 💪 Opened PR [#3](https://github.com/CoopHive/faucet.coophive.network/pull/3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+5. 💪 Opened PR [#2](https://github.com/CoopHive/faucet.coophive.network/pull/2) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
 6. 💪 Opened PR [#124](https://github.com/CoopHive/hive/pull/124) in [CoopHive/hive](https://github.com/CoopHive/hive)
 7. 🎉 Merged PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
 8. 💪 Opened PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
