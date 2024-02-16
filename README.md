@@ -78,11 +78,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.8.2: HardhatTask deploy to all networks](https://github.com/CoopHive/hive/releases/tag/v0.8.2) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🎉 Merged PR [#125](https://github.com/CoopHive/hive/pull/125) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🗣 Commented on [#2391](https://github.com/NomicFoundation/hardhat/issues/2391#issuecomment-1946172369) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
-4. 💪 Opened PR [#125](https://github.com/CoopHive/hive/pull/125) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🎉 Merged PR [#124](https://github.com/CoopHive/hive/pull/124) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. ❗ Opened issue [#127](https://github.com/CoopHive/hive/issues/127) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. ❗ Opened issue [#126](https://github.com/CoopHive/hive/issues/126) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🚀 Published release [v0.8.2: HardhatTask deploy to all networks](https://github.com/CoopHive/hive/releases/tag/v0.8.2) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🎉 Merged PR [#125](https://github.com/CoopHive/hive/pull/125) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 🗣 Commented on [#2391](https://github.com/NomicFoundation/hardhat/issues/2391#issuecomment-1946172369) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
 6. 💪 Opened PR [#124](https://github.com/CoopHive/hive/pull/124) in [CoopHive/hive](https://github.com/CoopHive/hive)
 7. 🎉 Merged PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
 8. 💪 Opened PR [#123](https://github.com/CoopHive/hive/pull/123) in [CoopHive/hive](https://github.com/CoopHive/hive)
