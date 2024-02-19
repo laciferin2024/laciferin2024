@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Nasfame/gmx.io/pull/2) in [Nasfame/gmx.io](https://github.com/Nasfame/gmx.io)
-2. 🗣 Commented on [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481#issuecomment-1951746353) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🗣 Commented on [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481#issuecomment-1951746251) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-4. ❗ Opened issue [#130](https://github.com/CoopHive/hive/issues/130) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. ❗ Opened issue [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-6. 🎉 Merged PR [#9](https://github.com/CoopHive/faucet.coophive.network/pull/9) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-7. 💪 Opened PR [#9](https://github.com/CoopHive/faucet.coophive.network/pull/9) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-8. 🎉 Merged PR [#129](https://github.com/CoopHive/hive/pull/129) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 💪 Opened PR [#129](https://github.com/CoopHive/hive/pull/129) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🗣 Commented on [#65764](https://github.com/golang/go/issues/65764#issuecomment-1949501288) in [golang/go](https://github.com/golang/go)
-11. 🚀 Published release [v0.1.0-ci.alpha.3](https://github.com/CoopHive/faucet.coophive.network/releases/tag/v0.1.0-ci.alpha.3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-12. 🎉 Merged PR [#8](https://github.com/CoopHive/faucet.coophive.network/pull/8) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-13. 💪 Opened PR [#8](https://github.com/CoopHive/faucet.coophive.network/pull/8) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-14. ❗ Opened issue [#65764](https://github.com/golang/go/issues/65764) in [golang/go](https://github.com/golang/go)
-15. 💪 Opened PR [#7](https://github.com/CoopHive/faucet.coophive.network/pull/7) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+1. 🎉 Merged PR [#131](https://github.com/CoopHive/hive/pull/131) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🎉 Merged PR [#2](https://github.com/Nasfame/gmx.io/pull/2) in [Nasfame/gmx.io](https://github.com/Nasfame/gmx.io)
+3. 🗣 Commented on [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481#issuecomment-1951746353) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. 🗣 Commented on [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481#issuecomment-1951746251) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. ❗ Opened issue [#130](https://github.com/CoopHive/hive/issues/130) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. ❗ Opened issue [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+7. 🎉 Merged PR [#9](https://github.com/CoopHive/faucet.coophive.network/pull/9) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+8. 💪 Opened PR [#9](https://github.com/CoopHive/faucet.coophive.network/pull/9) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+9. 🎉 Merged PR [#129](https://github.com/CoopHive/hive/pull/129) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 💪 Opened PR [#129](https://github.com/CoopHive/hive/pull/129) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🗣 Commented on [#65764](https://github.com/golang/go/issues/65764#issuecomment-1949501288) in [golang/go](https://github.com/golang/go)
+12. 🚀 Published release [v0.1.0-ci.alpha.3](https://github.com/CoopHive/faucet.coophive.network/releases/tag/v0.1.0-ci.alpha.3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+13. 🎉 Merged PR [#8](https://github.com/CoopHive/faucet.coophive.network/pull/8) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+14. 💪 Opened PR [#8](https://github.com/CoopHive/faucet.coophive.network/pull/8) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+15. ❗ Opened issue [#65764](https://github.com/golang/go/issues/65764) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
