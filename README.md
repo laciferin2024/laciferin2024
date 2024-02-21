@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/CoopHive/hive/pull/139#issuecomment-1956233970) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 🎉 Merged PR [#139](https://github.com/CoopHive/hive/pull/139) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🗣 Commented on [#141](https://github.com/CoopHive/hive/issues/141#issuecomment-1956202564) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. ❗ Opened issue [#141](https://github.com/CoopHive/hive/issues/141) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🔒 Closed issue [#117](https://github.com/CoopHive/hive/issues/117) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🗣 Commented on [#117](https://github.com/CoopHive/hive/issues/117#issuecomment-1956198724) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 🔒 Closed issue [#116](https://github.com/CoopHive/hive/issues/116) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🔒 Closed issue [#126](https://github.com/CoopHive/hive/issues/126) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🎉 Merged PR [#140](https://github.com/CoopHive/hive/pull/140) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 💪 Opened PR [#140](https://github.com/CoopHive/hive/pull/140) in [CoopHive/hive](https://github.com/CoopHive/hive)
-11. 💪 Opened PR [#139](https://github.com/CoopHive/hive/pull/139) in [CoopHive/hive](https://github.com/CoopHive/hive)
-12. 🎉 Merged PR [#138](https://github.com/CoopHive/hive/pull/138) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 💪 Opened PR [#138](https://github.com/CoopHive/hive/pull/138) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 🎉 Merged PR [#137](https://github.com/CoopHive/hive/pull/137) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🚀 Published release [v0.1.0-ci.alpha.3](https://github.com/CoopHive/faucet.coophive.network/releases/tag/v0.1.0-ci.alpha.3) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+1. 💪 Opened PR [#142](https://github.com/CoopHive/hive/pull/142) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🗣 Commented on [#139](https://github.com/CoopHive/hive/pull/139#issuecomment-1956233970) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 🎉 Merged PR [#139](https://github.com/CoopHive/hive/pull/139) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🗣 Commented on [#141](https://github.com/CoopHive/hive/issues/141#issuecomment-1956202564) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. ❗ Opened issue [#141](https://github.com/CoopHive/hive/issues/141) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🔒 Closed issue [#117](https://github.com/CoopHive/hive/issues/117) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🗣 Commented on [#117](https://github.com/CoopHive/hive/issues/117#issuecomment-1956198724) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 🔒 Closed issue [#116](https://github.com/CoopHive/hive/issues/116) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🔒 Closed issue [#126](https://github.com/CoopHive/hive/issues/126) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🎉 Merged PR [#140](https://github.com/CoopHive/hive/pull/140) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 💪 Opened PR [#140](https://github.com/CoopHive/hive/pull/140) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 💪 Opened PR [#139](https://github.com/CoopHive/hive/pull/139) in [CoopHive/hive](https://github.com/CoopHive/hive)
+13. 🎉 Merged PR [#138](https://github.com/CoopHive/hive/pull/138) in [CoopHive/hive](https://github.com/CoopHive/hive)
+14. 💪 Opened PR [#138](https://github.com/CoopHive/hive/pull/138) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. 🎉 Merged PR [#137](https://github.com/CoopHive/hive/pull/137) in [CoopHive/hive](https://github.com/CoopHive/hive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
