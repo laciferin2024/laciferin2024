@@ -78,13 +78,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/CoopHive/hive/pull/137) in [CoopHive/hive](https://github.com/CoopHive/hive)
-2. 💪 Opened PR [#137](https://github.com/CoopHive/hive/pull/137) in [CoopHive/hive](https://github.com/CoopHive/hive)
-3. 🎉 Merged PR [#136](https://github.com/CoopHive/hive/pull/136) in [CoopHive/hive](https://github.com/CoopHive/hive)
-4. 💪 Opened PR [#136](https://github.com/CoopHive/hive/pull/136) in [CoopHive/hive](https://github.com/CoopHive/hive)
-5. 🎉 Merged PR [#135](https://github.com/CoopHive/hive/pull/135) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 💪 Opened PR [#135](https://github.com/CoopHive/hive/pull/135) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 💪 Opened PR [#134](https://github.com/CoopHive/hive/pull/134) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 💪 Opened PR [#139](https://github.com/CoopHive/hive/pull/139) in [CoopHive/hive](https://github.com/CoopHive/hive)
+2. 🎉 Merged PR [#138](https://github.com/CoopHive/hive/pull/138) in [CoopHive/hive](https://github.com/CoopHive/hive)
+3. 💪 Opened PR [#138](https://github.com/CoopHive/hive/pull/138) in [CoopHive/hive](https://github.com/CoopHive/hive)
+4. 🎉 Merged PR [#137](https://github.com/CoopHive/hive/pull/137) in [CoopHive/hive](https://github.com/CoopHive/hive)
+5. 💪 Opened PR [#137](https://github.com/CoopHive/hive/pull/137) in [CoopHive/hive](https://github.com/CoopHive/hive)
+6. 🎉 Merged PR [#136](https://github.com/CoopHive/hive/pull/136) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 💪 Opened PR [#136](https://github.com/CoopHive/hive/pull/136) in [CoopHive/hive](https://github.com/CoopHive/hive)
 8. 🎉 Merged PR [#133](https://github.com/CoopHive/hive/pull/133) in [CoopHive/hive](https://github.com/CoopHive/hive)
 9. 🎉 Merged PR [#131](https://github.com/CoopHive/hive/pull/131) in [CoopHive/hive](https://github.com/CoopHive/hive)
 10. 🎉 Merged PR [#2](https://github.com/Nasfame/gmx.io/pull/2) in [Nasfame/gmx.io](https://github.com/Nasfame/gmx.io)
