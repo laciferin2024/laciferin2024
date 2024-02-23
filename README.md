@@ -89,10 +89,10 @@
 9. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961063385) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 10. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961058441) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 11. ❗ Opened issue [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-12. 💪 Opened PR [#145](https://github.com/CoopHive/hive/pull/145) in [CoopHive/hive](https://github.com/CoopHive/hive)
-13. 🎉 Merged PR [#144](https://github.com/CoopHive/hive/pull/144) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. 💪 Opened PR [#144](https://github.com/CoopHive/hive/pull/144) in [CoopHive/hive](https://github.com/CoopHive/hive)
-15. 🔒 Closed issue [#141](https://github.com/CoopHive/hive/issues/141) in [CoopHive/hive](https://github.com/CoopHive/hive)
+12. 🔒 Closed issue [#11642](https://github.com/filecoin-project/lotus/issues/11642) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
+13. 🗣 Commented on [#11642](https://github.com/filecoin-project/lotus/issues/11642#issuecomment-1959925275) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
+14. 🎉 Merged PR [#23](https://github.com/golangFame/go/pull/23) in [golangFame/go](https://github.com/golangFame/go)
+15. ❗ Opened issue [#11642](https://github.com/filecoin-project/lotus/issues/11642) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
