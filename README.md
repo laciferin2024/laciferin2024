@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961067978) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-2. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961063385) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961058441) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-4. ❗ Opened issue [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. 💪 Opened PR [#145](https://github.com/CoopHive/hive/pull/145) in [CoopHive/hive](https://github.com/CoopHive/hive)
-6. 🎉 Merged PR [#144](https://github.com/CoopHive/hive/pull/144) in [CoopHive/hive](https://github.com/CoopHive/hive)
-7. 💪 Opened PR [#144](https://github.com/CoopHive/hive/pull/144) in [CoopHive/hive](https://github.com/CoopHive/hive)
-8. 🔒 Closed issue [#141](https://github.com/CoopHive/hive/issues/141) in [CoopHive/hive](https://github.com/CoopHive/hive)
-9. 🎉 Merged PR [#143](https://github.com/CoopHive/hive/pull/143) in [CoopHive/hive](https://github.com/CoopHive/hive)
-10. 🔒 Closed issue [#11642](https://github.com/filecoin-project/lotus/issues/11642) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
-11. 🗣 Commented on [#11642](https://github.com/filecoin-project/lotus/issues/11642#issuecomment-1959925275) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
-12. 🎉 Merged PR [#23](https://github.com/golangFame/go/pull/23) in [golangFame/go](https://github.com/golangFame/go)
-13. 💪 Opened PR [#143](https://github.com/CoopHive/hive/pull/143) in [CoopHive/hive](https://github.com/CoopHive/hive)
-14. ❗ Opened issue [#11642](https://github.com/filecoin-project/lotus/issues/11642) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
-15. 🗣 Commented on [#117](https://github.com/CoopHive/hive/issues/117#issuecomment-1956198724) in [CoopHive/hive](https://github.com/CoopHive/hive)
+1. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961081593) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961067978) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+3. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961063385) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961058441) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. ❗ Opened issue [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+6. 💪 Opened PR [#145](https://github.com/CoopHive/hive/pull/145) in [CoopHive/hive](https://github.com/CoopHive/hive)
+7. 🎉 Merged PR [#144](https://github.com/CoopHive/hive/pull/144) in [CoopHive/hive](https://github.com/CoopHive/hive)
+8. 💪 Opened PR [#144](https://github.com/CoopHive/hive/pull/144) in [CoopHive/hive](https://github.com/CoopHive/hive)
+9. 🔒 Closed issue [#141](https://github.com/CoopHive/hive/issues/141) in [CoopHive/hive](https://github.com/CoopHive/hive)
+10. 🎉 Merged PR [#143](https://github.com/CoopHive/hive/pull/143) in [CoopHive/hive](https://github.com/CoopHive/hive)
+11. 🔒 Closed issue [#11642](https://github.com/filecoin-project/lotus/issues/11642) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
+12. 🗣 Commented on [#11642](https://github.com/filecoin-project/lotus/issues/11642#issuecomment-1959925275) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
+13. 🎉 Merged PR [#23](https://github.com/golangFame/go/pull/23) in [golangFame/go](https://github.com/golangFame/go)
+14. 💪 Opened PR [#143](https://github.com/CoopHive/hive/pull/143) in [CoopHive/hive](https://github.com/CoopHive/hive)
+15. ❗ Opened issue [#11642](https://github.com/filecoin-project/lotus/issues/11642) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
