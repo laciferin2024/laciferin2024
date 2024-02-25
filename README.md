@@ -89,10 +89,10 @@
 9. 🔒 Closed issue [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 10. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961095326) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 11. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961093416) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-12. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961067978) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-13. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961063385) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-14. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961058441) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-15. ❗ Opened issue [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+12. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961089486) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+13. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961088372) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+14. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961081593) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+15. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961067978) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
