@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CoopHive/coophive-module-marker/pull/1) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-2. 💪 Opened PR [#1](https://github.com/CoopHive/coophive-module-marker/pull/1) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-3. 🗣 Commented on [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481#issuecomment-1961523041) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-4. 🔒 Closed issue [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961095326) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-6. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961093416) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-7. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961089486) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-8. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961088372) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-9. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961081593) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-10. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961067978) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-11. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961063385) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-12. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961058441) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-13. ❗ Opened issue [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-14. 🔒 Closed issue [#11642](https://github.com/filecoin-project/lotus/issues/11642) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
-15. 🗣 Commented on [#11642](https://github.com/filecoin-project/lotus/issues/11642#issuecomment-1959925275) in [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
+1. 🎉 Merged PR [#2](https://github.com/CoopHive/coophive-module-marker/pull/2) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+2. 💪 Opened PR [#2](https://github.com/CoopHive/coophive-module-marker/pull/2) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+3. 🎉 Merged PR [#1](https://github.com/CoopHive/coophive-module-marker/pull/1) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+4. 💪 Opened PR [#1](https://github.com/CoopHive/coophive-module-marker/pull/1) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+5. 🗣 Commented on [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481#issuecomment-1961523041) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+6. 🔒 Closed issue [#3481](https://github.com/bacalhau-project/bacalhau/issues/3481) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+7. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961095326) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+8. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961093416) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+9. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961089486) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+10. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961088372) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+11. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961081593) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+12. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961067978) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+13. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961063385) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+14. 🗣 Commented on [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508#issuecomment-1961058441) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+15. ❗ Opened issue [#3508](https://github.com/bacalhau-project/bacalhau/issues/3508) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
