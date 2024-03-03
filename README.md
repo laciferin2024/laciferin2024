@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/CoopHive/coophive-module-sdxl/pull/2) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-2. 🗣 Commented on [#2](https://github.com/CoopHive/coophive-module-sdxl/pull/2#issuecomment-1974943702) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-3. 💪 Opened PR [#2](https://github.com/CoopHive/coophive-module-sdxl/pull/2) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-4. 🎉 Merged PR [#1](https://github.com/CoopHive/coophive-module-sdxl/pull/1) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-5. 💪 Opened PR [#1](https://github.com/CoopHive/coophive-module-sdxl/pull/1) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-6. 💪 Opened PR [#4](https://github.com/CoopHive/coophive/pull/4) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-7. 🗣 Commented on [#3](https://github.com/CoopHive/coophive/issues/3#issuecomment-1973731923) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-8. ❗ Opened issue [#3](https://github.com/CoopHive/coophive/issues/3) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-9. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968799001) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-10. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968796692) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-11. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968776554) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-12. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968774049) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-13. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968770625) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-14. 🗣 Commented on [#348](https://github.com/rs/zerolog/issues/348#issuecomment-1968717937) in [rs/zerolog](https://github.com/rs/zerolog)
-15. ❗ Opened issue [#3512](https://github.com/bacalhau-project/bacalhau/issues/3512) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+1. 💪 Opened PR [#3](https://github.com/CoopHive/coophive-module-sdxl/pull/3) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+2. 🎉 Merged PR [#2](https://github.com/CoopHive/coophive-module-sdxl/pull/2) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+3. 🗣 Commented on [#2](https://github.com/CoopHive/coophive-module-sdxl/pull/2#issuecomment-1974943702) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+4. 💪 Opened PR [#2](https://github.com/CoopHive/coophive-module-sdxl/pull/2) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+5. 🎉 Merged PR [#1](https://github.com/CoopHive/coophive-module-sdxl/pull/1) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+6. 💪 Opened PR [#1](https://github.com/CoopHive/coophive-module-sdxl/pull/1) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+7. 💪 Opened PR [#4](https://github.com/CoopHive/coophive/pull/4) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+8. 🗣 Commented on [#3](https://github.com/CoopHive/coophive/issues/3#issuecomment-1973731923) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+9. ❗ Opened issue [#3](https://github.com/CoopHive/coophive/issues/3) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+10. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968799001) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+11. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968796692) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+12. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968776554) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+13. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968774049) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+14. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1968770625) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+15. 🗣 Commented on [#348](https://github.com/rs/zerolog/issues/348#issuecomment-1968717937) in [rs/zerolog](https://github.com/rs/zerolog)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
