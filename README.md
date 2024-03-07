@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983360724) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-2. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983358922) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-3. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983352493) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-4. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983344127) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-5. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983339717) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-6. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983331970) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-7. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983331394) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-8. 💪 Opened PR [#5](https://github.com/CoopHive/coophive/pull/5) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-9. 🔒 Closed issue [#4494](https://github.com/warpdotdev/Warp/issues/4494) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-10. 🗣 Commented on [#4494](https://github.com/warpdotdev/Warp/issues/4494#issuecomment-1982186653) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-11. ❗ Opened issue [#4494](https://github.com/warpdotdev/Warp/issues/4494) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-12. 🗣 Commented on [#753](https://github.com/warpdotdev/Warp/issues/753#issuecomment-1982014529) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-13. 💪 Opened PR [#4](https://github.com/CoopHive/coophive-module-sdxl/pull/4) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-14. 💪 Opened PR [#3](https://github.com/CoopHive/coophive-module-sdxl/pull/3) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-15. 🎉 Merged PR [#2](https://github.com/CoopHive/coophive-module-sdxl/pull/2) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+1. ❗ Opened issue [#6](https://github.com/CoopHive/coophive/issues/6) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+2. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983360724) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+3. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983358922) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+4. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983352493) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+5. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983344127) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+6. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983339717) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+7. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983331970) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+8. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983331394) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+9. 💪 Opened PR [#5](https://github.com/CoopHive/coophive/pull/5) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+10. 🔒 Closed issue [#4494](https://github.com/warpdotdev/Warp/issues/4494) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+11. 🗣 Commented on [#4494](https://github.com/warpdotdev/Warp/issues/4494#issuecomment-1982186653) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+12. ❗ Opened issue [#4494](https://github.com/warpdotdev/Warp/issues/4494) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+13. 🗣 Commented on [#753](https://github.com/warpdotdev/Warp/issues/753#issuecomment-1982014529) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+14. 💪 Opened PR [#4](https://github.com/CoopHive/coophive-module-sdxl/pull/4) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+15. 💪 Opened PR [#3](https://github.com/CoopHive/coophive-module-sdxl/pull/3) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
