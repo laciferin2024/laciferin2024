@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005375) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
-2. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005093) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
-3. ❗ Opened issue [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
-4. 🚀 Published release [v0.3.0](https://github.com/CoopHive/coophive-module-sdxl/releases/tag/v0.3.0) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-5. 🎉 Merged PR [#5](https://github.com/CoopHive/coophive-module-sdxl/pull/5) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-6. 🗣 Commented on [#5](https://github.com/CoopHive/coophive-module-sdxl/pull/5#issuecomment-1985910135) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-7. 🗣 Commented on [#753](https://github.com/warpdotdev/Warp/issues/753#issuecomment-1985349210) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-8. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1985335832) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
-9. ❗ Opened issue [#4504](https://github.com/warpdotdev/Warp/issues/4504) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-10. 💪 Opened PR [#12](https://github.com/CoopHive/faucet.coophive.network/pull/12) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
-11. 🎉 Merged PR [#6](https://github.com/CoopHive/coophive-module-sdxl/pull/6) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-12. 💪 Opened PR [#6](https://github.com/CoopHive/coophive-module-sdxl/pull/6) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-13. 💪 Opened PR [#5](https://github.com/CoopHive/coophive-module-sdxl/pull/5) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-14. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983552016) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
-15. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983549092) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
+1. 🗣 Commented on [#4504](https://github.com/warpdotdev/Warp/issues/4504#issuecomment-1986781574) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+2. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005375) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
+3. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005093) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
+4. ❗ Opened issue [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
+5. 🚀 Published release [v0.3.0](https://github.com/CoopHive/coophive-module-sdxl/releases/tag/v0.3.0) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+6. 🎉 Merged PR [#5](https://github.com/CoopHive/coophive-module-sdxl/pull/5) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+7. 🗣 Commented on [#5](https://github.com/CoopHive/coophive-module-sdxl/pull/5#issuecomment-1985910135) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+8. 🗣 Commented on [#753](https://github.com/warpdotdev/Warp/issues/753#issuecomment-1985349210) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+9. 🗣 Commented on [#54](https://github.com/bxcodec/dbresolver/pull/54#issuecomment-1985335832) in [bxcodec/dbresolver](https://github.com/bxcodec/dbresolver)
+10. ❗ Opened issue [#4504](https://github.com/warpdotdev/Warp/issues/4504) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+11. 💪 Opened PR [#12](https://github.com/CoopHive/faucet.coophive.network/pull/12) in [CoopHive/faucet.coophive.network](https://github.com/CoopHive/faucet.coophive.network)
+12. 🎉 Merged PR [#6](https://github.com/CoopHive/coophive-module-sdxl/pull/6) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+13. 💪 Opened PR [#6](https://github.com/CoopHive/coophive-module-sdxl/pull/6) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+14. 💪 Opened PR [#5](https://github.com/CoopHive/coophive-module-sdxl/pull/5) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+15. 🗣 Commented on [#5](https://github.com/CoopHive/coophive/pull/5#issuecomment-1983552016) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
