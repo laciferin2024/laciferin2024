@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#788](https://github.com/consensus-shipyard/ipc/pull/788) in [consensus-shipyard/ipc](https://github.com/consensus-shipyard/ipc)
-2. ❗ Opened issue [#3588](https://github.com/bacalhau-project/bacalhau/issues/3588) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🗣 Commented on [#4](https://github.com/CoopHive/coophive-module-marker/pull/4#issuecomment-1987352331) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-4. 🗣 Commented on [#4](https://github.com/CoopHive/coophive-module-marker/pull/4#issuecomment-1987351887) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-5. 💪 Opened PR [#4](https://github.com/CoopHive/coophive-module-marker/pull/4) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-6. 🚀 Published release [v2.0.0: -i ipfs= -i cid= (with complicated 4 cross logic)](https://github.com/CoopHive/coophive-module-marker/releases/tag/v2.0.0) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-7. 🗣 Commented on [#3](https://github.com/CoopHive/coophive-module-marker/pull/3#issuecomment-1987337566) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-8. 💪 Opened PR [#3](https://github.com/CoopHive/coophive-module-marker/pull/3) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
-9. ❗ Opened issue [#4522](https://github.com/warpdotdev/Warp/issues/4522) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-10. 🗣 Commented on [#4504](https://github.com/warpdotdev/Warp/issues/4504#issuecomment-1986781574) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-11. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005375) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
-12. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005093) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
-13. ❗ Opened issue [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
-14. 🚀 Published release [v0.3.0](https://github.com/CoopHive/coophive-module-sdxl/releases/tag/v0.3.0) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
-15. 🎉 Merged PR [#5](https://github.com/CoopHive/coophive-module-sdxl/pull/5) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
+1. 🗣 Commented on [#3588](https://github.com/bacalhau-project/bacalhau/issues/3588#issuecomment-1991325992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 💪 Opened PR [#788](https://github.com/consensus-shipyard/ipc/pull/788) in [consensus-shipyard/ipc](https://github.com/consensus-shipyard/ipc)
+3. ❗ Opened issue [#3588](https://github.com/bacalhau-project/bacalhau/issues/3588) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. 🗣 Commented on [#4](https://github.com/CoopHive/coophive-module-marker/pull/4#issuecomment-1987352331) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+5. 🗣 Commented on [#4](https://github.com/CoopHive/coophive-module-marker/pull/4#issuecomment-1987351887) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+6. 💪 Opened PR [#4](https://github.com/CoopHive/coophive-module-marker/pull/4) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+7. 🚀 Published release [v2.0.0: -i ipfs= -i cid= (with complicated 4 cross logic)](https://github.com/CoopHive/coophive-module-marker/releases/tag/v2.0.0) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+8. 🗣 Commented on [#3](https://github.com/CoopHive/coophive-module-marker/pull/3#issuecomment-1987337566) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+9. 💪 Opened PR [#3](https://github.com/CoopHive/coophive-module-marker/pull/3) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+10. ❗ Opened issue [#4522](https://github.com/warpdotdev/Warp/issues/4522) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+11. 🗣 Commented on [#4504](https://github.com/warpdotdev/Warp/issues/4504#issuecomment-1986781574) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+12. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005375) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
+13. 🗣 Commented on [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3#issuecomment-1986005093) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
+14. ❗ Opened issue [#3](https://github.com/consensus-shipyard/ipc-dx-docker/issues/3) in [consensus-shipyard/ipc-dx-docker](https://github.com/consensus-shipyard/ipc-dx-docker)
+15. 🚀 Published release [v0.3.0](https://github.com/CoopHive/coophive-module-sdxl/releases/tag/v0.3.0) in [CoopHive/coophive-module-sdxl](https://github.com/CoopHive/coophive-module-sdxl)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
