@@ -78,12 +78,12 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-2. 🎉 Merged PR [#2](https://github.com/antFame/ant/pull/2) in [antFame/ant](https://github.com/antFame/ant)
-3. 💪 Opened PR [#1](https://github.com/colony2024/a/pull/1) in [colony2024/a](https://github.com/colony2024/a)
-4. 💪 Opened PR [#2](https://github.com/antFame/ant/pull/2) in [antFame/ant](https://github.com/antFame/ant)
-5. 🎉 Merged PR [#1](https://github.com/antFame/ant/pull/1) in [antFame/ant](https://github.com/antFame/ant)
-6. 💪 Opened PR [#1](https://github.com/antFame/ant/pull/1) in [antFame/ant](https://github.com/antFame/ant)
+1. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988572) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🔒 Closed issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+3. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988051) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982344) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+6. ❗ Opened issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 7. 🗣 Commented on [#1642](https://github.com/casey/just/issues/1642#issuecomment-2014425842) in [casey/just](https://github.com/casey/just)
 8. 🗣 Commented on [#1642](https://github.com/casey/just/issues/1642#issuecomment-2014425120) in [casey/just](https://github.com/casey/just)
 9. 🗣 Commented on [#7](https://github.com/CoopHive/coophive/issues/7#issuecomment-2007974099) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
