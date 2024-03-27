@@ -78,7 +78,7 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/colony2024/a/pull/2) in [colony2024/a](https://github.com/colony2024/a)
+1. ❗ Opened issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 2. 🎉 Merged PR [#2](https://github.com/antFame/ant/pull/2) in [antFame/ant](https://github.com/antFame/ant)
 3. 💪 Opened PR [#1](https://github.com/colony2024/a/pull/1) in [colony2024/a](https://github.com/colony2024/a)
 4. 💪 Opened PR [#2](https://github.com/antFame/ant/pull/2) in [antFame/ant](https://github.com/antFame/ant)
