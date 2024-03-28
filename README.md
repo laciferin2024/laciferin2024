@@ -78,13 +78,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988572) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-2. 🔒 Closed issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988051) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-4. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982344) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-6. ❗ Opened issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-7. 🗣 Commented on [#1642](https://github.com/casey/just/issues/1642#issuecomment-2014425842) in [casey/just](https://github.com/casey/just)
+1. ❗ Opened issue [#3728](https://github.com/bacalhau-project/bacalhau/issues/3728) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988572) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+3. 🔒 Closed issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988051) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+6. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982344) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+7. ❗ Opened issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 8. 🗣 Commented on [#1642](https://github.com/casey/just/issues/1642#issuecomment-2014425120) in [casey/just](https://github.com/casey/just)
 9. 🗣 Commented on [#7](https://github.com/CoopHive/coophive/issues/7#issuecomment-2007974099) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
 10. ❗ Opened issue [#7](https://github.com/CoopHive/coophive/issues/7) in [CoopHive/coophive](https://github.com/CoopHive/coophive)
