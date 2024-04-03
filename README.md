@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034655240) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-2. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034122716) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🎉 Merged PR [#10](https://github.com/Nasfame/pfg/pull/10) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
-4. 💪 Opened PR [#3734](https://github.com/bacalhau-project/bacalhau/pull/3734) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-5. 🎉 Merged PR [#63](https://github.com/Nasfame/bacalhau/pull/63) in [Nasfame/bacalhau](https://github.com/Nasfame/bacalhau)
-6. ❗ Opened issue [#3728](https://github.com/bacalhau-project/bacalhau/issues/3728) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-7. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988572) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-8. 🔒 Closed issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-9. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988051) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-10. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-11. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982344) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-12. ❗ Opened issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-13. 🔒 Closed issue [#1967](https://github.com/casey/just/issues/1967) in [casey/just](https://github.com/casey/just)
-14. ❗ Opened issue [#3588](https://github.com/bacalhau-project/bacalhau/issues/3588) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-15. 🗣 Commented on [#4](https://github.com/CoopHive/coophive-module-marker/pull/4#issuecomment-1987352331) in [CoopHive/coophive-module-marker](https://github.com/CoopHive/coophive-module-marker)
+1. 🔒 Closed issue [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2035222040) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+3. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2035216285) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034655240) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+5. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034122716) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+6. 🎉 Merged PR [#10](https://github.com/Nasfame/pfg/pull/10) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
+7. 💪 Opened PR [#3734](https://github.com/bacalhau-project/bacalhau/pull/3734) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+8. 🎉 Merged PR [#63](https://github.com/Nasfame/bacalhau/pull/63) in [Nasfame/bacalhau](https://github.com/Nasfame/bacalhau)
+9. ❗ Opened issue [#3728](https://github.com/bacalhau-project/bacalhau/issues/3728) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+10. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988572) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+11. 🔒 Closed issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+12. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023988051) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+13. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982992) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+14. 🗣 Commented on [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717#issuecomment-2023982344) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+15. ❗ Opened issue [#3717](https://github.com/bacalhau-project/bacalhau/issues/3717) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
