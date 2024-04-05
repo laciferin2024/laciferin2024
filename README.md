@@ -78,7 +78,7 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3728](https://github.com/bacalhau-project/bacalhau/issues/3728#issuecomment-2038483735) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+1. 🎉 Merged PR [#1](https://github.com/Nasfame/ipc/pull/1) in [Nasfame/ipc](https://github.com/Nasfame/ipc)
 2. 🗣 Commented on [#3728](https://github.com/bacalhau-project/bacalhau/issues/3728#issuecomment-2038464505) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 3. 🗣 Commented on [#3734](https://github.com/bacalhau-project/bacalhau/pull/3734#issuecomment-2038456577) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 4. 🎉 Merged PR [#3](https://github.com/Nasfame/gmx.io/pull/3) in [Nasfame/gmx.io](https://github.com/Nasfame/gmx.io)
