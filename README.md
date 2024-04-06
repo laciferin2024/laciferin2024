@@ -78,14 +78,14 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2041008177) in [earthly/earthly](https://github.com/earthly/earthly)
-2. 🗣 Commented on [#3981](https://github.com/earthly/earthly/pull/3981#issuecomment-2041008061) in [earthly/earthly](https://github.com/earthly/earthly)
-3. ❗ Opened issue [#3992](https://github.com/earthly/earthly/issues/3992) in [earthly/earthly](https://github.com/earthly/earthly)
-4. 🗣 Commented on [#3824](https://github.com/earthly/earthly/issues/3824#issuecomment-2041005986) in [earthly/earthly](https://github.com/earthly/earthly)
-5. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2041003490) in [earthly/earthly](https://github.com/earthly/earthly)
-6. ❗ Opened issue [#3991](https://github.com/earthly/earthly/issues/3991) in [earthly/earthly](https://github.com/earthly/earthly)
-7. 🎉 Merged PR [#1](https://github.com/Nasfame/ipc/pull/1) in [Nasfame/ipc](https://github.com/Nasfame/ipc)
-8. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2035216285) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+1. ❗ Opened issue [#3759](https://github.com/bacalhau-project/bacalhau/issues/3759) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2041008177) in [earthly/earthly](https://github.com/earthly/earthly)
+3. 🗣 Commented on [#3981](https://github.com/earthly/earthly/pull/3981#issuecomment-2041008061) in [earthly/earthly](https://github.com/earthly/earthly)
+4. ❗ Opened issue [#3992](https://github.com/earthly/earthly/issues/3992) in [earthly/earthly](https://github.com/earthly/earthly)
+5. 🗣 Commented on [#3824](https://github.com/earthly/earthly/issues/3824#issuecomment-2041005986) in [earthly/earthly](https://github.com/earthly/earthly)
+6. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2041003490) in [earthly/earthly](https://github.com/earthly/earthly)
+7. ❗ Opened issue [#3991](https://github.com/earthly/earthly/issues/3991) in [earthly/earthly](https://github.com/earthly/earthly)
+8. 🎉 Merged PR [#1](https://github.com/Nasfame/ipc/pull/1) in [Nasfame/ipc](https://github.com/Nasfame/ipc)
 9. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034655240) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 10. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034122716) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 11. 🎉 Merged PR [#10](https://github.com/Nasfame/pfg/pull/10) in [Nasfame/pfg](https://github.com/Nasfame/pfg)
