@@ -78,9 +78,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Nasfame/ipc/pull/1) in [Nasfame/ipc](https://github.com/Nasfame/ipc)
-2. 🗣 Commented on [#3728](https://github.com/bacalhau-project/bacalhau/issues/3728#issuecomment-2038464505) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🗣 Commented on [#3734](https://github.com/bacalhau-project/bacalhau/pull/3734#issuecomment-2038456577) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+1. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2041003490) in [earthly/earthly](https://github.com/earthly/earthly)
+2. ❗ Opened issue [#3991](https://github.com/earthly/earthly/issues/3991) in [earthly/earthly](https://github.com/earthly/earthly)
+3. 🎉 Merged PR [#1](https://github.com/Nasfame/ipc/pull/1) in [Nasfame/ipc](https://github.com/Nasfame/ipc)
 4. 🎉 Merged PR [#3](https://github.com/Nasfame/gmx.io/pull/3) in [Nasfame/gmx.io](https://github.com/Nasfame/gmx.io)
 5. ❗ Opened issue [#1](https://github.com/Third-Pitch/gmx-interface-v2/issues/1) in [Third-Pitch/gmx-interface-v2](https://github.com/Third-Pitch/gmx-interface-v2)
 6. 🔒 Closed issue [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
