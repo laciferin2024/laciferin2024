@@ -78,13 +78,13 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3824](https://github.com/earthly/earthly/issues/3824#issuecomment-2041005986) in [earthly/earthly](https://github.com/earthly/earthly)
-2. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2041003490) in [earthly/earthly](https://github.com/earthly/earthly)
-3. ❗ Opened issue [#3991](https://github.com/earthly/earthly/issues/3991) in [earthly/earthly](https://github.com/earthly/earthly)
-4. 🎉 Merged PR [#1](https://github.com/Nasfame/ipc/pull/1) in [Nasfame/ipc](https://github.com/Nasfame/ipc)
-5. ❗ Opened issue [#1](https://github.com/Third-Pitch/gmx-interface-v2/issues/1) in [Third-Pitch/gmx-interface-v2](https://github.com/Third-Pitch/gmx-interface-v2)
-6. 🔒 Closed issue [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-7. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2035222040) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+1. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2041008177) in [earthly/earthly](https://github.com/earthly/earthly)
+2. 🗣 Commented on [#3981](https://github.com/earthly/earthly/pull/3981#issuecomment-2041008061) in [earthly/earthly](https://github.com/earthly/earthly)
+3. ❗ Opened issue [#3992](https://github.com/earthly/earthly/issues/3992) in [earthly/earthly](https://github.com/earthly/earthly)
+4. 🗣 Commented on [#3824](https://github.com/earthly/earthly/issues/3824#issuecomment-2041005986) in [earthly/earthly](https://github.com/earthly/earthly)
+5. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2041003490) in [earthly/earthly](https://github.com/earthly/earthly)
+6. ❗ Opened issue [#3991](https://github.com/earthly/earthly/issues/3991) in [earthly/earthly](https://github.com/earthly/earthly)
+7. 🎉 Merged PR [#1](https://github.com/Nasfame/ipc/pull/1) in [Nasfame/ipc](https://github.com/Nasfame/ipc)
 8. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2035216285) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 9. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034655240) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 10. 🗣 Commented on [#3513](https://github.com/bacalhau-project/bacalhau/issues/3513#issuecomment-2034122716) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
