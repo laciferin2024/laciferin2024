@@ -78,21 +78,21 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3999](https://github.com/earthly/earthly/pull/3999) in [earthly/earthly](https://github.com/earthly/earthly)
-2. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043448707) in [earthly/earthly](https://github.com/earthly/earthly)
-3. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043396522) in [earthly/earthly](https://github.com/earthly/earthly)
-4. 🗣 Commented on [#3991](https://github.com/earthly/earthly/issues/3991#issuecomment-2043279519) in [earthly/earthly](https://github.com/earthly/earthly)
-5. 🗣 Commented on [#3991](https://github.com/earthly/earthly/issues/3991#issuecomment-2043268058) in [earthly/earthly](https://github.com/earthly/earthly)
-6. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043259172) in [earthly/earthly](https://github.com/earthly/earthly)
-7. 🗣 Commented on [#3766](https://github.com/bacalhau-project/bacalhau/issues/3766#issuecomment-2042520715) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-8. ❗ Opened issue [#3766](https://github.com/bacalhau-project/bacalhau/issues/3766) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-9. ❗ Opened issue [#3759](https://github.com/bacalhau-project/bacalhau/issues/3759) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-10. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2041008177) in [earthly/earthly](https://github.com/earthly/earthly)
-11. 🗣 Commented on [#3981](https://github.com/earthly/earthly/pull/3981#issuecomment-2041008061) in [earthly/earthly](https://github.com/earthly/earthly)
-12. ❗ Opened issue [#3992](https://github.com/earthly/earthly/issues/3992) in [earthly/earthly](https://github.com/earthly/earthly)
-13. 🗣 Commented on [#3824](https://github.com/earthly/earthly/issues/3824#issuecomment-2041005986) in [earthly/earthly](https://github.com/earthly/earthly)
-14. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2041003490) in [earthly/earthly](https://github.com/earthly/earthly)
-15. ❗ Opened issue [#3991](https://github.com/earthly/earthly/issues/3991) in [earthly/earthly](https://github.com/earthly/earthly)
+1. ❗ Opened issue [#1](https://github.com/Nasfame/earthly/issues/1) in [Nasfame/earthly](https://github.com/Nasfame/earthly)
+2. 💪 Opened PR [#3999](https://github.com/earthly/earthly/pull/3999) in [earthly/earthly](https://github.com/earthly/earthly)
+3. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043448707) in [earthly/earthly](https://github.com/earthly/earthly)
+4. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043396522) in [earthly/earthly](https://github.com/earthly/earthly)
+5. 🗣 Commented on [#3991](https://github.com/earthly/earthly/issues/3991#issuecomment-2043279519) in [earthly/earthly](https://github.com/earthly/earthly)
+6. 🗣 Commented on [#3991](https://github.com/earthly/earthly/issues/3991#issuecomment-2043268058) in [earthly/earthly](https://github.com/earthly/earthly)
+7. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043259172) in [earthly/earthly](https://github.com/earthly/earthly)
+8. 🗣 Commented on [#3766](https://github.com/bacalhau-project/bacalhau/issues/3766#issuecomment-2042520715) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+9. ❗ Opened issue [#3766](https://github.com/bacalhau-project/bacalhau/issues/3766) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+10. ❗ Opened issue [#3759](https://github.com/bacalhau-project/bacalhau/issues/3759) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+11. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2041008177) in [earthly/earthly](https://github.com/earthly/earthly)
+12. 🗣 Commented on [#3981](https://github.com/earthly/earthly/pull/3981#issuecomment-2041008061) in [earthly/earthly](https://github.com/earthly/earthly)
+13. ❗ Opened issue [#3992](https://github.com/earthly/earthly/issues/3992) in [earthly/earthly](https://github.com/earthly/earthly)
+14. 🗣 Commented on [#3824](https://github.com/earthly/earthly/issues/3824#issuecomment-2041005986) in [earthly/earthly](https://github.com/earthly/earthly)
+15. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2041003490) in [earthly/earthly](https://github.com/earthly/earthly)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
