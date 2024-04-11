@@ -78,11 +78,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050449599) in [earthly/earthly](https://github.com/earthly/earthly)
-2. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050097241) in [earthly/earthly](https://github.com/earthly/earthly)
-3. 💪 Opened PR [#4013](https://github.com/earthly/earthly/pull/4013) in [earthly/earthly](https://github.com/earthly/earthly)
-4. ❗ Opened issue [#4003](https://github.com/earthly/earthly/issues/4003) in [earthly/earthly](https://github.com/earthly/earthly)
-5. 🗣 Commented on [#4002](https://github.com/earthly/earthly/pull/4002#issuecomment-2046222779) in [earthly/earthly](https://github.com/earthly/earthly)
+1. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050499491) in [earthly/earthly](https://github.com/earthly/earthly)
+2. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050491384) in [earthly/earthly](https://github.com/earthly/earthly)
+3. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050449599) in [earthly/earthly](https://github.com/earthly/earthly)
+4. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050097241) in [earthly/earthly](https://github.com/earthly/earthly)
+5. 💪 Opened PR [#4013](https://github.com/earthly/earthly/pull/4013) in [earthly/earthly](https://github.com/earthly/earthly)
 6. 💪 Opened PR [#4002](https://github.com/earthly/earthly/pull/4002) in [earthly/earthly](https://github.com/earthly/earthly)
 7. 🗣 Commented on [#3959](https://github.com/earthly/earthly/issues/3959#issuecomment-2046140871) in [earthly/earthly](https://github.com/earthly/earthly)
 8. 🗣 Commented on [#3959](https://github.com/earthly/earthly/issues/3959#issuecomment-2046135314) in [earthly/earthly](https://github.com/earthly/earthly)
