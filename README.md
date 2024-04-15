@@ -78,10 +78,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050499491) in [earthly/earthly](https://github.com/earthly/earthly)
-2. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050491384) in [earthly/earthly](https://github.com/earthly/earthly)
-3. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050449599) in [earthly/earthly](https://github.com/earthly/earthly)
-4. 🗣 Commented on [#4013](https://github.com/earthly/earthly/pull/4013#issuecomment-2050097241) in [earthly/earthly](https://github.com/earthly/earthly)
+1. 🗣 Commented on [#3759](https://github.com/bacalhau-project/bacalhau/issues/3759#issuecomment-2057177000) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+2. 🗣 Commented on [#2989](https://github.com/bacalhau-project/bacalhau/issues/2989#issuecomment-2057157390) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+3. 🗣 Commented on [#2989](https://github.com/bacalhau-project/bacalhau/issues/2989#issuecomment-2057146244) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+4. 🗣 Commented on [#2989](https://github.com/bacalhau-project/bacalhau/issues/2989#issuecomment-2057140527) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
 5. 💪 Opened PR [#4013](https://github.com/earthly/earthly/pull/4013) in [earthly/earthly](https://github.com/earthly/earthly)
 6. 💪 Opened PR [#4002](https://github.com/earthly/earthly/pull/4002) in [earthly/earthly](https://github.com/earthly/earthly)
 7. 🗣 Commented on [#3959](https://github.com/earthly/earthly/issues/3959#issuecomment-2046140871) in [earthly/earthly](https://github.com/earthly/earthly)
