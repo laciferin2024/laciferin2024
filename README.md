@@ -78,7 +78,7 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/laciferin/digger/pull/5) in [laciferin/digger](https://github.com/laciferin/digger)
+1. 💪 Opened PR [#1](https://github.com/darts-network/darts-contracts/pull/1) in [darts-network/darts-contracts](https://github.com/darts-network/darts-contracts)
 2. 💪 Opened PR [#5](https://github.com/laciferin/digger/pull/5) in [laciferin/digger](https://github.com/laciferin/digger)
 3. 🎉 Merged PR [#12](https://github.com/antFame/ant/pull/12) in [antFame/ant](https://github.com/antFame/ant)
 4. 🗣 Commented on [#2989](https://github.com/bacalhau-project/bacalhau/issues/2989#issuecomment-2057140527) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
