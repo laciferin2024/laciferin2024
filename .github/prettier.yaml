@@ -9,6 +9,7 @@ on:
       - opened
     branches:
       - 'main'
+      - Nashfame
   #    paths: ['**.yaml','**.js', '**.jsx', '**.ts', '**.tsx', '**.css', '**.scss', '**.html', '**.vue', '**.json', '**.md']
 
   workflow_dispatch:
