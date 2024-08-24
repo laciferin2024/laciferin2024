@@ -7,9 +7,9 @@
 <!--
 <img align="right" alt="Coding" width="400" src="./profile-3d-contrib/profile-south-season-animate.svg"> -->
 
-<!-- <img align="right" alt="Profile Status" width="400" src="https://github-readme-stats.vercel.app/api?username=Nashfame&show_icons=true&&theme=github_dark&locale=en&hide=stars,javascript,html"> -->
+<!-- <img align="right" alt="Profile Status" width="400" src="https://github-readme-stats.vercel.app/api?username=laciferin2024&show_icons=true&&theme=github_dark&locale=en&hide=stars,javascript,html"> -->
 
-<img align="right" alt="Profile Status" width="400" src="https://github-readme-stats-xi-rosy.vercel.app/api?username=Nashfame&hide=stars&theme=github_dark">
+<img align="right" alt="Profile Status" width="400" src="https://github-readme-stats-xi-rosy.vercel.app/api?username=laciferin2024&hide=stars&theme=github_dark">
 
 <!-- <p align="left"> <a href="https://twitter.com/laciferin" target="blank"><img src="https://img.shields.io/twitter/follow/laciferin?logo=twitter&style=for-the-badge" alt="laciferin" /></a> </p> -->
 
@@ -19,10 +19,10 @@
 - 🌱 Discovering **Quantum Computing, Zkproofs** ⚡
 - 👯 I’m looking to collaborate on **ML, AI, Web3, Zkproofs**
 <!-- - 🤝 I’m looking for peer learners & experts on **Quantum Computing, ML** -->
-- 👨‍💻 Checkout my projects @ <b> [Nashfame](https://github.com/Nashfame), [Web3Musketeers](https://github.com/CoopHive/), [DecenterAI](https://github.com/DeCenter-AI/) </b>
+- 👨‍💻 Checkout my projects @ <b> [laciferin2024](https://github.com/laciferin2024), [Web3Musketeers](https://github.com/CoopHive/), [DecenterAI](https://github.com/DeCenter-AI/) </b>
 - 💬 Ask me your doubts on **OSS,Go, Python, Javascript,BE (Backend)** 📝
 - 🥅 2024 Goals: Build **Quantum Zkproofs**, <b> Multi-modal(video,audio,text) ML **AGI** model </b>
-    <!-- - 💻 Coding/Programming - [@Nashfame](https://github.com/Nashfame) -->
+    <!-- - 💻 Coding/Programming - [@laciferin2024](https://github.com/laciferin2024) -->
   <!-- - 📫 Reach me @ <a href="mailto:laciferin@gmail.com"> Send Mail</a> -->
 - 👯 Fun fact **AGI I am gonna build @ 2024 will be better than me @ coding**
 <!--
@@ -59,9 +59,9 @@
   </a>
 </p> -->
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashfame&show_icons=true&locale=en&layout=compact&hide=CSS,Makefile,PHP,CMake,Powershell,TSQL,Java,HTML,Shell,Batchfile,SCSS" alt="Nashfame" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laciferin2024&show_icons=true&locale=en&layout=compact&hide=CSS,Makefile,PHP,CMake,Powershell,TSQL,Java,HTML,Shell,Batchfile,SCSS" alt="laciferin2024" /></p> -->
 <!--
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nashfame&show_icons=true&locale=en&&hide=javascript,html" alt="Nashfame" /></p> -->
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=laciferin2024&show_icons=true&locale=en&&hide=javascript,html" alt="laciferin2024" /></p> -->
 
 ## ⭐ My Latest projects
 
@@ -91,7 +91,7 @@
 9. 🗣 Commented on [#3990](https://github.com/earthly/earthly/issues/3990#issuecomment-2046128958) in [earthly/earthly](https://github.com/earthly/earthly)
 10. 🗣 Commented on [#3999](https://github.com/earthly/earthly/pull/3999#issuecomment-2046123054) in [earthly/earthly](https://github.com/earthly/earthly)
 11. 🗣 Commented on [#21182](https://github.com/golang/go/issues/21182#issuecomment-2045715611) in [golang/go](https://github.com/golang/go)
-12. ❗ Opened issue [#1](https://github.com/Nashfame/earthly/issues/1) in [Nashfame/earthly](https://github.com/Nashfame/earthly)
+12. ❗ Opened issue [#1](https://github.com/laciferin2024/earthly/issues/1) in [laciferin2024/earthly](https://github.com/laciferin2024/earthly)
 13. 💪 Opened PR [#3999](https://github.com/earthly/earthly/pull/3999) in [earthly/earthly](https://github.com/earthly/earthly)
 14. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043448707) in [earthly/earthly](https://github.com/earthly/earthly)
 15. 🗣 Commented on [#3992](https://github.com/earthly/earthly/issues/3992#issuecomment-2043396522) in [earthly/earthly](https://github.com/earthly/earthly)
