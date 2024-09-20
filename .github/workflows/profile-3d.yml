@@ -65,8 +65,8 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit
         with:
-          commit_user_name: Baymax
-          commit_user_email: laciferin@gmail.com
+          commit_user_name: Nasfame
+          commit_user_email: laciferin2024@protonmail.com
           commit_author: Hiro <laciferin@gmail.com>
           commit_message: "ci: update profile-3d"
           commit_options: "--no-verify --signoff"

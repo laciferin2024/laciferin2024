@@ -45,7 +45,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡ ci: Update README with the recent activity"
-          COMMIT_NAME: Baymax
-          COMMIT_EMAIL: "laciferin@gmail.com"
+          commit_user_name: Nasfame
+          commit_user_email: laciferin2024@protonmail.com
           TARGET_FILE: README.md
           MAX_LINES: 15 #u need to seed if n : u need to seed n activities.
