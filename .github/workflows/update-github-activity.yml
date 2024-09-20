@@ -14,18 +14,21 @@ on:
   #   branches:
   #     - main
 
-  schedule: 
-    - cron: "*/8 * * * *"
+  schedule:
+    - cron: "*/20 * * * *"
     # 00:00 IST == 05:30 UTC
     # - cron: "30 5 * * *"
   workflow_dispatch:
 
 concurrency:
-  group: git-commit
-  cancel-in-progress: false
+  group: ${{github.workflow}}-${{github.ref}}
+  cancel-in-progress: true
 
 jobs:
   build:
+    concurrency:
+      group: git-commit
+
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
 
