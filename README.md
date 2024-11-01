@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#30](https://github.com/proto-kit/starter-kit/pull/30) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-2. 🗣 Commented on [#1964](https://github.com/skalenetwork/skaled/issues/1964#issuecomment-2437764935) in [skalenetwork/skaled](https://github.com/skalenetwork/skaled)
-3. 🗣 Commented on [#1964](https://github.com/skalenetwork/skaled/issues/1964#issuecomment-2437764179) in [skalenetwork/skaled](https://github.com/skalenetwork/skaled)
-4. 🚀 Published release [v0.100.1-alpha.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.100.1-alpha.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.100.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.100.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🗣 Commented on [#724](https://github.com/marlonrichert/zsh-autocomplete/issues/724#issuecomment-2433771913) in [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
-7. 🗣 Commented on [#724](https://github.com/marlonrichert/zsh-autocomplete/issues/724#issuecomment-2433562095) in [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
-8. 💪 Opened PR [#220](https://github.com/babylonlabs-io/babylon/pull/220) in [babylonlabs-io/babylon](https://github.com/babylonlabs-io/babylon)
-9. ❗ Opened issue [#219](https://github.com/babylonlabs-io/babylon/issues/219) in [babylonlabs-io/babylon](https://github.com/babylonlabs-io/babylon)
-10. 🗣 Commented on [#12066](https://github.com/withastro/astro/issues/12066#issuecomment-2374900811) in [withastro/astro](https://github.com/withastro/astro)
-11. 🗣 Commented on [#12066](https://github.com/withastro/astro/issues/12066#issuecomment-2374526937) in [withastro/astro](https://github.com/withastro/astro)
-12. 🗣 Commented on [#12066](https://github.com/withastro/astro/issues/12066#issuecomment-2371311219) in [withastro/astro](https://github.com/withastro/astro)
-13. ❗ Opened issue [#12066](https://github.com/withastro/astro/issues/12066) in [withastro/astro](https://github.com/withastro/astro)
-14. 🗣 Commented on [#1964](https://github.com/skalenetwork/skaled/issues/1964#issuecomment-2295424353) in [skalenetwork/skaled](https://github.com/skalenetwork/skaled)
-15. 🗣 Commented on [#1964](https://github.com/skalenetwork/skaled/issues/1964#issuecomment-2295422713) in [skalenetwork/skaled](https://github.com/skalenetwork/skaled)
+1. 🔒 Closed issue [#31](https://github.com/proto-kit/starter-kit/issues/31) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+2. 🗣 Commented on [#31](https://github.com/proto-kit/starter-kit/issues/31#issuecomment-2451139369) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+3. 🗣 Commented on [#31](https://github.com/proto-kit/starter-kit/issues/31#issuecomment-2451138416) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+4. ❗ Opened issue [#31](https://github.com/proto-kit/starter-kit/issues/31) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+5. 🗣 Commented on [#1](https://github.com/proto-kit/starter-kit/issues/1#issuecomment-2451134122) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+6. 💪 Opened PR [#30](https://github.com/proto-kit/starter-kit/pull/30) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+7. 🗣 Commented on [#1964](https://github.com/skalenetwork/skaled/issues/1964#issuecomment-2437764935) in [skalenetwork/skaled](https://github.com/skalenetwork/skaled)
+8. 🗣 Commented on [#1964](https://github.com/skalenetwork/skaled/issues/1964#issuecomment-2437764179) in [skalenetwork/skaled](https://github.com/skalenetwork/skaled)
+9. 🚀 Published release [v0.100.1-alpha.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.100.1-alpha.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+10. 🚀 Published release [v0.100.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.100.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+11. 🗣 Commented on [#724](https://github.com/marlonrichert/zsh-autocomplete/issues/724#issuecomment-2433771913) in [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
+12. 🗣 Commented on [#724](https://github.com/marlonrichert/zsh-autocomplete/issues/724#issuecomment-2433562095) in [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
+13. 💪 Opened PR [#220](https://github.com/babylonlabs-io/babylon/pull/220) in [babylonlabs-io/babylon](https://github.com/babylonlabs-io/babylon)
+14. ❗ Opened issue [#219](https://github.com/babylonlabs-io/babylon/issues/219) in [babylonlabs-io/babylon](https://github.com/babylonlabs-io/babylon)
+15. 🗣 Commented on [#12066](https://github.com/withastro/astro/issues/12066#issuecomment-2374900811) in [withastro/astro](https://github.com/withastro/astro)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
