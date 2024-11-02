@@ -80,13 +80,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/darts2024/ci/pull/1) in [darts2024/ci](https://github.com/darts2024/ci)
-2. ❗ Opened issue [#33](https://github.com/proto-kit/starter-kit/issues/33) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-3. 🗣 Commented on [#32](https://github.com/proto-kit/starter-kit/issues/32#issuecomment-2452816119) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-4. 🗣 Commented on [#32](https://github.com/proto-kit/starter-kit/issues/32#issuecomment-2452813759) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-5. ❗ Opened issue [#32](https://github.com/proto-kit/starter-kit/issues/32) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-6. 🔒 Closed issue [#31](https://github.com/proto-kit/starter-kit/issues/31) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-7. 🗣 Commented on [#31](https://github.com/proto-kit/starter-kit/issues/31#issuecomment-2451139369) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+1. ❌ Closed PR [#1](https://github.com/darts2024/ci/pull/1) in [darts2024/ci](https://github.com/darts2024/ci)
+2. 💪 Opened PR [#1](https://github.com/darts2024/ci/pull/1) in [darts2024/ci](https://github.com/darts2024/ci)
+3. ❗ Opened issue [#33](https://github.com/proto-kit/starter-kit/issues/33) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+4. 🗣 Commented on [#32](https://github.com/proto-kit/starter-kit/issues/32#issuecomment-2452816119) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+5. 🗣 Commented on [#32](https://github.com/proto-kit/starter-kit/issues/32#issuecomment-2452813759) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+6. ❗ Opened issue [#32](https://github.com/proto-kit/starter-kit/issues/32) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+7. 🔒 Closed issue [#31](https://github.com/proto-kit/starter-kit/issues/31) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
 8. 🗣 Commented on [#31](https://github.com/proto-kit/starter-kit/issues/31#issuecomment-2451138416) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
 9. ❗ Opened issue [#31](https://github.com/proto-kit/starter-kit/issues/31) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
 10. 🗣 Commented on [#1](https://github.com/proto-kit/starter-kit/issues/1#issuecomment-2451134122) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
