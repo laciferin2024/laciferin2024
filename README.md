@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#21](https://github.com/Abdenasser/neohtop/issues/21) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-2. 🗣 Commented on [#8](https://github.com/Abdenasser/neohtop/issues/8#issuecomment-2460323917) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-3. 🗣 Commented on [#20](https://github.com/Abdenasser/neohtop/issues/20#issuecomment-2460320631) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-4. ❗ Opened issue [#20](https://github.com/Abdenasser/neohtop/issues/20) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-5. 💪 Opened PR [#19](https://github.com/Abdenasser/neohtop/pull/19) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-6. 🗣 Commented on [#16](https://github.com/Abdenasser/neohtop/issues/16#issuecomment-2460238481) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-7. 🗣 Commented on [#7](https://github.com/Abdenasser/neohtop/pull/7#issuecomment-2456341722) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-8. 💪 Opened PR [#7](https://github.com/Abdenasser/neohtop/pull/7) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-9. 🎉 Merged PR [#2](https://github.com/darts2024/ci/pull/2) in [darts2024/ci](https://github.com/darts2024/ci)
-10. 💪 Opened PR [#2](https://github.com/darts2024/ci/pull/2) in [darts2024/ci](https://github.com/darts2024/ci)
-11. ❌ Closed PR [#1](https://github.com/darts2024/ci/pull/1) in [darts2024/ci](https://github.com/darts2024/ci)
-12. 💪 Opened PR [#1](https://github.com/darts2024/ci/pull/1) in [darts2024/ci](https://github.com/darts2024/ci)
-13. ❗ Opened issue [#33](https://github.com/proto-kit/starter-kit/issues/33) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-14. 🗣 Commented on [#32](https://github.com/proto-kit/starter-kit/issues/32#issuecomment-2452816119) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
-15. 🗣 Commented on [#32](https://github.com/proto-kit/starter-kit/issues/32#issuecomment-2452813759) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+1. ❗ Opened issue [#22](https://github.com/Abdenasser/neohtop/issues/22) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+2. ❗ Opened issue [#21](https://github.com/Abdenasser/neohtop/issues/21) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+3. 🗣 Commented on [#8](https://github.com/Abdenasser/neohtop/issues/8#issuecomment-2460323917) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+4. 🗣 Commented on [#20](https://github.com/Abdenasser/neohtop/issues/20#issuecomment-2460320631) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+5. ❗ Opened issue [#20](https://github.com/Abdenasser/neohtop/issues/20) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+6. 💪 Opened PR [#19](https://github.com/Abdenasser/neohtop/pull/19) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+7. 🗣 Commented on [#16](https://github.com/Abdenasser/neohtop/issues/16#issuecomment-2460238481) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+8. 🗣 Commented on [#7](https://github.com/Abdenasser/neohtop/pull/7#issuecomment-2456341722) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+9. 💪 Opened PR [#7](https://github.com/Abdenasser/neohtop/pull/7) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+10. 🎉 Merged PR [#2](https://github.com/darts2024/ci/pull/2) in [darts2024/ci](https://github.com/darts2024/ci)
+11. 💪 Opened PR [#2](https://github.com/darts2024/ci/pull/2) in [darts2024/ci](https://github.com/darts2024/ci)
+12. ❌ Closed PR [#1](https://github.com/darts2024/ci/pull/1) in [darts2024/ci](https://github.com/darts2024/ci)
+13. 💪 Opened PR [#1](https://github.com/darts2024/ci/pull/1) in [darts2024/ci](https://github.com/darts2024/ci)
+14. ❗ Opened issue [#33](https://github.com/proto-kit/starter-kit/issues/33) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
+15. 🗣 Commented on [#32](https://github.com/proto-kit/starter-kit/issues/32#issuecomment-2452816119) in [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
