@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/Abdenasser/neohtop/pull/19#issuecomment-2465294305) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-2. 🚀 Published release [v0.101.0: deployed to alt-arb-babylon chain](https://github.com/DeCenterAI-1/darts/releases/tag/v0.101.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🗣 Commented on [#22](https://github.com/Abdenasser/neohtop/issues/22#issuecomment-2463842794) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-4. ❗ Opened issue [#1](https://github.com/laciferin2024/satoshi-id/issues/1) in [laciferin2024/satoshi-id](https://github.com/laciferin2024/satoshi-id)
-5. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2462958172) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-6. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2462066647) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-7. 🗣 Commented on [#249](https://github.com/ipfs/js-ipfs-utils/issues/249#issuecomment-2461629458) in [ipfs/js-ipfs-utils](https://github.com/ipfs/js-ipfs-utils)
-8. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2461261644) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-9. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2461261127) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-10. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2460734399) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-11. 🗣 Commented on [#16](https://github.com/Abdenasser/neohtop/issues/16#issuecomment-2460728219) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-12. 🗣 Commented on [#16](https://github.com/Abdenasser/neohtop/issues/16#issuecomment-2460714201) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-13. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2460691280) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-14. ❗ Opened issue [#230](https://github.com/ceramicstudio/js-composedb/issues/230) in [ceramicstudio/js-composedb](https://github.com/ceramicstudio/js-composedb)
-15. 🗣 Commented on [#16](https://github.com/Abdenasser/neohtop/issues/16#issuecomment-2460379702) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+1. ❗ Opened issue [#47](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/47) in [ICP-Hacker-House/Devcon_BKK](https://github.com/ICP-Hacker-House/Devcon_BKK)
+2. 🗣 Commented on [#19](https://github.com/Abdenasser/neohtop/pull/19#issuecomment-2465294305) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+3. 🚀 Published release [v0.101.0: deployed to alt-arb-babylon chain](https://github.com/DeCenterAI-1/darts/releases/tag/v0.101.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🗣 Commented on [#22](https://github.com/Abdenasser/neohtop/issues/22#issuecomment-2463842794) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+5. ❗ Opened issue [#1](https://github.com/laciferin2024/satoshi-id/issues/1) in [laciferin2024/satoshi-id](https://github.com/laciferin2024/satoshi-id)
+6. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2462958172) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+7. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2462066647) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+8. 🗣 Commented on [#249](https://github.com/ipfs/js-ipfs-utils/issues/249#issuecomment-2461629458) in [ipfs/js-ipfs-utils](https://github.com/ipfs/js-ipfs-utils)
+9. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2461261644) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+10. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2461261127) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+11. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2460734399) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+12. 🗣 Commented on [#16](https://github.com/Abdenasser/neohtop/issues/16#issuecomment-2460728219) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+13. 🗣 Commented on [#16](https://github.com/Abdenasser/neohtop/issues/16#issuecomment-2460714201) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+14. 🗣 Commented on [#23](https://github.com/Abdenasser/neohtop/issues/23#issuecomment-2460691280) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+15. ❗ Opened issue [#230](https://github.com/ceramicstudio/js-composedb/issues/230) in [ceramicstudio/js-composedb](https://github.com/ceramicstudio/js-composedb)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
