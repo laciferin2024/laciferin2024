@@ -80,8 +80,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/darts2024/dart-isdxl/pull/1) in [darts2024/dart-isdxl](https://github.com/darts2024/dart-isdxl)
-2. ❌ Closed PR [#19](https://github.com/Abdenasser/neohtop/pull/19) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+1. 🎉 Merged PR [#1](https://github.com/darts2024/dart-isdxl/pull/1) in [darts2024/dart-isdxl](https://github.com/darts2024/dart-isdxl)
+2. 💪 Opened PR [#1](https://github.com/darts2024/dart-isdxl/pull/1) in [darts2024/dart-isdxl](https://github.com/darts2024/dart-isdxl)
 3. 🗣 Commented on [#19](https://github.com/Abdenasser/neohtop/pull/19#issuecomment-2466823571) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
 4. 🗣 Commented on [#19](https://github.com/Abdenasser/neohtop/pull/19#issuecomment-2466239513) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
 5. 🗣 Commented on [#19](https://github.com/Abdenasser/neohtop/pull/19#issuecomment-2466238851) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
