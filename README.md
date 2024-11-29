@@ -80,13 +80,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.205.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.204.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.204.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.203.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.203.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.202.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.202.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.203.0-alpha: Deploy](https://github.com/DeCenterAI-1/darts/releases/tag/v0.203.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🚀 Published release [v0.201.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.201.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.201.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.201.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.205-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.205-beta.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.205.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.204.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.204.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.203.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.203.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🚀 Published release [v0.202.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.202.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🚀 Published release [v0.203.0-alpha: Deploy](https://github.com/DeCenterAI-1/darts/releases/tag/v0.203.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 8. 🗣 Commented on [#19](https://github.com/Abdenasser/neohtop/pull/19#issuecomment-2465294305) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
 9. 🚀 Published release [v0.101.0: deployed to alt-arb-babylon chain](https://github.com/DeCenterAI-1/darts/releases/tag/v0.101.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 10. 🗣 Commented on [#22](https://github.com/Abdenasser/neohtop/issues/22#issuecomment-2463842794) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
