@@ -80,14 +80,14 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.205.2](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.205.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.205.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.205-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.205-beta.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🚀 Published release [v0.205.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.204.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.204.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-8. 🚀 Published release [v0.203.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.203.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.205.3](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.3) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.205.2](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.205.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.205.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.205-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🚀 Published release [v0.205-beta.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🚀 Published release [v0.205.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+8. 🚀 Published release [v0.204.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.204.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.202.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.202.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 10. 🚀 Published release [v0.203.0-alpha: Deploy](https://github.com/DeCenterAI-1/darts/releases/tag/v0.203.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 11. ❗ Opened issue [#1](https://github.com/laciferin2024/satoshi-id/issues/1) in [laciferin2024/satoshi-id](https://github.com/laciferin2024/satoshi-id)
