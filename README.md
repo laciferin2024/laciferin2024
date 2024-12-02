@@ -80,12 +80,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.400.0-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.400.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. ❗ Opened issue [#120](https://github.com/Abdenasser/neohtop/issues/120) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-4. 🚀 Published release [v0.302.0: float gpu offers for parallelization](https://github.com/DeCenterAI-1/darts/releases/tag/v0.302.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.301.0: module fc  `mul` and support for isdxl:v0.3.4](https://github.com/DeCenterAI-1/darts/releases/tag/v0.301.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🚀 Published release [v0.300.0: Support for cpu jobs in isdxl with eq module fc](https://github.com/DeCenterAI-1/darts/releases/tag/v0.300.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.400.0: child rp dynamic offer creation for better concurent job runs ](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.400.0-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.400.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. ❗ Opened issue [#120](https://github.com/Abdenasser/neohtop/issues/120) in [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+5. 🚀 Published release [v0.302.0: float gpu offers for parallelization](https://github.com/DeCenterAI-1/darts/releases/tag/v0.302.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🚀 Published release [v0.301.0: module fc  `mul` and support for isdxl:v0.3.4](https://github.com/DeCenterAI-1/darts/releases/tag/v0.301.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 7. 🚀 Published release [v0.205-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 8. 🚀 Published release [v0.205.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.202.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.202.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
