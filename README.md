@@ -80,12 +80,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.600.0: Shows darts resource offers](https://github.com/DeCenterAI-1/darts/releases/tag/v0.600.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.500.0: feat/module-fc regex support for isdxl:v1.1.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.500.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.400.0: child rp dynamic offer creation for better concurent job runs ](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.400.0-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.400.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🚀 Published release [v0.301.0: module fc  `mul` and support for isdxl:v0.3.4](https://github.com/DeCenterAI-1/darts/releases/tag/v0.301.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.700.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.600.0: Shows darts resource offers](https://github.com/DeCenterAI-1/darts/releases/tag/v0.600.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.500.0: feat/module-fc regex support for isdxl:v1.1.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.500.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.400.0: child rp dynamic offer creation for better concurent job runs ](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.400.0-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🚀 Published release [v0.400.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.400.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 7. 🚀 Published release [v0.205-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 8. 🚀 Published release [v0.205.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.202.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.202.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
