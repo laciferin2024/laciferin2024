@@ -80,13 +80,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.700.3](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.3) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.700.2](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.700.1: status improved](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.700.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.600.0: Shows darts resource offers](https://github.com/DeCenterAI-1/darts/releases/tag/v0.600.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🚀 Published release [v0.500.0: feat/module-fc regex support for isdxl:v1.1.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.500.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.205-beta](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205-beta) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.701.0: show resource orders sorted](https://github.com/DeCenterAI-1/darts/releases/tag/v0.701.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.700.3](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.3) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.700.2](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.700.1: status improved](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.700.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.700.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🚀 Published release [v0.600.0: Shows darts resource offers](https://github.com/DeCenterAI-1/darts/releases/tag/v0.600.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🚀 Published release [v0.500.0: feat/module-fc regex support for isdxl:v1.1.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.500.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 8. 🚀 Published release [v0.205.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.205.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.202.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.202.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 10. 🚀 Published release [v0.203.0-alpha: Deploy](https://github.com/DeCenterAI-1/darts/releases/tag/v0.203.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
