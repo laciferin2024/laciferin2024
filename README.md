@@ -80,12 +80,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.800.1: concurency fix ephemeral](https://github.com/DeCenterAI-1/darts/releases/tag/v0.800.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.800.0: ephemeral](https://github.com/DeCenterAI-1/darts/releases/tag/v0.800.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.711.2: solver fixes, -race in macos](https://github.com/DeCenterAI-1/darts/releases/tag/v0.711.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.711.0: solver build](https://github.com/DeCenterAI-1/darts/releases/tag/v0.711.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.710.2: fix update offer states and deal states](https://github.com/DeCenterAI-1/darts/releases/tag/v0.710.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🚀 Published release [v0.710.1: v710.0 was broken](https://github.com/DeCenterAI-1/darts/releases/tag/v0.710.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.801.0: status: see job offers; solver : cleanup](https://github.com/DeCenterAI-1/darts/releases/tag/v0.801.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.800.1: concurency fix ephemeral](https://github.com/DeCenterAI-1/darts/releases/tag/v0.800.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.800.0: ephemeral](https://github.com/DeCenterAI-1/darts/releases/tag/v0.800.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.711.2: solver fixes, -race in macos](https://github.com/DeCenterAI-1/darts/releases/tag/v0.711.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.711.0: solver build](https://github.com/DeCenterAI-1/darts/releases/tag/v0.711.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🚀 Published release [v0.710.2: fix update offer states and deal states](https://github.com/DeCenterAI-1/darts/releases/tag/v0.710.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 7. 🚀 Published release [v0.710.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.710.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 8. 💪 Opened PR [#120](https://github.com/lighthouse-web3/lighthouse-package/pull/120) in [lighthouse-web3/lighthouse-package](https://github.com/lighthouse-web3/lighthouse-package)
 9. 🚀 Published release [v0.709.0-rp: bacalhau get joblogs](https://github.com/DeCenterAI-1/darts/releases/tag/v0.709.0-rp) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
