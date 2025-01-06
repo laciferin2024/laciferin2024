@@ -80,14 +80,14 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.808.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.808.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🗣 Commented on [#4798](https://github.com/bacalhau-project/bacalhau/issues/4798#issuecomment-2571608134) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-3. 🚀 Published release [v0.807.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.807.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.807.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.807.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. ❗ Opened issue [#4798](https://github.com/bacalhau-project/bacalhau/issues/4798) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
-6. ❗ Opened issue [#1192](https://github.com/google/jsonnet/issues/1192) in [google/jsonnet](https://github.com/google/jsonnet)
-7. 🗣 Commented on [#304](https://github.com/google/jsonnet/issues/304#issuecomment-2571186423) in [google/jsonnet](https://github.com/google/jsonnet)
-8. 💪 Opened PR [#1](https://github.com/darts2024/dart-cowsay/pull/1) in [darts2024/dart-cowsay](https://github.com/darts2024/dart-cowsay)
+1. 🚀 Published release [v0.808.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.808.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.808.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.808.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🗣 Commented on [#4798](https://github.com/bacalhau-project/bacalhau/issues/4798#issuecomment-2571608134) in [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau)
+7. 🚀 Published release [v0.807.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.807.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+8. 🚀 Published release [v0.807.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.807.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.806.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.806.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 10. 🚀 Published release [v0.806.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.806.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 11. 🚀 Published release [v0.805.1-generous-empheral](https://github.com/DeCenterAI-1/darts/releases/tag/v0.805.1-generous-empheral) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
