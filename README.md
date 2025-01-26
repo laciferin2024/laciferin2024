@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/Maki325/tauri-types/issues/2#issuecomment-2614555163) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
-2. 🗣 Commented on [#3](https://github.com/Maki325/tauri-types/issues/3#issuecomment-2614555061) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
-3. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614065008) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614059634) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614053834) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-6. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614053282) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-7. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614049738) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-8. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614048198) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-9. 🗣 Commented on [#10942](https://github.com/tauri-apps/tauri/issues/10942#issuecomment-2614046978) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-10. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614045868) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-11. ❗ Opened issue [#12513](https://github.com/tauri-apps/tauri/issues/12513) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-12. 🗣 Commented on [#74](https://github.com/Oyelowo/surreal_orm/issues/74#issuecomment-2613393135) in [Oyelowo/surreal_orm](https://github.com/Oyelowo/surreal_orm)
-13. 🗣 Commented on [#2](https://github.com/Maki325/tauri-types/issues/2#issuecomment-2613073500) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
-14. 🗣 Commented on [#3](https://github.com/Maki325/tauri-types/issues/3#issuecomment-2613023911) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
-15. ❗ Opened issue [#3](https://github.com/Maki325/tauri-types/issues/3) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
+1. 🚀 Published release [v0.203.0 : 1st Signed Release](https://github.com/devcoinv0/coinos/releases/tag/v0.203.0) in [devcoinv0/coinos](https://github.com/devcoinv0/coinos)
+2. 🗣 Commented on [#2](https://github.com/Maki325/tauri-types/issues/2#issuecomment-2614555163) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
+3. 🗣 Commented on [#3](https://github.com/Maki325/tauri-types/issues/3#issuecomment-2614555061) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
+4. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614065008) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+5. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614059634) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+6. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614053834) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+7. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614053282) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+8. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614049738) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+9. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614048198) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+10. 🗣 Commented on [#10942](https://github.com/tauri-apps/tauri/issues/10942#issuecomment-2614046978) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+11. 🗣 Commented on [#12513](https://github.com/tauri-apps/tauri/issues/12513#issuecomment-2614045868) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+12. ❗ Opened issue [#12513](https://github.com/tauri-apps/tauri/issues/12513) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+13. 🗣 Commented on [#74](https://github.com/Oyelowo/surreal_orm/issues/74#issuecomment-2613393135) in [Oyelowo/surreal_orm](https://github.com/Oyelowo/surreal_orm)
+14. 🗣 Commented on [#2](https://github.com/Maki325/tauri-types/issues/2#issuecomment-2613073500) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
+15. 🗣 Commented on [#3](https://github.com/Maki325/tauri-types/issues/3#issuecomment-2613023911) in [Maki325/tauri-types](https://github.com/Maki325/tauri-types)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
