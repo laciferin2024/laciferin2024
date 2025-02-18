@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. ❗ Opened issue [#1519](https://github.com/coinbase/coinbase-wallet-sdk/issues/1519) in [coinbase/coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk)
-3. 🗣 Commented on [#1101](https://github.com/HeyPuter/puter/issues/1101#issuecomment-2631903459) in [HeyPuter/puter](https://github.com/HeyPuter/puter)
-4. ❗ Opened issue [#1101](https://github.com/HeyPuter/puter/issues/1101) in [HeyPuter/puter](https://github.com/HeyPuter/puter)
-5. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624895704) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-6. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624247093) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-7. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624223949) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-8. 🗣 Commented on [#12572](https://github.com/tauri-apps/tauri/issues/12572#issuecomment-2624220974) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-9. ❗ Opened issue [#12572](https://github.com/tauri-apps/tauri/issues/12572) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-10. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624136526) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-11. ❗ Opened issue [#12571](https://github.com/tauri-apps/tauri/issues/12571) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-12. ❗ Opened issue [#12569](https://github.com/tauri-apps/tauri/issues/12569) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-13. ❗ Opened issue [#12565](https://github.com/tauri-apps/tauri/issues/12565) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-14. 🗣 Commented on [#12552](https://github.com/tauri-apps/tauri/issues/12552#issuecomment-2622560773) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-15. ❗ Opened issue [#12552](https://github.com/tauri-apps/tauri/issues/12552) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 🗣 Commented on [#4516](https://github.com/ignite/cli/issues/4516#issuecomment-2664711527) in [ignite/cli](https://github.com/ignite/cli)
+2. ❗ Opened issue [#4516](https://github.com/ignite/cli/issues/4516) in [ignite/cli](https://github.com/ignite/cli)
+3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. ❗ Opened issue [#1519](https://github.com/coinbase/coinbase-wallet-sdk/issues/1519) in [coinbase/coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk)
+5. 🗣 Commented on [#1101](https://github.com/HeyPuter/puter/issues/1101#issuecomment-2631903459) in [HeyPuter/puter](https://github.com/HeyPuter/puter)
+6. ❗ Opened issue [#1101](https://github.com/HeyPuter/puter/issues/1101) in [HeyPuter/puter](https://github.com/HeyPuter/puter)
+7. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624895704) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+8. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624247093) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+9. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624223949) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+10. 🗣 Commented on [#12572](https://github.com/tauri-apps/tauri/issues/12572#issuecomment-2624220974) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+11. ❗ Opened issue [#12572](https://github.com/tauri-apps/tauri/issues/12572) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+12. 🗣 Commented on [#12571](https://github.com/tauri-apps/tauri/issues/12571#issuecomment-2624136526) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+13. ❗ Opened issue [#12571](https://github.com/tauri-apps/tauri/issues/12571) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+14. ❗ Opened issue [#12569](https://github.com/tauri-apps/tauri/issues/12569) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+15. ❗ Opened issue [#12565](https://github.com/tauri-apps/tauri/issues/12565) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
