@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4519](https://github.com/ignite/cli/issues/4519) in [ignite/cli](https://github.com/ignite/cli)
-2. 🔓 Reopened issue [#11](https://github.com/tendermint/interchange/issues/11) in [tendermint/interchange](https://github.com/tendermint/interchange)
-3. 🔒 Closed issue [#11](https://github.com/tendermint/interchange/issues/11) in [tendermint/interchange](https://github.com/tendermint/interchange)
-4. ❗ Opened issue [#11](https://github.com/tendermint/interchange/issues/11) in [tendermint/interchange](https://github.com/tendermint/interchange)
-5. 🗣 Commented on [#2](https://github.com/ignite/gex/issues/2#issuecomment-2666068908) in [ignite/gex](https://github.com/ignite/gex)
-6. ❗ Opened issue [#2](https://github.com/ignite/gex/issues/2) in [ignite/gex](https://github.com/ignite/gex)
-7. ❗ Opened issue [#4518](https://github.com/ignite/cli/issues/4518) in [ignite/cli](https://github.com/ignite/cli)
-8. 🗣 Commented on [#4516](https://github.com/ignite/cli/issues/4516#issuecomment-2666012014) in [ignite/cli](https://github.com/ignite/cli)
-9. ❗ Opened issue [#116](https://github.com/ignite/modules/issues/116) in [ignite/modules](https://github.com/ignite/modules)
-10. 🗣 Commented on [#4516](https://github.com/ignite/cli/issues/4516#issuecomment-2664711527) in [ignite/cli](https://github.com/ignite/cli)
-11. ❗ Opened issue [#4516](https://github.com/ignite/cli/issues/4516) in [ignite/cli](https://github.com/ignite/cli)
-12. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-13. ❗ Opened issue [#1519](https://github.com/coinbase/coinbase-wallet-sdk/issues/1519) in [coinbase/coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk)
-14. 🗣 Commented on [#1101](https://github.com/HeyPuter/puter/issues/1101#issuecomment-2631903459) in [HeyPuter/puter](https://github.com/HeyPuter/puter)
-15. ❗ Opened issue [#1101](https://github.com/HeyPuter/puter/issues/1101) in [HeyPuter/puter](https://github.com/HeyPuter/puter)
+1. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669066304) in [ignite/cli](https://github.com/ignite/cli)
+2. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669062146) in [ignite/cli](https://github.com/ignite/cli)
+3. 🗣 Commented on [#4520](https://github.com/ignite/cli/issues/4520#issuecomment-2669058693) in [ignite/cli](https://github.com/ignite/cli)
+4. ❗ Opened issue [#4520](https://github.com/ignite/cli/issues/4520) in [ignite/cli](https://github.com/ignite/cli)
+5. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669043348) in [ignite/cli](https://github.com/ignite/cli)
+6. ❗ Opened issue [#4519](https://github.com/ignite/cli/issues/4519) in [ignite/cli](https://github.com/ignite/cli)
+7. 🔓 Reopened issue [#11](https://github.com/tendermint/interchange/issues/11) in [tendermint/interchange](https://github.com/tendermint/interchange)
+8. 🔒 Closed issue [#11](https://github.com/tendermint/interchange/issues/11) in [tendermint/interchange](https://github.com/tendermint/interchange)
+9. ❗ Opened issue [#11](https://github.com/tendermint/interchange/issues/11) in [tendermint/interchange](https://github.com/tendermint/interchange)
+10. 🗣 Commented on [#2](https://github.com/ignite/gex/issues/2#issuecomment-2666068908) in [ignite/gex](https://github.com/ignite/gex)
+11. ❗ Opened issue [#2](https://github.com/ignite/gex/issues/2) in [ignite/gex](https://github.com/ignite/gex)
+12. ❗ Opened issue [#4518](https://github.com/ignite/cli/issues/4518) in [ignite/cli](https://github.com/ignite/cli)
+13. 🗣 Commented on [#4516](https://github.com/ignite/cli/issues/4516#issuecomment-2666012014) in [ignite/cli](https://github.com/ignite/cli)
+14. ❗ Opened issue [#116](https://github.com/ignite/modules/issues/116) in [ignite/modules](https://github.com/ignite/modules)
+15. 🗣 Commented on [#4516](https://github.com/ignite/cli/issues/4516#issuecomment-2664711527) in [ignite/cli](https://github.com/ignite/cli)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
