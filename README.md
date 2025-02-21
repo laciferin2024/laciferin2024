@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4527](https://github.com/ignite/cli/issues/4527) in [ignite/cli](https://github.com/ignite/cli)
-2. 🗣 Commented on [#4526](https://github.com/ignite/cli/issues/4526#issuecomment-2671982068) in [ignite/cli](https://github.com/ignite/cli)
-3. 🗣 Commented on [#4526](https://github.com/ignite/cli/issues/4526#issuecomment-2671980640) in [ignite/cli](https://github.com/ignite/cli)
-4. 🗣 Commented on [#4526](https://github.com/ignite/cli/issues/4526#issuecomment-2671968027) in [ignite/cli](https://github.com/ignite/cli)
-5. ❗ Opened issue [#4526](https://github.com/ignite/cli/issues/4526) in [ignite/cli](https://github.com/ignite/cli)
-6. ❗ Opened issue [#4525](https://github.com/ignite/cli/issues/4525) in [ignite/cli](https://github.com/ignite/cli)
-7. 🗣 Commented on [#4520](https://github.com/ignite/cli/issues/4520#issuecomment-2669984989) in [ignite/cli](https://github.com/ignite/cli)
-8. 🗣 Commented on [#4519](https://github.com/ignite/cli/issues/4519#issuecomment-2669983779) in [ignite/cli](https://github.com/ignite/cli)
-9. 🔒 Closed issue [#4521](https://github.com/ignite/cli/issues/4521) in [ignite/cli](https://github.com/ignite/cli)
-10. ❗ Opened issue [#4521](https://github.com/ignite/cli/issues/4521) in [ignite/cli](https://github.com/ignite/cli)
-11. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669066304) in [ignite/cli](https://github.com/ignite/cli)
-12. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669062146) in [ignite/cli](https://github.com/ignite/cli)
-13. 🗣 Commented on [#4520](https://github.com/ignite/cli/issues/4520#issuecomment-2669058693) in [ignite/cli](https://github.com/ignite/cli)
-14. ❗ Opened issue [#4520](https://github.com/ignite/cli/issues/4520) in [ignite/cli](https://github.com/ignite/cli)
-15. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669043348) in [ignite/cli](https://github.com/ignite/cli)
+1. ❗ Opened issue [#4528](https://github.com/ignite/cli/issues/4528) in [ignite/cli](https://github.com/ignite/cli)
+2. ❗ Opened issue [#4527](https://github.com/ignite/cli/issues/4527) in [ignite/cli](https://github.com/ignite/cli)
+3. 🗣 Commented on [#4526](https://github.com/ignite/cli/issues/4526#issuecomment-2671982068) in [ignite/cli](https://github.com/ignite/cli)
+4. 🗣 Commented on [#4526](https://github.com/ignite/cli/issues/4526#issuecomment-2671980640) in [ignite/cli](https://github.com/ignite/cli)
+5. 🗣 Commented on [#4526](https://github.com/ignite/cli/issues/4526#issuecomment-2671968027) in [ignite/cli](https://github.com/ignite/cli)
+6. ❗ Opened issue [#4526](https://github.com/ignite/cli/issues/4526) in [ignite/cli](https://github.com/ignite/cli)
+7. ❗ Opened issue [#4525](https://github.com/ignite/cli/issues/4525) in [ignite/cli](https://github.com/ignite/cli)
+8. 🗣 Commented on [#4520](https://github.com/ignite/cli/issues/4520#issuecomment-2669984989) in [ignite/cli](https://github.com/ignite/cli)
+9. 🗣 Commented on [#4519](https://github.com/ignite/cli/issues/4519#issuecomment-2669983779) in [ignite/cli](https://github.com/ignite/cli)
+10. 🔒 Closed issue [#4521](https://github.com/ignite/cli/issues/4521) in [ignite/cli](https://github.com/ignite/cli)
+11. ❗ Opened issue [#4521](https://github.com/ignite/cli/issues/4521) in [ignite/cli](https://github.com/ignite/cli)
+12. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669066304) in [ignite/cli](https://github.com/ignite/cli)
+13. 🗣 Commented on [#4518](https://github.com/ignite/cli/issues/4518#issuecomment-2669062146) in [ignite/cli](https://github.com/ignite/cli)
+14. 🗣 Commented on [#4520](https://github.com/ignite/cli/issues/4520#issuecomment-2669058693) in [ignite/cli](https://github.com/ignite/cli)
+15. ❗ Opened issue [#4520](https://github.com/ignite/cli/issues/4520) in [ignite/cli](https://github.com/ignite/cli)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
