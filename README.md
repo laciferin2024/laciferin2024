@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#75](https://github.com/DeCenterAI-1/Unreal/issues/75) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-2. ❗ Opened issue [#1992](https://github.com/multiversx/mx-sdk-rs/issues/1992) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-3. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701932658) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-4. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701550945) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-5. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2701541174) in [casey/just](https://github.com/casey/just)
-6. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2699581051) in [casey/just](https://github.com/casey/just)
-7. ❗ Opened issue [#2655](https://github.com/casey/just/issues/2655) in [casey/just](https://github.com/casey/just)
-8. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2695339681) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-9. ❗ Opened issue [#1](https://github.com/2KAbhishek/mac2k/issues/1) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-10. 🎉 Merged PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-11. 💪 Opened PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-12. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-13. 💪 Opened PR [#31](https://github.com/DeCenterAI-1/Unreal/pull/31) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-14. 🗣 Commented on [#4525](https://github.com/ignite/cli/issues/4525#issuecomment-2675078738) in [ignite/cli](https://github.com/ignite/cli)
-15. 🗣 Commented on [#4519](https://github.com/ignite/cli/issues/4519#issuecomment-2675076888) in [ignite/cli](https://github.com/ignite/cli)
+1. 🚀 Published release [v1.0.0 : Working deployed lottery](https://github.com/laciferin2024/lottery.multiversex/releases/tag/v1.0.0) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
+2. ❗ Opened issue [#75](https://github.com/DeCenterAI-1/Unreal/issues/75) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+3. ❗ Opened issue [#1992](https://github.com/multiversx/mx-sdk-rs/issues/1992) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+4. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701932658) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+5. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701550945) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+6. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2701541174) in [casey/just](https://github.com/casey/just)
+7. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2699581051) in [casey/just](https://github.com/casey/just)
+8. ❗ Opened issue [#2655](https://github.com/casey/just/issues/2655) in [casey/just](https://github.com/casey/just)
+9. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2695339681) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+10. ❗ Opened issue [#1](https://github.com/2KAbhishek/mac2k/issues/1) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+11. 🎉 Merged PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+12. 💪 Opened PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+13. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+14. 💪 Opened PR [#31](https://github.com/DeCenterAI-1/Unreal/pull/31) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+15. 🗣 Commented on [#4525](https://github.com/ignite/cli/issues/4525#issuecomment-2675078738) in [ignite/cli](https://github.com/ignite/cli)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
