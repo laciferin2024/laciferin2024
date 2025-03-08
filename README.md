@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1996](https://github.com/multiversx/mx-sdk-rs/issues/1996) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-2. 🚀 Published release [v1.0.0 : Working deployed lottery](https://github.com/laciferin2024/lottery.multiversex/releases/tag/v1.0.0) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
-3. ❗ Opened issue [#75](https://github.com/DeCenterAI-1/Unreal/issues/75) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-4. ❗ Opened issue [#1992](https://github.com/multiversx/mx-sdk-rs/issues/1992) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-5. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701932658) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-6. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701550945) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-7. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2701541174) in [casey/just](https://github.com/casey/just)
-8. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2699581051) in [casey/just](https://github.com/casey/just)
-9. ❗ Opened issue [#2655](https://github.com/casey/just/issues/2655) in [casey/just](https://github.com/casey/just)
-10. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2695339681) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-11. ❗ Opened issue [#1](https://github.com/2KAbhishek/mac2k/issues/1) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
-12. 🎉 Merged PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-13. 💪 Opened PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-14. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-15. 💪 Opened PR [#31](https://github.com/DeCenterAI-1/Unreal/pull/31) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+1. 🗣 Commented on [#1](https://github.com/Lolefevr/Tokenizer_42_MVX/issues/1#issuecomment-2708106035) in [Lolefevr/Tokenizer_42_MVX](https://github.com/Lolefevr/Tokenizer_42_MVX)
+2. ❗ Opened issue [#1](https://github.com/Lolefevr/Tokenizer_42_MVX/issues/1) in [Lolefevr/Tokenizer_42_MVX](https://github.com/Lolefevr/Tokenizer_42_MVX)
+3. ❗ Opened issue [#1996](https://github.com/multiversx/mx-sdk-rs/issues/1996) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+4. 🚀 Published release [v1.0.0 : Working deployed lottery](https://github.com/laciferin2024/lottery.multiversex/releases/tag/v1.0.0) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
+5. ❗ Opened issue [#75](https://github.com/DeCenterAI-1/Unreal/issues/75) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+6. ❗ Opened issue [#1992](https://github.com/multiversx/mx-sdk-rs/issues/1992) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+7. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701932658) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+8. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2701550945) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+9. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2701541174) in [casey/just](https://github.com/casey/just)
+10. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2699581051) in [casey/just](https://github.com/casey/just)
+11. ❗ Opened issue [#2655](https://github.com/casey/just/issues/2655) in [casey/just](https://github.com/casey/just)
+12. 🗣 Commented on [#1](https://github.com/2KAbhishek/mac2k/issues/1#issuecomment-2695339681) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+13. ❗ Opened issue [#1](https://github.com/2KAbhishek/mac2k/issues/1) in [2KAbhishek/mac2k](https://github.com/2KAbhishek/mac2k)
+14. 🎉 Merged PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+15. 💪 Opened PR [#42](https://github.com/DeCenterAI-1/Unreal/pull/42) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
