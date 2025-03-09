@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2003](https://github.com/multiversx/mx-sdk-rs/pull/2003#issuecomment-2709106166) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-2. 🗣 Commented on [#1999](https://github.com/multiversx/mx-sdk-rs/issues/1999#issuecomment-2708501611) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-3. ❗ Opened issue [#1999](https://github.com/multiversx/mx-sdk-rs/issues/1999) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-4. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2708489379) in [casey/just](https://github.com/casey/just)
-5. 🚀 Published release [v2.0.0: Lottery Ready](https://github.com/laciferin2024/lottery.multiversex/releases/tag/v2.0.0) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
-6. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2708429326) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-7. ❗ Opened issue [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-8. ❗ Opened issue [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-9. 🗣 Commented on [#4375](https://github.com/jesseduffield/lazygit/issues/4375#issuecomment-2708406609) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-10. 🗣 Commented on [#4375](https://github.com/jesseduffield/lazygit/issues/4375#issuecomment-2708405906) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-11. 🚀 Published release [v1.1.0 : Support for esdt, egld](https://github.com/laciferin2024/lottery.multiversex/releases/tag/v1.1.0) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
-12. ❗ Opened issue [#4375](https://github.com/jesseduffield/lazygit/issues/4375) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-13. 🎉 Merged PR [#1](https://github.com/laciferin2024/lottery.multiversex/pull/1) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
-14. 💪 Opened PR [#1](https://github.com/laciferin2024/lottery.multiversex/pull/1) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
-15. 🗣 Commented on [#1](https://github.com/Lolefevr/Tokenizer_42_MVX/issues/1#issuecomment-2708106035) in [Lolefevr/Tokenizer_42_MVX](https://github.com/Lolefevr/Tokenizer_42_MVX)
+1. 💪 Opened PR [#2](https://github.com/laciferin2024/lottery.multiversex/pull/2) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
+2. ❗ Opened issue [#44](https://github.com/multiversx/mx-sc-actions/issues/44) in [multiversx/mx-sc-actions](https://github.com/multiversx/mx-sc-actions)
+3. 🗣 Commented on [#2003](https://github.com/multiversx/mx-sdk-rs/pull/2003#issuecomment-2709106166) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+4. 🗣 Commented on [#1999](https://github.com/multiversx/mx-sdk-rs/issues/1999#issuecomment-2708501611) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+5. ❗ Opened issue [#1999](https://github.com/multiversx/mx-sdk-rs/issues/1999) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+6. 🗣 Commented on [#2655](https://github.com/casey/just/issues/2655#issuecomment-2708489379) in [casey/just](https://github.com/casey/just)
+7. 🚀 Published release [v2.0.0: Lottery Ready](https://github.com/laciferin2024/lottery.multiversex/releases/tag/v2.0.0) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
+8. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2708429326) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+9. ❗ Opened issue [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+10. ❗ Opened issue [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+11. 🗣 Commented on [#4375](https://github.com/jesseduffield/lazygit/issues/4375#issuecomment-2708406609) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+12. 🗣 Commented on [#4375](https://github.com/jesseduffield/lazygit/issues/4375#issuecomment-2708405906) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+13. 🚀 Published release [v1.1.0 : Support for esdt, egld](https://github.com/laciferin2024/lottery.multiversex/releases/tag/v1.1.0) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
+14. ❗ Opened issue [#4375](https://github.com/jesseduffield/lazygit/issues/4375) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+15. 🎉 Merged PR [#1](https://github.com/laciferin2024/lottery.multiversex/pull/1) in [laciferin2024/lottery.multiversex](https://github.com/laciferin2024/lottery.multiversex)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
