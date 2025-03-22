@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-2. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741651471) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-3. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741570555) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-4. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741570214) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-5. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2735126421) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-6. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2731748541) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-7. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2731515813) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-8. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730304823) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-9. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730284794) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-10. 🗣 Commented on [#645](https://github.com/microsoft/typescript-go/issues/645#issuecomment-2730252528) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-11. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730227549) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-12. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730215006) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-13. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730098397) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-14. 🗣 Commented on [#645](https://github.com/microsoft/typescript-go/issues/645#issuecomment-2730047124) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-15. 🗣 Commented on [#645](https://github.com/microsoft/typescript-go/issues/645#issuecomment-2729758276) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.813.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🔒 Closed issue [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+5. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741651471) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+6. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741570555) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+7. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741570214) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+8. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2735126421) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+9. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2731748541) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+10. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2731515813) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+11. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730304823) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+12. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730284794) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+13. 🗣 Commented on [#645](https://github.com/microsoft/typescript-go/issues/645#issuecomment-2730252528) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+14. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730227549) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+15. 🗣 Commented on [#525](https://github.com/microsoft/typescript-go/issues/525#issuecomment-2730215006) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
