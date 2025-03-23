@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745420665) in [nearai/nearai](https://github.com/nearai/nearai)
-2. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745414377) in [nearai/nearai](https://github.com/nearai/nearai)
-3. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745410605) in [nearai/nearai](https://github.com/nearai/nearai)
-4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745420665) in [nearai/nearai](https://github.com/nearai/nearai)
+4. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745414377) in [nearai/nearai](https://github.com/nearai/nearai)
+5. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745410605) in [nearai/nearai](https://github.com/nearai/nearai)
 6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-8. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2744159657) in [nearai/nearai](https://github.com/nearai/nearai)
+8. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-10. 🚀 Published release [v0.813.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+10. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2744159657) in [nearai/nearai](https://github.com/nearai/nearai)
 11. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-12. 🔒 Closed issue [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-13. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741651471) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-14. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741570555) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-15. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741570214) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+12. 🚀 Published release [v0.813.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+13. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+14. 🔒 Closed issue [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+15. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741651471) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
