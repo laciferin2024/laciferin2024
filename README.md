@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745420665) in [nearai/nearai](https://github.com/nearai/nearai)
-4. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745414377) in [nearai/nearai](https://github.com/nearai/nearai)
-5. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745410605) in [nearai/nearai](https://github.com/nearai/nearai)
-6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🗣 Commented on [#75](https://github.com/DeCenterAI-1/Unreal/issues/75#issuecomment-2761297705) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+2. 🗣 Commented on [#75](https://github.com/DeCenterAI-1/Unreal/issues/75#issuecomment-2761296563) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745420665) in [nearai/nearai](https://github.com/nearai/nearai)
+6. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745414377) in [nearai/nearai](https://github.com/nearai/nearai)
+7. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2745410605) in [nearai/nearai](https://github.com/nearai/nearai)
 8. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-10. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2744159657) in [nearai/nearai](https://github.com/nearai/nearai)
+10. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 11. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-12. 🚀 Published release [v0.813.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+12. 🗣 Commented on [#1043](https://github.com/nearai/nearai/issues/1043#issuecomment-2744159657) in [nearai/nearai](https://github.com/nearai/nearai)
 13. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-14. 🔒 Closed issue [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-15. 🗣 Commented on [#1998](https://github.com/multiversx/mx-sdk-rs/issues/1998#issuecomment-2741651471) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+14. 🚀 Published release [v0.813.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+15. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
