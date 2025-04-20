@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-2. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816825512) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-3. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816822250) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-4. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816708085) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-5. ❗ Opened issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-6. 🗣 Commented on [#4140](https://github.com/zellij-org/zellij/issues/4140#issuecomment-2811190784) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-7. 🗣 Commented on [#8541](https://github.com/kovidgoyal/kitty/issues/8541#issuecomment-2807341727) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-8. ❗ Opened issue [#8541](https://github.com/kovidgoyal/kitty/issues/8541) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-9. 💪 Opened PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-10. 🗣 Commented on [#8542](https://github.com/alacritty/alacritty/issues/8542#issuecomment-2799059312) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-11. 🗣 Commented on [#8539](https://github.com/alacritty/alacritty/issues/8539#issuecomment-2798801058) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-12. ❗ Opened issue [#8542](https://github.com/alacritty/alacritty/issues/8542) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-13. 🗣 Commented on [#8539](https://github.com/alacritty/alacritty/issues/8539#issuecomment-2798080148) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-14. 🗣 Commented on [#1519](https://github.com/coinbase/coinbase-wallet-sdk/issues/1519#issuecomment-2798075723) in [coinbase/coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk)
-15. 🗣 Commented on [#8539](https://github.com/alacritty/alacritty/issues/8539#issuecomment-2795855072) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+1. ❗ Opened issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
+2. 🔒 Closed issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816825512) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+4. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816822250) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+5. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816708085) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+6. ❗ Opened issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+7. 🗣 Commented on [#4140](https://github.com/zellij-org/zellij/issues/4140#issuecomment-2811190784) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+8. 🗣 Commented on [#8541](https://github.com/kovidgoyal/kitty/issues/8541#issuecomment-2807341727) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+9. ❗ Opened issue [#8541](https://github.com/kovidgoyal/kitty/issues/8541) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+10. 💪 Opened PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+11. 🗣 Commented on [#8542](https://github.com/alacritty/alacritty/issues/8542#issuecomment-2799059312) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+12. 🗣 Commented on [#8539](https://github.com/alacritty/alacritty/issues/8539#issuecomment-2798801058) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+13. ❗ Opened issue [#8542](https://github.com/alacritty/alacritty/issues/8542) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+14. 🗣 Commented on [#8539](https://github.com/alacritty/alacritty/issues/8539#issuecomment-2798080148) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+15. 🗣 Commented on [#1519](https://github.com/coinbase/coinbase-wallet-sdk/issues/1519#issuecomment-2798075723) in [coinbase/coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
