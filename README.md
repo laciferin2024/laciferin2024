@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
-2. 🗣 Commented on [#3113](https://github.com/neovide/neovide/issues/3113#issuecomment-2822463303) in [neovide/neovide](https://github.com/neovide/neovide)
-3. 🎉 Merged PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-4. ❗ Opened issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
-5. 🔒 Closed issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-6. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816825512) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-7. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816822250) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-8. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816708085) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-9. ❗ Opened issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-10. 🗣 Commented on [#4140](https://github.com/zellij-org/zellij/issues/4140#issuecomment-2811190784) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-11. 🗣 Commented on [#8541](https://github.com/kovidgoyal/kitty/issues/8541#issuecomment-2807341727) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-12. ❗ Opened issue [#8541](https://github.com/kovidgoyal/kitty/issues/8541) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-13. 💪 Opened PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-14. 🗣 Commented on [#8542](https://github.com/alacritty/alacritty/issues/8542#issuecomment-2799059312) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-15. 🗣 Commented on [#8539](https://github.com/alacritty/alacritty/issues/8539#issuecomment-2798801058) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+1. ❗ Opened issue [#8568](https://github.com/kovidgoyal/kitty/issues/8568) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+2. 🔒 Closed issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
+3. 🗣 Commented on [#3113](https://github.com/neovide/neovide/issues/3113#issuecomment-2822463303) in [neovide/neovide](https://github.com/neovide/neovide)
+4. 🎉 Merged PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+5. ❗ Opened issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
+6. 🔒 Closed issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+7. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816825512) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+8. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816822250) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+9. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816708085) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+10. ❗ Opened issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+11. 🗣 Commented on [#4140](https://github.com/zellij-org/zellij/issues/4140#issuecomment-2811190784) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+12. 🗣 Commented on [#8541](https://github.com/kovidgoyal/kitty/issues/8541#issuecomment-2807341727) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+13. ❗ Opened issue [#8541](https://github.com/kovidgoyal/kitty/issues/8541) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+14. 💪 Opened PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+15. 🗣 Commented on [#8542](https://github.com/alacritty/alacritty/issues/8542#issuecomment-2799059312) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
