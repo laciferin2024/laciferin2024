@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
-2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. ❗ Opened issue [#170](https://github.com/DeCenterAI-1/Unreal/issues/170) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-6. ❗ Opened issue [#8568](https://github.com/kovidgoyal/kitty/issues/8568) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-7. 🔒 Closed issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
-8. 🗣 Commented on [#3113](https://github.com/neovide/neovide/issues/3113#issuecomment-2822463303) in [neovide/neovide](https://github.com/neovide/neovide)
-9. 🎉 Merged PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-10. ❗ Opened issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
-11. 🔒 Closed issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-12. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816825512) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-13. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816822250) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-14. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816708085) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-15. ❗ Opened issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+1. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2848832189) in [neovide/neovide](https://github.com/neovide/neovide)
+2. ❗ Opened issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
+3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. ❗ Opened issue [#170](https://github.com/DeCenterAI-1/Unreal/issues/170) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+7. ❗ Opened issue [#8568](https://github.com/kovidgoyal/kitty/issues/8568) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+8. 🔒 Closed issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
+9. 🗣 Commented on [#3113](https://github.com/neovide/neovide/issues/3113#issuecomment-2822463303) in [neovide/neovide](https://github.com/neovide/neovide)
+10. 🎉 Merged PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+11. ❗ Opened issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
+12. 🔒 Closed issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+13. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816825512) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+14. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816822250) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+15. 🗣 Commented on [#4149](https://github.com/zellij-org/zellij/issues/4149#issuecomment-2816708085) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
