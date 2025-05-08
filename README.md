@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#45931](https://github.com/brave/brave-browser/issues/45931) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2859415889) in [neovide/neovide](https://github.com/neovide/neovide)
-3. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2849774165) in [neovide/neovide](https://github.com/neovide/neovide)
-4. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2848832189) in [neovide/neovide](https://github.com/neovide/neovide)
-5. ❗ Opened issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
-6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2861725487) in [neovide/neovide](https://github.com/neovide/neovide)
+2. 🔒 Closed issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
+3. ❗ Opened issue [#45931](https://github.com/brave/brave-browser/issues/45931) in [brave/brave-browser](https://github.com/brave/brave-browser)
+4. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2859415889) in [neovide/neovide](https://github.com/neovide/neovide)
+5. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2849774165) in [neovide/neovide](https://github.com/neovide/neovide)
+6. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2848832189) in [neovide/neovide](https://github.com/neovide/neovide)
+7. ❗ Opened issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
 8. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-9. ❗ Opened issue [#170](https://github.com/DeCenterAI-1/Unreal/issues/170) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-10. ❗ Opened issue [#8568](https://github.com/kovidgoyal/kitty/issues/8568) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-11. 🔒 Closed issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
-12. 🗣 Commented on [#3113](https://github.com/neovide/neovide/issues/3113#issuecomment-2822463303) in [neovide/neovide](https://github.com/neovide/neovide)
-13. 🎉 Merged PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-14. ❗ Opened issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
-15. 🔒 Closed issue [#4149](https://github.com/zellij-org/zellij/issues/4149) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+9. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+10. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+11. ❗ Opened issue [#170](https://github.com/DeCenterAI-1/Unreal/issues/170) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+12. ❗ Opened issue [#8568](https://github.com/kovidgoyal/kitty/issues/8568) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+13. 🔒 Closed issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
+14. 🗣 Commented on [#3113](https://github.com/neovide/neovide/issues/3113#issuecomment-2822463303) in [neovide/neovide](https://github.com/neovide/neovide)
+15. 🎉 Merged PR [#158](https://github.com/DeCenterAI-1/Unreal/pull/158) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
