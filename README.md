@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.814.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.814.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2861725487) in [neovide/neovide](https://github.com/neovide/neovide)
-4. 🔒 Closed issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
-5. ❗ Opened issue [#45931](https://github.com/brave/brave-browser/issues/45931) in [brave/brave-browser](https://github.com/brave/brave-browser)
-6. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2859415889) in [neovide/neovide](https://github.com/neovide/neovide)
-7. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2849774165) in [neovide/neovide](https://github.com/neovide/neovide)
-8. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2848832189) in [neovide/neovide](https://github.com/neovide/neovide)
-9. ❗ Opened issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
-10. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-11. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-12. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-13. ❗ Opened issue [#170](https://github.com/DeCenterAI-1/Unreal/issues/170) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-14. ❗ Opened issue [#8568](https://github.com/kovidgoyal/kitty/issues/8568) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-15. 🔒 Closed issue [#3113](https://github.com/neovide/neovide/issues/3113) in [neovide/neovide](https://github.com/neovide/neovide)
+1. 🗣 Commented on [#45931](https://github.com/brave/brave-browser/issues/45931#issuecomment-2867961094) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.814.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.814.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2861725487) in [neovide/neovide](https://github.com/neovide/neovide)
+5. 🔒 Closed issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
+6. ❗ Opened issue [#45931](https://github.com/brave/brave-browser/issues/45931) in [brave/brave-browser](https://github.com/brave/brave-browser)
+7. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2859415889) in [neovide/neovide](https://github.com/neovide/neovide)
+8. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2849774165) in [neovide/neovide](https://github.com/neovide/neovide)
+9. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2848832189) in [neovide/neovide](https://github.com/neovide/neovide)
+10. ❗ Opened issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
+11. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+12. 🚀 Published release [v0.813.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.813.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+13. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+14. ❗ Opened issue [#170](https://github.com/DeCenterAI-1/Unreal/issues/170) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+15. ❗ Opened issue [#8568](https://github.com/kovidgoyal/kitty/issues/8568) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
