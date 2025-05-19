@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#45982](https://github.com/brave/brave-browser/issues/45982#issuecomment-2881729928) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. ❗ Opened issue [#920](https://github.com/LinkStackOrg/LinkStack/issues/920) in [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
-3. 🗣 Commented on [#21230](https://github.com/calcom/cal.com/issues/21230#issuecomment-2877188530) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. ❗ Opened issue [#21230](https://github.com/calcom/cal.com/issues/21230) in [calcom/cal.com](https://github.com/calcom/cal.com)
-7. ❗ Opened issue [#934](https://github.com/Mail-0/Zero/issues/934) in [Mail-0/Zero](https://github.com/Mail-0/Zero)
-8. ❗ Opened issue [#45982](https://github.com/brave/brave-browser/issues/45982) in [brave/brave-browser](https://github.com/brave/brave-browser)
-9. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-10. 🗣 Commented on [#45931](https://github.com/brave/brave-browser/issues/45931#issuecomment-2868363338) in [brave/brave-browser](https://github.com/brave/brave-browser)
-11. 🗣 Commented on [#45931](https://github.com/brave/brave-browser/issues/45931#issuecomment-2867961094) in [brave/brave-browser](https://github.com/brave/brave-browser)
-12. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-13. 🚀 Published release [v0.814.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.814.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-14. 🗣 Commented on [#3124](https://github.com/neovide/neovide/issues/3124#issuecomment-2861725487) in [neovide/neovide](https://github.com/neovide/neovide)
-15. 🔒 Closed issue [#3124](https://github.com/neovide/neovide/issues/3124) in [neovide/neovide](https://github.com/neovide/neovide)
+1. 🗣 Commented on [#8655](https://github.com/kovidgoyal/kitty/issues/8655#issuecomment-2890125253) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+2. ❗ Opened issue [#8655](https://github.com/kovidgoyal/kitty/issues/8655) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+3. 🗣 Commented on [#45982](https://github.com/brave/brave-browser/issues/45982#issuecomment-2881729928) in [brave/brave-browser](https://github.com/brave/brave-browser)
+4. ❗ Opened issue [#920](https://github.com/LinkStackOrg/LinkStack/issues/920) in [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
+5. 🗣 Commented on [#21230](https://github.com/calcom/cal.com/issues/21230#issuecomment-2877188530) in [calcom/cal.com](https://github.com/calcom/cal.com)
+6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+8. ❗ Opened issue [#21230](https://github.com/calcom/cal.com/issues/21230) in [calcom/cal.com](https://github.com/calcom/cal.com)
+9. ❗ Opened issue [#934](https://github.com/Mail-0/Zero/issues/934) in [Mail-0/Zero](https://github.com/Mail-0/Zero)
+10. ❗ Opened issue [#45982](https://github.com/brave/brave-browser/issues/45982) in [brave/brave-browser](https://github.com/brave/brave-browser)
+11. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+12. 🗣 Commented on [#45931](https://github.com/brave/brave-browser/issues/45931#issuecomment-2868363338) in [brave/brave-browser](https://github.com/brave/brave-browser)
+13. 🗣 Commented on [#45931](https://github.com/brave/brave-browser/issues/45931#issuecomment-2867961094) in [brave/brave-browser](https://github.com/brave/brave-browser)
+14. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+15. 🚀 Published release [v0.814.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.814.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
