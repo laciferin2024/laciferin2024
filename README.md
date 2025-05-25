@@ -81,20 +81,20 @@
 <!--START_SECTION:activity-->
 
 1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.816.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.816.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🗣 Commented on [#12004](https://github.com/sveltejs/svelte/issues/12004#issuecomment-2906930286) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-5. 🗣 Commented on [#12004](https://github.com/sveltejs/svelte/issues/12004#issuecomment-2906809864) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-6. 🗣 Commented on [#12004](https://github.com/sveltejs/svelte/issues/12004#issuecomment-2906788819) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-7. 🚀 Published release [v0.815.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.815.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-8. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-9. 🗣 Commented on [#8655](https://github.com/kovidgoyal/kitty/issues/8655#issuecomment-2890837207) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-10. 🗣 Commented on [#8655](https://github.com/kovidgoyal/kitty/issues/8655#issuecomment-2890125253) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-11. ❗ Opened issue [#8655](https://github.com/kovidgoyal/kitty/issues/8655) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-12. 🗣 Commented on [#45982](https://github.com/brave/brave-browser/issues/45982#issuecomment-2881729928) in [brave/brave-browser](https://github.com/brave/brave-browser)
-13. ❗ Opened issue [#920](https://github.com/LinkStackOrg/LinkStack/issues/920) in [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
-14. 🗣 Commented on [#21230](https://github.com/calcom/cal.com/issues/21230#issuecomment-2877188530) in [calcom/cal.com](https://github.com/calcom/cal.com)
-15. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.816.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.816.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🗣 Commented on [#12004](https://github.com/sveltejs/svelte/issues/12004#issuecomment-2906930286) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+7. 🗣 Commented on [#12004](https://github.com/sveltejs/svelte/issues/12004#issuecomment-2906809864) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+8. 🗣 Commented on [#12004](https://github.com/sveltejs/svelte/issues/12004#issuecomment-2906788819) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+9. 🚀 Published release [v0.815.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.815.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+10. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+11. 🗣 Commented on [#8655](https://github.com/kovidgoyal/kitty/issues/8655#issuecomment-2890837207) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+12. 🗣 Commented on [#8655](https://github.com/kovidgoyal/kitty/issues/8655#issuecomment-2890125253) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+13. ❗ Opened issue [#8655](https://github.com/kovidgoyal/kitty/issues/8655) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+14. 🗣 Commented on [#45982](https://github.com/brave/brave-browser/issues/45982#issuecomment-2881729928) in [brave/brave-browser](https://github.com/brave/brave-browser)
+15. ❗ Opened issue [#920](https://github.com/LinkStackOrg/LinkStack/issues/920) in [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
