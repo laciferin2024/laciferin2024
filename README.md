@@ -81,8 +81,8 @@
 <!--START_SECTION:activity-->
 
 1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.817.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.817.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.817.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.817.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
@@ -92,9 +92,9 @@
 10. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 11. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 12. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-13. 🚀 Published release [v0.816.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.816.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-14. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-15. 🗣 Commented on [#12004](https://github.com/sveltejs/svelte/issues/12004#issuecomment-2906930286) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+13. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+14. 🚀 Published release [v0.816.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.816.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+15. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
