@@ -80,19 +80,19 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/git-secrets/gits/issues/1) in [git-secrets/gits](https://github.com/git-secrets/gits)
-2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🗣 Commented on [#58](https://github.com/polkadot-api/polkadot-api-docs/issues/58#issuecomment-2917534911) in [polkadot-api/polkadot-api-docs](https://github.com/polkadot-api/polkadot-api-docs)
-4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. ❗ Opened issue [#5](https://github.com/git-secrets/gits/issues/5) in [git-secrets/gits](https://github.com/git-secrets/gits)
+2. ❗ Opened issue [#4](https://github.com/git-secrets/gits/issues/4) in [git-secrets/gits](https://github.com/git-secrets/gits)
+3. ❗ Opened issue [#3](https://github.com/git-secrets/gits/issues/3) in [git-secrets/gits](https://github.com/git-secrets/gits)
+4. ❗ Opened issue [#2](https://github.com/git-secrets/gits/issues/2) in [git-secrets/gits](https://github.com/git-secrets/gits)
+5. ❗ Opened issue [#1](https://github.com/git-secrets/gits/issues/1) in [git-secrets/gits](https://github.com/git-secrets/gits)
 6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🗣 Commented on [#58](https://github.com/polkadot-api/polkadot-api-docs/issues/58#issuecomment-2917534911) in [polkadot-api/polkadot-api-docs](https://github.com/polkadot-api/polkadot-api-docs)
 8. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 9. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 10. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 11. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 12. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-13. ❗ Opened issue [#58](https://github.com/polkadot-api/polkadot-api-docs/issues/58) in [polkadot-api/polkadot-api-docs](https://github.com/polkadot-api/polkadot-api-docs)
+13. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 14. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 15. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 <!--END_SECTION:activity-->
