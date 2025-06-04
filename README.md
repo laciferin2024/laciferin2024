@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.819.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.819.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🚀 Published release [v0.818.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.818.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. ❗ Opened issue [#1560](https://github.com/go-git/go-git/issues/1560) in [go-git/go-git](https://github.com/go-git/go-git)
+2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+3. 🚀 Published release [v0.819.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.819.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.818.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.818.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🗣 Commented on [#6](https://github.com/git-secrets/gits/issues/6#issuecomment-2933507346) in [git-secrets/gits](https://github.com/git-secrets/gits)
-8. ❗ Opened issue [#6](https://github.com/git-secrets/gits/issues/6) in [git-secrets/gits](https://github.com/git-secrets/gits)
-9. 🗣 Commented on [#1](https://github.com/git-secrets/gits/issues/1#issuecomment-2932457129) in [git-secrets/gits](https://github.com/git-secrets/gits)
-10. ❗ Opened issue [#5](https://github.com/git-secrets/gits/issues/5) in [git-secrets/gits](https://github.com/git-secrets/gits)
-11. ❗ Opened issue [#4](https://github.com/git-secrets/gits/issues/4) in [git-secrets/gits](https://github.com/git-secrets/gits)
-12. ❗ Opened issue [#3](https://github.com/git-secrets/gits/issues/3) in [git-secrets/gits](https://github.com/git-secrets/gits)
-13. ❗ Opened issue [#2](https://github.com/git-secrets/gits/issues/2) in [git-secrets/gits](https://github.com/git-secrets/gits)
-14. ❗ Opened issue [#1](https://github.com/git-secrets/gits/issues/1) in [git-secrets/gits](https://github.com/git-secrets/gits)
-15. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+8. 🗣 Commented on [#6](https://github.com/git-secrets/gits/issues/6#issuecomment-2933507346) in [git-secrets/gits](https://github.com/git-secrets/gits)
+9. ❗ Opened issue [#6](https://github.com/git-secrets/gits/issues/6) in [git-secrets/gits](https://github.com/git-secrets/gits)
+10. 🗣 Commented on [#1](https://github.com/git-secrets/gits/issues/1#issuecomment-2932457129) in [git-secrets/gits](https://github.com/git-secrets/gits)
+11. ❗ Opened issue [#5](https://github.com/git-secrets/gits/issues/5) in [git-secrets/gits](https://github.com/git-secrets/gits)
+12. ❗ Opened issue [#4](https://github.com/git-secrets/gits/issues/4) in [git-secrets/gits](https://github.com/git-secrets/gits)
+13. ❗ Opened issue [#3](https://github.com/git-secrets/gits/issues/3) in [git-secrets/gits](https://github.com/git-secrets/gits)
+14. ❗ Opened issue [#2](https://github.com/git-secrets/gits/issues/2) in [git-secrets/gits](https://github.com/git-secrets/gits)
+15. ❗ Opened issue [#1](https://github.com/git-secrets/gits/issues/1) in [git-secrets/gits](https://github.com/git-secrets/gits)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
