@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-2. 🚀 Published release [v0.901.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.901.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.901.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.901.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-5. ❗ Opened issue [#1084](https://github.com/microsoft/typescript-go/issues/1084) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+5. 🚀 Published release [v0.901.0-alpha](https://github.com/DeCenterAI-1/darts/releases/tag/v0.901.0-alpha) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.900.1](https://github.com/DeCenterAI-1/darts/releases/tag/untagged-27f2db93da3576c78c46) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-8. ❗ Opened issue [#1560](https://github.com/go-git/go-git/issues/1560) in [go-git/go-git](https://github.com/go-git/go-git)
+7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+8. ❗ Opened issue [#1084](https://github.com/microsoft/typescript-go/issues/1084) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
 9. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-10. 🚀 Published release [v0.819.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.819.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-11. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-12. 🚀 Published release [v0.818.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.818.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-13. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+10. 🚀 Published release [v0.900.1](https://github.com/DeCenterAI-1/darts/releases/tag/untagged-27f2db93da3576c78c46) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+11. ❗ Opened issue [#1560](https://github.com/go-git/go-git/issues/1560) in [go-git/go-git](https://github.com/go-git/go-git)
+12. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+13. 🚀 Published release [v0.819.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.819.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 14. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-15. 🗣 Commented on [#6](https://github.com/git-secrets/gits/issues/6#issuecomment-2933507346) in [git-secrets/gits](https://github.com/git-secrets/gits)
+15. 🚀 Published release [v0.818.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.818.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
