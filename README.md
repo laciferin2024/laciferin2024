@@ -80,10 +80,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#215](https://github.com/unreal-art/v0/pull/215) in [unreal-art/v0](https://github.com/unreal-art/v0)
-2. 🎉 Merged PR [#214](https://github.com/DeCenterAI-1/Unreal/pull/214) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-3. 💪 Opened PR [#214](https://github.com/DeCenterAI-1/Unreal/pull/214) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
-4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. ❌ Closed PR [#215](https://github.com/unreal-art/v0/pull/215) in [unreal-art/v0](https://github.com/unreal-art/v0)
+2. 💪 Opened PR [#215](https://github.com/unreal-art/v0/pull/215) in [unreal-art/v0](https://github.com/unreal-art/v0)
+3. 🎉 Merged PR [#214](https://github.com/DeCenterAI-1/Unreal/pull/214) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
+4. 💪 Opened PR [#214](https://github.com/DeCenterAI-1/Unreal/pull/214) in [DeCenterAI-1/Unreal](https://github.com/DeCenterAI-1/Unreal)
 5. 🚀 Published release [v0.901.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.901.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
