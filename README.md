@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.902.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-3. 🚀 Published release [v0.902.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-4. 🗣 Commented on [#1560](https://github.com/go-git/go-git/issues/1560#issuecomment-3010867769) in [go-git/go-git](https://github.com/go-git/go-git)
-5. ❌ Closed PR [#92](https://github.com/unreal-art/ideomind/pull/92) in [unreal-art/ideomind](https://github.com/unreal-art/ideomind)
-6. 💪 Opened PR [#219](https://github.com/unreal-art/v0/pull/219) in [unreal-art/v0](https://github.com/unreal-art/v0)
-7. ❗ Opened issue [#218](https://github.com/unreal-art/v0/issues/218) in [unreal-art/v0](https://github.com/unreal-art/v0)
-8. 🔒 Closed issue [#75](https://github.com/unreal-art/v0/issues/75) in [unreal-art/v0](https://github.com/unreal-art/v0)
-9. 🔒 Closed issue [#149](https://github.com/unreal-art/v0/issues/149) in [unreal-art/v0](https://github.com/unreal-art/v0)
-10. 🔒 Closed issue [#150](https://github.com/unreal-art/v0/issues/150) in [unreal-art/v0](https://github.com/unreal-art/v0)
-11. 🗣 Commented on [#170](https://github.com/unreal-art/v0/issues/170#issuecomment-3010282250) in [unreal-art/v0](https://github.com/unreal-art/v0)
-12. 🔒 Closed issue [#170](https://github.com/unreal-art/v0/issues/170) in [unreal-art/v0](https://github.com/unreal-art/v0)
-13. 🎉 Merged PR [#217](https://github.com/unreal-art/v0/pull/217) in [unreal-art/v0](https://github.com/unreal-art/v0)
-14. 🗣 Commented on [#1560](https://github.com/go-git/go-git/issues/1560#issuecomment-3009987360) in [go-git/go-git](https://github.com/go-git/go-git)
-15. 🗣 Commented on [#1560](https://github.com/go-git/go-git/issues/1560#issuecomment-3009978046) in [go-git/go-git](https://github.com/go-git/go-git)
+3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+4. 🚀 Published release [v0.902.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+6. 🚀 Published release [v0.902.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🗣 Commented on [#1560](https://github.com/go-git/go-git/issues/1560#issuecomment-3010867769) in [go-git/go-git](https://github.com/go-git/go-git)
+8. ❌ Closed PR [#92](https://github.com/unreal-art/ideomind/pull/92) in [unreal-art/ideomind](https://github.com/unreal-art/ideomind)
+9. 💪 Opened PR [#219](https://github.com/unreal-art/v0/pull/219) in [unreal-art/v0](https://github.com/unreal-art/v0)
+10. ❗ Opened issue [#218](https://github.com/unreal-art/v0/issues/218) in [unreal-art/v0](https://github.com/unreal-art/v0)
+11. 🔒 Closed issue [#75](https://github.com/unreal-art/v0/issues/75) in [unreal-art/v0](https://github.com/unreal-art/v0)
+12. 🔒 Closed issue [#149](https://github.com/unreal-art/v0/issues/149) in [unreal-art/v0](https://github.com/unreal-art/v0)
+13. 🔒 Closed issue [#150](https://github.com/unreal-art/v0/issues/150) in [unreal-art/v0](https://github.com/unreal-art/v0)
+14. 🗣 Commented on [#170](https://github.com/unreal-art/v0/issues/170#issuecomment-3010282250) in [unreal-art/v0](https://github.com/unreal-art/v0)
+15. 🔒 Closed issue [#170](https://github.com/unreal-art/v0/issues/170) in [unreal-art/v0](https://github.com/unreal-art/v0)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
