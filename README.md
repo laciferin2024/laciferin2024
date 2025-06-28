@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#220](https://github.com/unreal-art/v0/pull/220) in [unreal-art/v0](https://github.com/unreal-art/v0)
-2. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+2. 🎉 Merged PR [#220](https://github.com/unreal-art/v0/pull/220) in [unreal-art/v0](https://github.com/unreal-art/v0)
 3. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 4. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
 5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-6. 🚀 Published release [v0.902.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-8. 🚀 Published release [v0.902.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-9. 🗣 Commented on [#1560](https://github.com/go-git/go-git/issues/1560#issuecomment-3010867769) in [go-git/go-git](https://github.com/go-git/go-git)
-10. ❌ Closed PR [#92](https://github.com/unreal-art/ideomind/pull/92) in [unreal-art/ideomind](https://github.com/unreal-art/ideomind)
-11. 💪 Opened PR [#219](https://github.com/unreal-art/v0/pull/219) in [unreal-art/v0](https://github.com/unreal-art/v0)
-12. ❗ Opened issue [#218](https://github.com/unreal-art/v0/issues/218) in [unreal-art/v0](https://github.com/unreal-art/v0)
-13. 🔒 Closed issue [#75](https://github.com/unreal-art/v0/issues/75) in [unreal-art/v0](https://github.com/unreal-art/v0)
-14. 🔒 Closed issue [#149](https://github.com/unreal-art/v0/issues/149) in [unreal-art/v0](https://github.com/unreal-art/v0)
-15. 🔒 Closed issue [#150](https://github.com/unreal-art/v0/issues/150) in [unreal-art/v0](https://github.com/unreal-art/v0)
+6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+7. 🚀 Published release [v0.902.1](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.1) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+8. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+9. 🚀 Published release [v0.902.0](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.0) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+10. 🗣 Commented on [#1560](https://github.com/go-git/go-git/issues/1560#issuecomment-3010867769) in [go-git/go-git](https://github.com/go-git/go-git)
+11. ❌ Closed PR [#92](https://github.com/unreal-art/ideomind/pull/92) in [unreal-art/ideomind](https://github.com/unreal-art/ideomind)
+12. 💪 Opened PR [#219](https://github.com/unreal-art/v0/pull/219) in [unreal-art/v0](https://github.com/unreal-art/v0)
+13. ❗ Opened issue [#218](https://github.com/unreal-art/v0/issues/218) in [unreal-art/v0](https://github.com/unreal-art/v0)
+14. 🔒 Closed issue [#75](https://github.com/unreal-art/v0/issues/75) in [unreal-art/v0](https://github.com/unreal-art/v0)
+15. 🔒 Closed issue [#149](https://github.com/unreal-art/v0/issues/149) in [unreal-art/v0](https://github.com/unreal-art/v0)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
