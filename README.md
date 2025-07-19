@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2044](https://github.com/fuma-nama/fumadocs/issues/2044#issuecomment-3092367834) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-2. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3092364141) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-3. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3092265671) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-4. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3092159872) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-5. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091965398) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-6. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091965066) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-7. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091963870) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-8. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091936666) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-9. 💪 Opened PR [#244](https://github.com/unreal-art/art/pull/244) in [unreal-art/art](https://github.com/unreal-art/art)
-10. 🗣 Commented on [#21137](https://github.com/oven-sh/bun/issues/21137#issuecomment-3089375626) in [oven-sh/bun](https://github.com/oven-sh/bun)
-11. 🗣 Commented on [#21137](https://github.com/oven-sh/bun/issues/21137#issuecomment-3089371591) in [oven-sh/bun](https://github.com/oven-sh/bun)
-12. 🗣 Commented on [#21137](https://github.com/oven-sh/bun/issues/21137#issuecomment-3089309207) in [oven-sh/bun](https://github.com/oven-sh/bun)
-13. 💪 Opened PR [#243](https://github.com/unreal-art/art/pull/243) in [unreal-art/art](https://github.com/unreal-art/art)
-14. 🗣 Commented on [#21137](https://github.com/oven-sh/bun/issues/21137#issuecomment-3089302561) in [oven-sh/bun](https://github.com/oven-sh/bun)
-15. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3082646648) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+1. ❌ Closed PR [#223](https://github.com/unreal-art/art/pull/223) in [unreal-art/art](https://github.com/unreal-art/art)
+2. 🎉 Merged PR [#244](https://github.com/unreal-art/art/pull/244) in [unreal-art/art](https://github.com/unreal-art/art)
+3. 🗣 Commented on [#2044](https://github.com/fuma-nama/fumadocs/issues/2044#issuecomment-3092367834) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+4. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3092364141) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+5. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3092265671) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+6. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3092159872) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+7. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091965398) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+8. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091965066) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+9. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091963870) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+10. 🗣 Commented on [#2085](https://github.com/fuma-nama/fumadocs/issues/2085#issuecomment-3091936666) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+11. 💪 Opened PR [#244](https://github.com/unreal-art/art/pull/244) in [unreal-art/art](https://github.com/unreal-art/art)
+12. 🗣 Commented on [#21137](https://github.com/oven-sh/bun/issues/21137#issuecomment-3089375626) in [oven-sh/bun](https://github.com/oven-sh/bun)
+13. 🗣 Commented on [#21137](https://github.com/oven-sh/bun/issues/21137#issuecomment-3089371591) in [oven-sh/bun](https://github.com/oven-sh/bun)
+14. 🗣 Commented on [#21137](https://github.com/oven-sh/bun/issues/21137#issuecomment-3089309207) in [oven-sh/bun](https://github.com/oven-sh/bun)
+15. 💪 Opened PR [#243](https://github.com/unreal-art/art/pull/243) in [unreal-art/art](https://github.com/unreal-art/art)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
