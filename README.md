@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#250](https://github.com/unreal-art/art/pull/250) in [unreal-art/art](https://github.com/unreal-art/art)
-2. 💪 Opened PR [#249](https://github.com/unreal-art/art/pull/249) in [unreal-art/art](https://github.com/unreal-art/art)
-3. 💪 Opened PR [#248](https://github.com/unreal-art/art/pull/248) in [unreal-art/art](https://github.com/unreal-art/art)
-4. 💪 Opened PR [#247](https://github.com/unreal-art/art/pull/247) in [unreal-art/art](https://github.com/unreal-art/art)
-5. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+1. 🎉 Merged PR [#251](https://github.com/unreal-art/art/pull/251) in [unreal-art/art](https://github.com/unreal-art/art)
+2. 💪 Opened PR [#250](https://github.com/unreal-art/art/pull/250) in [unreal-art/art](https://github.com/unreal-art/art)
+3. 💪 Opened PR [#249](https://github.com/unreal-art/art/pull/249) in [unreal-art/art](https://github.com/unreal-art/art)
+4. 💪 Opened PR [#248](https://github.com/unreal-art/art/pull/248) in [unreal-art/art](https://github.com/unreal-art/art)
+5. 💪 Opened PR [#247](https://github.com/unreal-art/art/pull/247) in [unreal-art/art](https://github.com/unreal-art/art)
 6. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-7. 🚀 Published release [v0.902.2](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
-8. 🎉 Merged PR [#246](https://github.com/unreal-art/art/pull/246) in [unreal-art/art](https://github.com/unreal-art/art)
-9. 💪 Opened PR [#246](https://github.com/unreal-art/art/pull/246) in [unreal-art/art](https://github.com/unreal-art/art)
-10. 🗣 Commented on [#1](https://github.com/unreal-art/console/issues/1#issuecomment-3109068681) in [unreal-art/console](https://github.com/unreal-art/console)
-11. 🗣 Commented on [#245](https://github.com/unreal-art/art/issues/245#issuecomment-3092626064) in [unreal-art/art](https://github.com/unreal-art/art)
-12. ❗ Opened issue [#245](https://github.com/unreal-art/art/issues/245) in [unreal-art/art](https://github.com/unreal-art/art)
-13. ❌ Closed PR [#223](https://github.com/unreal-art/art/pull/223) in [unreal-art/art](https://github.com/unreal-art/art)
-14. 🎉 Merged PR [#244](https://github.com/unreal-art/art/pull/244) in [unreal-art/art](https://github.com/unreal-art/art)
-15. 🗣 Commented on [#2044](https://github.com/fuma-nama/fumadocs/issues/2044#issuecomment-3092367834) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+7. 🚀 Published release [v0.0.0-br-main](https://github.com/DeCenterAI-1/darts/releases/tag/v0.0.0-br-main) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+8. 🚀 Published release [v0.902.2](https://github.com/DeCenterAI-1/darts/releases/tag/v0.902.2) in [DeCenterAI-1/darts](https://github.com/DeCenterAI-1/darts)
+9. 🎉 Merged PR [#246](https://github.com/unreal-art/art/pull/246) in [unreal-art/art](https://github.com/unreal-art/art)
+10. 💪 Opened PR [#246](https://github.com/unreal-art/art/pull/246) in [unreal-art/art](https://github.com/unreal-art/art)
+11. 🗣 Commented on [#1](https://github.com/unreal-art/console/issues/1#issuecomment-3109068681) in [unreal-art/console](https://github.com/unreal-art/console)
+12. 🗣 Commented on [#245](https://github.com/unreal-art/art/issues/245#issuecomment-3092626064) in [unreal-art/art](https://github.com/unreal-art/art)
+13. ❗ Opened issue [#245](https://github.com/unreal-art/art/issues/245) in [unreal-art/art](https://github.com/unreal-art/art)
+14. ❌ Closed PR [#223](https://github.com/unreal-art/art/pull/223) in [unreal-art/art](https://github.com/unreal-art/art)
+15. 🎉 Merged PR [#244](https://github.com/unreal-art/art/pull/244) in [unreal-art/art](https://github.com/unreal-art/art)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
