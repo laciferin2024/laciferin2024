@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5](https://github.com/unreal-art/console/pull/5) in [unreal-art/console](https://github.com/unreal-art/console)
-2. 🎉 Merged PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
-3. 💪 Opened PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
-4. 🎉 Merged PR [#3](https://github.com/unreal-art/console/pull/3) in [unreal-art/console](https://github.com/unreal-art/console)
-5. 🗣 Commented on [#12552](https://github.com/tauri-apps/tauri/issues/12552#issuecomment-3239136179) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-6. 💪 Opened PR [#272](https://github.com/unreal-art/art/pull/272) in [unreal-art/art](https://github.com/unreal-art/art)
-7. 💪 Opened PR [#271](https://github.com/unreal-art/art/pull/271) in [unreal-art/art](https://github.com/unreal-art/art)
-8. 💪 Opened PR [#270](https://github.com/unreal-art/art/pull/270) in [unreal-art/art](https://github.com/unreal-art/art)
-9. 💪 Opened PR [#269](https://github.com/unreal-art/art/pull/269) in [unreal-art/art](https://github.com/unreal-art/art)
-10. 💪 Opened PR [#268](https://github.com/unreal-art/art/pull/268) in [unreal-art/art](https://github.com/unreal-art/art)
-11. 💪 Opened PR [#267](https://github.com/unreal-art/art/pull/267) in [unreal-art/art](https://github.com/unreal-art/art)
-12. 💪 Opened PR [#266](https://github.com/unreal-art/art/pull/266) in [unreal-art/art](https://github.com/unreal-art/art)
-13. 🗣 Commented on [#387](https://github.com/flexprice/flexprice/issues/387#issuecomment-3209081820) in [flexprice/flexprice](https://github.com/flexprice/flexprice)
-14. 🔒 Closed issue [#387](https://github.com/flexprice/flexprice/issues/387) in [flexprice/flexprice](https://github.com/flexprice/flexprice)
-15. ❗ Opened issue [#55](https://github.com/context-labs/mactop/issues/55) in [context-labs/mactop](https://github.com/context-labs/mactop)
+1. 🎉 Merged PR [#5](https://github.com/unreal-art/console/pull/5) in [unreal-art/console](https://github.com/unreal-art/console)
+2. 💪 Opened PR [#5](https://github.com/unreal-art/console/pull/5) in [unreal-art/console](https://github.com/unreal-art/console)
+3. 🎉 Merged PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
+4. 💪 Opened PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
+5. 🎉 Merged PR [#3](https://github.com/unreal-art/console/pull/3) in [unreal-art/console](https://github.com/unreal-art/console)
+6. 🗣 Commented on [#12552](https://github.com/tauri-apps/tauri/issues/12552#issuecomment-3239136179) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+7. 💪 Opened PR [#272](https://github.com/unreal-art/art/pull/272) in [unreal-art/art](https://github.com/unreal-art/art)
+8. 💪 Opened PR [#271](https://github.com/unreal-art/art/pull/271) in [unreal-art/art](https://github.com/unreal-art/art)
+9. 💪 Opened PR [#270](https://github.com/unreal-art/art/pull/270) in [unreal-art/art](https://github.com/unreal-art/art)
+10. 💪 Opened PR [#269](https://github.com/unreal-art/art/pull/269) in [unreal-art/art](https://github.com/unreal-art/art)
+11. 💪 Opened PR [#268](https://github.com/unreal-art/art/pull/268) in [unreal-art/art](https://github.com/unreal-art/art)
+12. 💪 Opened PR [#267](https://github.com/unreal-art/art/pull/267) in [unreal-art/art](https://github.com/unreal-art/art)
+13. 💪 Opened PR [#266](https://github.com/unreal-art/art/pull/266) in [unreal-art/art](https://github.com/unreal-art/art)
+14. 🗣 Commented on [#387](https://github.com/flexprice/flexprice/issues/387#issuecomment-3209081820) in [flexprice/flexprice](https://github.com/flexprice/flexprice)
+15. 🔒 Closed issue [#387](https://github.com/flexprice/flexprice/issues/387) in [flexprice/flexprice](https://github.com/flexprice/flexprice)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
