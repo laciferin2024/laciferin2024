@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/unreal-art/console/pull/6) in [unreal-art/console](https://github.com/unreal-art/console)
-2. ❌ Closed PR [#270](https://github.com/unreal-art/art/pull/270) in [unreal-art/art](https://github.com/unreal-art/art)
-3. 🎉 Merged PR [#271](https://github.com/unreal-art/art/pull/271) in [unreal-art/art](https://github.com/unreal-art/art)
-4. 🎉 Merged PR [#272](https://github.com/unreal-art/art/pull/272) in [unreal-art/art](https://github.com/unreal-art/art)
-5. 🎉 Merged PR [#5](https://github.com/unreal-art/console/pull/5) in [unreal-art/console](https://github.com/unreal-art/console)
-6. 💪 Opened PR [#5](https://github.com/unreal-art/console/pull/5) in [unreal-art/console](https://github.com/unreal-art/console)
-7. 🎉 Merged PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
-8. 💪 Opened PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
-9. 🎉 Merged PR [#3](https://github.com/unreal-art/console/pull/3) in [unreal-art/console](https://github.com/unreal-art/console)
-10. 🗣 Commented on [#12552](https://github.com/tauri-apps/tauri/issues/12552#issuecomment-3239136179) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-11. 💪 Opened PR [#272](https://github.com/unreal-art/art/pull/272) in [unreal-art/art](https://github.com/unreal-art/art)
-12. 💪 Opened PR [#271](https://github.com/unreal-art/art/pull/271) in [unreal-art/art](https://github.com/unreal-art/art)
-13. 💪 Opened PR [#270](https://github.com/unreal-art/art/pull/270) in [unreal-art/art](https://github.com/unreal-art/art)
-14. 💪 Opened PR [#269](https://github.com/unreal-art/art/pull/269) in [unreal-art/art](https://github.com/unreal-art/art)
-15. 💪 Opened PR [#268](https://github.com/unreal-art/art/pull/268) in [unreal-art/art](https://github.com/unreal-art/art)
+1. 🎉 Merged PR [#6](https://github.com/unreal-art/console/pull/6) in [unreal-art/console](https://github.com/unreal-art/console)
+2. 💪 Opened PR [#6](https://github.com/unreal-art/console/pull/6) in [unreal-art/console](https://github.com/unreal-art/console)
+3. ❌ Closed PR [#270](https://github.com/unreal-art/art/pull/270) in [unreal-art/art](https://github.com/unreal-art/art)
+4. 🎉 Merged PR [#271](https://github.com/unreal-art/art/pull/271) in [unreal-art/art](https://github.com/unreal-art/art)
+5. 🎉 Merged PR [#272](https://github.com/unreal-art/art/pull/272) in [unreal-art/art](https://github.com/unreal-art/art)
+6. 🎉 Merged PR [#5](https://github.com/unreal-art/console/pull/5) in [unreal-art/console](https://github.com/unreal-art/console)
+7. 💪 Opened PR [#5](https://github.com/unreal-art/console/pull/5) in [unreal-art/console](https://github.com/unreal-art/console)
+8. 🎉 Merged PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
+9. 💪 Opened PR [#4](https://github.com/unreal-art/console/pull/4) in [unreal-art/console](https://github.com/unreal-art/console)
+10. 🎉 Merged PR [#3](https://github.com/unreal-art/console/pull/3) in [unreal-art/console](https://github.com/unreal-art/console)
+11. 🗣 Commented on [#12552](https://github.com/tauri-apps/tauri/issues/12552#issuecomment-3239136179) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+12. 💪 Opened PR [#272](https://github.com/unreal-art/art/pull/272) in [unreal-art/art](https://github.com/unreal-art/art)
+13. 💪 Opened PR [#271](https://github.com/unreal-art/art/pull/271) in [unreal-art/art](https://github.com/unreal-art/art)
+14. 💪 Opened PR [#270](https://github.com/unreal-art/art/pull/270) in [unreal-art/art](https://github.com/unreal-art/art)
+15. 💪 Opened PR [#269](https://github.com/unreal-art/art/pull/269) in [unreal-art/art](https://github.com/unreal-art/art)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
