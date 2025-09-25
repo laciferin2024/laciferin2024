@@ -80,21 +80,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5](https://github.com/unreal-art/site/pull/5) in [unreal-art/site](https://github.com/unreal-art/site)
-2. 🎉 Merged PR [#10](https://github.com/unreal-art/console/pull/10) in [unreal-art/console](https://github.com/unreal-art/console)
-3. 💪 Opened PR [#10](https://github.com/unreal-art/console/pull/10) in [unreal-art/console](https://github.com/unreal-art/console)
-4. 🗣 Commented on [#52](https://github.com/inconshreveable/go-update/issues/52#issuecomment-3289995856) in [inconshreveable/go-update](https://github.com/inconshreveable/go-update)
-5. ❗ Opened issue [#4](https://github.com/unreal-art/site/issues/4) in [unreal-art/site](https://github.com/unreal-art/site)
-6. ❗ Opened issue [#3](https://github.com/unreal-art/site/issues/3) in [unreal-art/site](https://github.com/unreal-art/site)
-7. 🗣 Commented on [#2](https://github.com/unreal-art/site/issues/2#issuecomment-3289963349) in [unreal-art/site](https://github.com/unreal-art/site)
-8. ❗ Opened issue [#2](https://github.com/unreal-art/site/issues/2) in [unreal-art/site](https://github.com/unreal-art/site)
-9. 🗣 Commented on [#1198](https://github.com/nearai/nearai/pull/1198#issuecomment-3288298623) in [nearai/nearai](https://github.com/nearai/nearai)
-10. ❗ Opened issue [#38101](https://github.com/zed-industries/zed/issues/38101) in [zed-industries/zed](https://github.com/zed-industries/zed)
-11. 🎉 Merged PR [#274](https://github.com/unreal-art/art/pull/274) in [unreal-art/art](https://github.com/unreal-art/art)
-12. 🎉 Merged PR [#273](https://github.com/unreal-art/art/pull/273) in [unreal-art/art](https://github.com/unreal-art/art)
-13. 🎉 Merged PR [#275](https://github.com/unreal-art/art/pull/275) in [unreal-art/art](https://github.com/unreal-art/art)
-14. 💪 Opened PR [#275](https://github.com/unreal-art/art/pull/275) in [unreal-art/art](https://github.com/unreal-art/art)
-15. 💪 Opened PR [#274](https://github.com/unreal-art/art/pull/274) in [unreal-art/art](https://github.com/unreal-art/art)
+1. 💪 Opened PR [#15](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+2. 💪 Opened PR [#14](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+3. 💪 Opened PR [#13](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+4. ❗ Opened issue [#378](https://github.com/AnWeber/vscode-httpyac/issues/378) in [AnWeber/vscode-httpyac](https://github.com/AnWeber/vscode-httpyac)
+5. 💪 Opened PR [#5](undefined) in [unreal-art/site](https://github.com/unreal-art/site)
+6. 💪 Opened PR [#12](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+7. 💪 Opened PR [#11](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+8. 💪 Opened PR [#10](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+9. 🗣 Commented on [#52](https://github.com/inconshreveable/go-update/issues/52#issuecomment-3289995856) in [inconshreveable/go-update](https://github.com/inconshreveable/go-update)
+10.  Assigned issue [#2](https://github.com/unreal-art/site/issues/2) in [unreal-art/site](https://github.com/unreal-art/site)
+11. ❗ Opened issue [#4](https://github.com/unreal-art/site/issues/4) in [unreal-art/site](https://github.com/unreal-art/site)
+12.  Assigned issue [#4](https://github.com/unreal-art/site/issues/4) in [unreal-art/site](https://github.com/unreal-art/site)
+13. ❗ Opened issue [#3](https://github.com/unreal-art/site/issues/3) in [unreal-art/site](https://github.com/unreal-art/site)
+14. 🗣 Commented on [#2](https://github.com/unreal-art/site/issues/2#issuecomment-3289963349) in [unreal-art/site](https://github.com/unreal-art/site)
+15. ❗ Opened issue [#2](https://github.com/unreal-art/site/issues/2) in [unreal-art/site](https://github.com/unreal-art/site)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
