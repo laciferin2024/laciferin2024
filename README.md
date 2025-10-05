@@ -80,8 +80,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2909](https://github.com/casey/just/issues/2909) in [casey/just](https://github.com/casey/just)
-2. 💪 Opened PR [#5](https://github.com/unreal-art/site/pull/5) in [unreal-art/site](https://github.com/unreal-art/site)
+1. 🗣 Commented on [#39275](https://github.com/zed-industries/zed/issues/39275#issuecomment-3369082229) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. ❗ Opened issue [#2909](https://github.com/casey/just/issues/2909) in [casey/just](https://github.com/casey/just)
 3. 🎉 Merged PR [#10](https://github.com/unreal-art/console/pull/10) in [unreal-art/console](https://github.com/unreal-art/console)
 4. 💪 Opened PR [#10](https://github.com/unreal-art/console/pull/10) in [unreal-art/console](https://github.com/unreal-art/console)
 5. 🗣 Commented on [#52](https://github.com/inconshreveable/go-update/issues/52#issuecomment-3289995856) in [inconshreveable/go-update](https://github.com/inconshreveable/go-update)
