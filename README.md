@@ -80,7 +80,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#39275](https://github.com/zed-industries/zed/issues/39275) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. ❗ Opened issue [#2909](https://github.com/casey/just/issues/2909) in [casey/just](https://github.com/casey/just)
 2. 💪 Opened PR [#5](https://github.com/unreal-art/site/pull/5) in [unreal-art/site](https://github.com/unreal-art/site)
 3. 🎉 Merged PR [#10](https://github.com/unreal-art/console/pull/10) in [unreal-art/console](https://github.com/unreal-art/console)
 4. 💪 Opened PR [#10](https://github.com/unreal-art/console/pull/10) in [unreal-art/console](https://github.com/unreal-art/console)
