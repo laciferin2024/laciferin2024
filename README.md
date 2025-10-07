@@ -82,11 +82,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/team-somehow/nonet/issues/1) in [team-somehow/nonet](https://github.com/team-somehow/nonet)
-2. 🗣 Commented on [#2909](https://github.com/casey/just/issues/2909#issuecomment-3372031023) in [casey/just](https://github.com/casey/just)
-3. 🗣 Commented on [#39275](https://github.com/zed-industries/zed/issues/39275#issuecomment-3369082229) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. ❗ Opened issue [#2909](https://github.com/casey/just/issues/2909) in [casey/just](https://github.com/casey/just)
-5. 🗣 Commented on [#52](https://github.com/inconshreveable/go-update/issues/52#issuecomment-3289995856) in [inconshreveable/go-update](https://github.com/inconshreveable/go-update)
+1. ❗ Opened issue [#2](https://github.com/team-somehow/nonet/issues/2) in [team-somehow/nonet](https://github.com/team-somehow/nonet)
+2. ❗ Opened issue [#1](https://github.com/team-somehow/nonet/issues/1) in [team-somehow/nonet](https://github.com/team-somehow/nonet)
+3. 🗣 Commented on [#2909](https://github.com/casey/just/issues/2909#issuecomment-3372031023) in [casey/just](https://github.com/casey/just)
+4. 🗣 Commented on [#39275](https://github.com/zed-industries/zed/issues/39275#issuecomment-3369082229) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. ❗ Opened issue [#2909](https://github.com/casey/just/issues/2909) in [casey/just](https://github.com/casey/just)
 6. ❗ Opened issue [#4](https://github.com/unreal-art/site/issues/4) in [unreal-art/site](https://github.com/unreal-art/site)
 7. ❗ Opened issue [#3](https://github.com/unreal-art/site/issues/3) in [unreal-art/site](https://github.com/unreal-art/site)
 8. 🗣 Commented on [#2](https://github.com/unreal-art/site/issues/2#issuecomment-3289963349) in [unreal-art/site](https://github.com/unreal-art/site)
