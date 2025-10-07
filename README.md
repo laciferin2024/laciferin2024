@@ -15,16 +15,16 @@
 
 <br>
 
-- 🔭 Pioneering **Bleeding/Cutting Edge** Tech
-- 🌱 Discovering **Quantum Computing, Zkproofs** ⚡
-- 👯 I’m looking to collaborate on **ML, AI, Web3, Zkproofs**
+- 🔭 Living at **Bleeding/Cutting Edge** Tech
+- 🌱 Breathing **d/acc** ⚡
+- 👯 I’m looking forward to **d/acc** projects
 <!-- - 🤝 I’m looking for peer learners & experts on **Quantum Computing, ML** -->
-- 👨‍💻 Checkout my projects @ <b> [laciferin2024](https://github.com/laciferin2024), [Web3Musketeers](https://github.com/CoopHive/), [DecenterAI](https://github.com/DeCenter-AI/) </b>
-- 💬 Ask me your doubts on **OSS,Go, Python, Javascript,BE (Backend)** 📝
-- 🥅 2024 Goals: Build **Quantum Zkproofs**, <b> Multi-modal(video,audio,text) ML **AGI** model </b>
+<!-- - 👨‍💻 Checkout my projects @ <b> [laciferin2024](https://github.com/laciferin2024), [Web3Musketeers](https://github.com/CoopHive/), [DecenterAI](https://github.com/DeCenter-AI/) </b> -->
+- 💬 Ask me your doubts on **Opensource, Web3, Web2** 📝
+- 🥅 2025 Goals: AIPrenuer
     <!-- - 💻 Coding/Programming - [@laciferin2024](https://github.com/laciferin2024) -->
-  <!-- - 📫 Reach me @ <a href="mailto:laciferin@gmail.com"> Send Mail</a> -->
-- 👯 Fun fact **AGI I am gonna build @ 2024 will be better than me @ coding**
+  <!-- - 📫 Reach me @ <a href="mailto:laciferin@gmail.com"> Send Mail</a>
+<!-- - 👯 Fun fact **AGI I am gonna build @ 2024 will be better than me @ coding** -->
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
@@ -63,6 +63,7 @@
 <!--
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=laciferin2024&show_icons=true&locale=en&&hide=javascript,html" alt="laciferin2024" /></p> -->
 
+<!--
 ## ⭐ My Latest projects
 
 - [CoopHive: Decentralized Compute Protocol](https://github.com/CoopHive/hive)
@@ -76,6 +77,7 @@
 
 <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 
+-->
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
