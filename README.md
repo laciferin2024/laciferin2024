@@ -82,21 +82,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-2. ❗ Opened issue [#6](https://github.com/ideo-mind/moneypot/issues/6) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-3. ❗ Opened issue [#5](https://github.com/ideo-mind/moneypot/issues/5) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-4. 🗣 Commented on [#4](https://github.com/ideo-mind/moneypot/pull/4#issuecomment-3422133624) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-5. 💪 Opened PR [#4](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-6. 💪 Opened PR [#17](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-7. 💪 Opened PR [#3](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-8. 💪 Opened PR [#2](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-9. 💪 Opened PR [#16](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-10. 💪 Opened PR [#2](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
-11. 💪 Opened PR [#1](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
-12. 🗣 Commented on [#39685](https://github.com/zed-industries/zed/issues/39685#issuecomment-3392705569) in [zed-industries/zed](https://github.com/zed-industries/zed)
-13. 💪 Opened PR [#1](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-14. ❗ Opened issue [#2](https://github.com/team-somehow/nonet/issues/2) in [team-somehow/nonet](https://github.com/team-somehow/nonet)
-15. ❗ Opened issue [#1](https://github.com/team-somehow/nonet/issues/1) in [team-somehow/nonet](https://github.com/team-somehow/nonet)
+1. 💪 Opened PR [#1](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+2. 💪 Opened PR [#1](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
+3. ❗ Opened issue [#6](https://github.com/ideo-mind/moneypot/issues/6) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+4. ❗ Opened issue [#5](https://github.com/ideo-mind/moneypot/issues/5) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+5. 🗣 Commented on [#4](https://github.com/ideo-mind/moneypot/pull/4#issuecomment-3422133624) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+6. 💪 Opened PR [#4](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+7. 💪 Opened PR [#17](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+8. 💪 Opened PR [#3](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+9. 💪 Opened PR [#2](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+10. 💪 Opened PR [#16](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+11. 💪 Opened PR [#2](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
+12. 💪 Opened PR [#1](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
+13. 🗣 Commented on [#39685](https://github.com/zed-industries/zed/issues/39685#issuecomment-3392705569) in [zed-industries/zed](https://github.com/zed-industries/zed)
+14. 💪 Opened PR [#1](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+15. ❗ Opened issue [#2](https://github.com/team-somehow/nonet/issues/2) in [team-somehow/nonet](https://github.com/team-somehow/nonet)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
