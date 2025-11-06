@@ -82,21 +82,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#275](https://github.com/nvim-pack/nvim-spectre/issues/275) in [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)
-2. 💪 Opened PR [#5](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-3. 💪 Opened PR [#3](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-4. 💪 Opened PR [#2](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-5. 💪 Opened PR [#4](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-6. 💪 Opened PR [#3](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-7. 💪 Opened PR [#2](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-8. 💪 Opened PR [#1](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-9. 💪 Opened PR [#1](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-10. ❗ Opened issue [#6](https://github.com/ideo-mind/moneypot/issues/6) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-11. ❗ Opened issue [#5](https://github.com/ideo-mind/moneypot/issues/5) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-12. 🗣 Commented on [#4](https://github.com/ideo-mind/moneypot/pull/4#issuecomment-3422133624) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-13. 💪 Opened PR [#4](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
-14. 💪 Opened PR [#17](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-15. 💪 Opened PR [#3](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+1. 💪 Opened PR [#18](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+2. ❗ Opened issue [#275](https://github.com/nvim-pack/nvim-spectre/issues/275) in [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)
+3. 💪 Opened PR [#5](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+4. 💪 Opened PR [#3](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
+5. 💪 Opened PR [#2](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
+6. 💪 Opened PR [#4](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+7. 💪 Opened PR [#3](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+8. 💪 Opened PR [#2](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+9. 💪 Opened PR [#1](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+10. 💪 Opened PR [#1](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
+11. ❗ Opened issue [#6](https://github.com/ideo-mind/moneypot/issues/6) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+12. ❗ Opened issue [#5](https://github.com/ideo-mind/moneypot/issues/5) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+13. 🗣 Commented on [#4](https://github.com/ideo-mind/moneypot/pull/4#issuecomment-3422133624) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+14. 💪 Opened PR [#4](undefined) in [ideo-mind/moneypot](https://github.com/ideo-mind/moneypot)
+15. 💪 Opened PR [#17](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
