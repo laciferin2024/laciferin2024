@@ -82,21 +82,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#200](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-2. 💪 Opened PR [#200](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-3. ❌ Closed PR [#199](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-4. 💪 Opened PR [#199](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-5. ❌ Closed PR [#197](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-6. ❌ Closed PR [#198](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-7. 💪 Opened PR [#198](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-8. 💪 Opened PR [#197](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
-9. 💪 Opened PR [#22](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-10. 💪 Opened PR [#21](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-11. 💪 Opened PR [#20](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-12. ❌ Closed PR [#13](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-13. 💪 Opened PR [#19](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-14. 💪 Opened PR [#18](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
-15. ❗ Opened issue [#275](https://github.com/nvim-pack/nvim-spectre/issues/275) in [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)
+1. 💪 Opened PR [#201](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+2. ❌ Closed PR [#200](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+3. 💪 Opened PR [#200](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+4. ❌ Closed PR [#199](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+5. 💪 Opened PR [#199](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+6. ❌ Closed PR [#197](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+7. ❌ Closed PR [#198](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+8. 💪 Opened PR [#198](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+9. 💪 Opened PR [#197](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+10. 💪 Opened PR [#22](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+11. 💪 Opened PR [#21](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+12. 💪 Opened PR [#20](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+13. ❌ Closed PR [#13](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+14. 💪 Opened PR [#19](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
+15. 💪 Opened PR [#18](undefined) in [unreal-art/console](https://github.com/unreal-art/console)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
