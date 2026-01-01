@@ -82,12 +82,12 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#1](undefined) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
-2. 💪 Opened PR [#1](undefined) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
-3. ❌ Merged PR [#7](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-4. 💪 Opened PR [#7](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-5. ❌ Merged PR [#6](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-6. 💪 Opened PR [#6](undefined) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+1. 🎉 Merged PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
+2. 💪 Opened PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
+3. 🎉 Merged PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+4. 💪 Opened PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+5. 🎉 Merged PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+6. 💪 Opened PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
 7. 🗣 Commented on [#875](https://github.com/joemccann/dillinger/issues/875#issuecomment-3594946846) in [joemccann/dillinger](https://github.com/joemccann/dillinger)
 8. 💪 Opened PR [#4](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
 9. ❌ Merged PR [#3](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
