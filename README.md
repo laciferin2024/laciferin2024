@@ -82,14 +82,14 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5](https://github.com/ideo-mind/moneypot.evm/pull/5) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-2. 🎉 Merged PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
-3. 💪 Opened PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
-4. 🎉 Merged PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-5. 💪 Opened PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-6. 🎉 Merged PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-7. 💪 Opened PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-8. 💪 Opened PR [#4](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
+1. ❗ Opened issue [#71](https://github.com/antimatter15/splat/issues/71) in [antimatter15/splat](https://github.com/antimatter15/splat)
+2. 💪 Opened PR [#5](https://github.com/ideo-mind/moneypot.evm/pull/5) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
+3. 🎉 Merged PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
+4. 💪 Opened PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
+5. 🎉 Merged PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+6. 💪 Opened PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+7. 🎉 Merged PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
+8. 💪 Opened PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
 9. ❌ Merged PR [#3](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
 10. 💪 Opened PR [#3](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
 11. ❌ Merged PR [#2](undefined) in [joadataarg/Payment_Web3](https://github.com/joadataarg/Payment_Web3)
