@@ -37,6 +37,13 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
+      - name: Clean up
+        continue-on-error: true
+        run: |
+          gh run list --limit 10 --json databaseId \
+            | jq '.[].databaseId' \
+            | xargs -P 20 -I {} gh api --method DELETE /repos/${{github.repository}}/actions/runs/{}
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
