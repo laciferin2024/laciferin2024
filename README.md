@@ -82,21 +82,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#71](https://github.com/antimatter15/splat/issues/71) in [antimatter15/splat](https://github.com/antimatter15/splat)
-2. 💪 Opened PR [#5](https://github.com/ideo-mind/moneypot.evm/pull/5) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-3. 🎉 Merged PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
-4. 💪 Opened PR [#1](https://github.com/laciferin2024/url-shortner.go/pull/1) in [laciferin2024/url-shortner.go](https://github.com/laciferin2024/url-shortner.go)
-5. 🎉 Merged PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-6. 💪 Opened PR [#7](https://github.com/ideo-mind/hardhat/pull/7) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-7. 🎉 Merged PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-8. 💪 Opened PR [#6](https://github.com/ideo-mind/hardhat/pull/6) in [ideo-mind/hardhat](https://github.com/ideo-mind/hardhat)
-9. ❌ Merged PR [#3](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
-10. 💪 Opened PR [#3](undefined) in [unreal-art/hardhat](https://github.com/unreal-art/hardhat)
-11. ❌ Merged PR [#2](undefined) in [joadataarg/Payment_Web3](https://github.com/joadataarg/Payment_Web3)
-12. 💪 Opened PR [#2](undefined) in [joadataarg/Payment_Web3](https://github.com/joadataarg/Payment_Web3)
-13. ❌ Merged PR [#4](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-14. 💪 Opened PR [#4](undefined) in [ideo-mind/moneypot.evm](https://github.com/ideo-mind/moneypot.evm)
-15. ❌ Closed PR [#201](undefined) in [Chain-Love/chain-love](https://github.com/Chain-Love/chain-love)
+1. 🗣 Commented on [#4915](https://github.com/zellij-org/zellij/issues/4915#issuecomment-4146078954) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+2. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4146054971) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. 🎉 Merged PR [#1](https://github.com/ideo-mind/oh-my-ai/pull/1) in [ideo-mind/oh-my-ai](https://github.com/ideo-mind/oh-my-ai)
+4. 💪 Opened PR [#1](https://github.com/ideo-mind/oh-my-ai/pull/1) in [ideo-mind/oh-my-ai](https://github.com/ideo-mind/oh-my-ai)
+5. 🎉 Merged PR [#271](https://github.com/libp2p/libp2p/pull/271) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
+6. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4141736072) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+7. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4141660125) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+8. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4140739038) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+9. 🗣 Commented on [#271](https://github.com/libp2p/libp2p/pull/271#issuecomment-4139447086) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
+10. 💪 Opened PR [#4923](https://github.com/zellij-org/zellij/pull/4923) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+11. 🗣 Commented on [#4915](https://github.com/zellij-org/zellij/issues/4915#issuecomment-4137909158) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+12. 🗣 Commented on [#4897](https://github.com/zellij-org/zellij/issues/4897#issuecomment-4137891696) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+13. ❗ Opened issue [#4915](https://github.com/zellij-org/zellij/issues/4915) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+14. 🗣 Commented on [#4869](https://github.com/zellij-org/zellij/issues/4869#issuecomment-4113288863) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+15. 🗣 Commented on [#4870](https://github.com/zellij-org/zellij/issues/4870#issuecomment-4113221703) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
