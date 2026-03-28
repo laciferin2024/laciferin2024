@@ -82,21 +82,21 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4923](https://github.com/zellij-org/zellij/pull/4923) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-2. 🗣 Commented on [#707](https://github.com/ajeetdsouza/zoxide/issues/707#issuecomment-4147534327) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-3. 🎉 Merged PR [#273](https://github.com/libp2p/libp2p/pull/273) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
-4. ❗ Opened issue [#737](https://github.com/nullclaw/nullclaw/issues/737) in [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
-5. 🗣 Commented on [#273](https://github.com/libp2p/libp2p/pull/273#issuecomment-4146149773) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
-6. 💪 Opened PR [#273](https://github.com/libp2p/libp2p/pull/273) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
-7. 🗣 Commented on [#4915](https://github.com/zellij-org/zellij/issues/4915#issuecomment-4146078954) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-8. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4146054971) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-9. 🎉 Merged PR [#1](https://github.com/ideo-mind/oh-my-ai/pull/1) in [ideo-mind/oh-my-ai](https://github.com/ideo-mind/oh-my-ai)
-10. 💪 Opened PR [#1](https://github.com/ideo-mind/oh-my-ai/pull/1) in [ideo-mind/oh-my-ai](https://github.com/ideo-mind/oh-my-ai)
-11. 🎉 Merged PR [#271](https://github.com/libp2p/libp2p/pull/271) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
-12. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4141736072) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-13. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4141660125) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-14. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4140739038) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-15. 🗣 Commented on [#271](https://github.com/libp2p/libp2p/pull/271#issuecomment-4139447086) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
+1. 🗣 Commented on [#4938](https://github.com/zellij-org/zellij/issues/4938#issuecomment-4148783881) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+2. ❗ Opened issue [#4938](https://github.com/zellij-org/zellij/issues/4938) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. 🗣 Commented on [#4897](https://github.com/zellij-org/zellij/issues/4897#issuecomment-4148769880) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+4. 🎉 Merged PR [#4923](https://github.com/zellij-org/zellij/pull/4923) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+5. 🗣 Commented on [#707](https://github.com/ajeetdsouza/zoxide/issues/707#issuecomment-4147534327) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+6. 🎉 Merged PR [#273](https://github.com/libp2p/libp2p/pull/273) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
+7. ❗ Opened issue [#737](https://github.com/nullclaw/nullclaw/issues/737) in [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
+8. 🗣 Commented on [#273](https://github.com/libp2p/libp2p/pull/273#issuecomment-4146149773) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
+9. 💪 Opened PR [#273](https://github.com/libp2p/libp2p/pull/273) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
+10. 🗣 Commented on [#4915](https://github.com/zellij-org/zellij/issues/4915#issuecomment-4146078954) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+11. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4146054971) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+12. 🎉 Merged PR [#1](https://github.com/ideo-mind/oh-my-ai/pull/1) in [ideo-mind/oh-my-ai](https://github.com/ideo-mind/oh-my-ai)
+13. 💪 Opened PR [#1](https://github.com/ideo-mind/oh-my-ai/pull/1) in [ideo-mind/oh-my-ai](https://github.com/ideo-mind/oh-my-ai)
+14. 🎉 Merged PR [#271](https://github.com/libp2p/libp2p/pull/271) in [libp2p/libp2p](https://github.com/libp2p/libp2p)
+15. 🗣 Commented on [#4923](https://github.com/zellij-org/zellij/pull/4923#issuecomment-4141736072) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
