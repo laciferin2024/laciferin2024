@@ -15,7 +15,7 @@ on:
   #     - main
 
   schedule:
-    - cron: "*/55 * * * *"
+    - cron: "*/30 * * * *"
     # 00:00 IST == 05:30 UTC
     # - cron: "30 5 * * *"
   workflow_dispatch:
@@ -34,6 +34,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Clean up
+        continue-on-error: true
+        run: |
+          gh run list --limit 10 --json databaseId \
+            | jq '.[].databaseId' \
+            | xargs -P 20 -I {} gh api --method DELETE /repos/${{github.repository}}/actions/runs/{}
 
       - name: Git Status
         run: |
