@@ -82,21 +82,21 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-2. ❗ Opened issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-3. 🗣 Commented on [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997#issuecomment-4173994370) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-4. 🔒 Closed issue [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-5. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4166420277) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-6. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4166416111) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-7. 🗣 Commented on [#1992](https://github.com/multiversx/mx-sdk-rs/issues/1992#issuecomment-4166366608) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
-8. 🗣 Commented on [#4937](https://github.com/zellij-org/zellij/pull/4937#issuecomment-4159195622) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-9. 🗣 Commented on [#4930](https://github.com/zellij-org/zellij/issues/4930#issuecomment-4159173982) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-10. ℹ️ Labeled issue [#19572](https://github.com/anomalyco/opencode/issues/19572) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-11. ❗ Opened issue [#19572](https://github.com/anomalyco/opencode/issues/19572) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-12. 🗣 Commented on [#4930](https://github.com/zellij-org/zellij/issues/4930#issuecomment-4148987335) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-13. ℹ️ Labeled issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-14. ❗ Opened issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-15. 🗣 Commented on [#4937](https://github.com/zellij-org/zellij/pull/4937#issuecomment-4148917890) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+1. 🗣 Commented on [#4954](https://github.com/zellij-org/zellij/pull/4954#issuecomment-4193972076) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+2. ℹ️ Labeled issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. ❗ Opened issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+4. 🗣 Commented on [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997#issuecomment-4173994370) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+5. 🔒 Closed issue [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+6. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4166420277) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+7. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4166416111) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+8. 🗣 Commented on [#1992](https://github.com/multiversx/mx-sdk-rs/issues/1992#issuecomment-4166366608) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
+9. 🗣 Commented on [#4937](https://github.com/zellij-org/zellij/pull/4937#issuecomment-4159195622) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+10. 🗣 Commented on [#4930](https://github.com/zellij-org/zellij/issues/4930#issuecomment-4159173982) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+11. ℹ️ Labeled issue [#19572](https://github.com/anomalyco/opencode/issues/19572) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+12. ❗ Opened issue [#19572](https://github.com/anomalyco/opencode/issues/19572) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+13. 🗣 Commented on [#4930](https://github.com/zellij-org/zellij/issues/4930#issuecomment-4148987335) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+14. ℹ️ Labeled issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+15. ❗ Opened issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
