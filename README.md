@@ -82,9 +82,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2222](https://github.com/code-yeongyu/oh-my-openagent/pull/2222#issuecomment-4514151055) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-2. 💪 Opened PR [#1](https://github.com/guni7/proof-of-grass/pull/1) in [guni7/proof-of-grass](https://github.com/guni7/proof-of-grass)
-3. 🔒 Closed issue [#19572](https://github.com/anomalyco/opencode/issues/19572) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. ❗ Opened issue [#34795](https://github.com/NousResearch/hermes-agent/issues/34795) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 🗣 Commented on [#2222](https://github.com/code-yeongyu/oh-my-openagent/pull/2222#issuecomment-4514151055) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+3. 💪 Opened PR [#1](https://github.com/guni7/proof-of-grass/pull/1) in [guni7/proof-of-grass](https://github.com/guni7/proof-of-grass)
 4. 🔒 Closed issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 5. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4268971573) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 6. ℹ️ Labeled issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
