@@ -82,8 +82,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#437](https://github.com/psmux/psmux/issues/437) in [psmux/psmux](https://github.com/psmux/psmux)
-2. 🗣 Commented on [#2222](https://github.com/code-yeongyu/oh-my-openagent/pull/2222#issuecomment-4514151055) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+1. 🎉 Merged PR [#682](https://github.com/libp2p/go-libp2p-pubsub/pull/682) in [libp2p/go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub)
+2. ❗ Opened issue [#437](https://github.com/psmux/psmux/issues/437) in [psmux/psmux](https://github.com/psmux/psmux)
 3. 💪 Opened PR [#1](https://github.com/guni7/proof-of-grass/pull/1) in [guni7/proof-of-grass](https://github.com/guni7/proof-of-grass)
 4. 🔒 Closed issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 5. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4268971573) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
