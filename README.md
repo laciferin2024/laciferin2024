@@ -82,8 +82,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#652](https://github.com/1jehuang/jcode/issues/652) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
-2. 🎉 Merged PR [#682](https://github.com/libp2p/go-libp2p-pubsub/pull/682) in [libp2p/go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub)
+1. 🗣 Commented on [#332](https://github.com/facebookresearch/dinov3/issues/332#issuecomment-5233836193) in [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
+2. ❗ Opened issue [#652](https://github.com/1jehuang/jcode/issues/652) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
 3. ❗ Opened issue [#437](https://github.com/psmux/psmux/issues/437) in [psmux/psmux](https://github.com/psmux/psmux)
 4. 🔒 Closed issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 5. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4268971573) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
