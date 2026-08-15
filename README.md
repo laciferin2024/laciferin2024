@@ -82,9 +82,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#332](https://github.com/facebookresearch/dinov3/issues/332#issuecomment-5233836193) in [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
-2. ❗ Opened issue [#652](https://github.com/1jehuang/jcode/issues/652) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
-3. ❗ Opened issue [#437](https://github.com/psmux/psmux/issues/437) in [psmux/psmux](https://github.com/psmux/psmux)
+1. ❗ Opened issue [#573](https://github.com/psmux/psmux/issues/573) in [psmux/psmux](https://github.com/psmux/psmux)
+2. 🗣 Commented on [#332](https://github.com/facebookresearch/dinov3/issues/332#issuecomment-5233836193) in [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
+3. ❗ Opened issue [#652](https://github.com/1jehuang/jcode/issues/652) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
 4. 🔒 Closed issue [#4939](https://github.com/zellij-org/zellij/issues/4939) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 5. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4268971573) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 6. ℹ️ Labeled issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
