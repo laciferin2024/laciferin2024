@@ -82,13 +82,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#573](https://github.com/psmux/psmux/issues/573#issuecomment-5306098796) in [psmux/psmux](https://github.com/psmux/psmux)
-2. 🗣 Commented on [#573](https://github.com/psmux/psmux/issues/573#issuecomment-5306062488) in [psmux/psmux](https://github.com/psmux/psmux)
-3. ❗ Opened issue [#573](https://github.com/psmux/psmux/issues/573) in [psmux/psmux](https://github.com/psmux/psmux)
-4. 🗣 Commented on [#332](https://github.com/facebookresearch/dinov3/issues/332#issuecomment-5233836193) in [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
-5. ❗ Opened issue [#652](https://github.com/1jehuang/jcode/issues/652) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
-6. ℹ️ Labeled issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-7. ❗ Opened issue [#5009](https://github.com/zellij-org/zellij/issues/5009) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+1. 🗣 Commented on [#573](https://github.com/psmux/psmux/issues/573#issuecomment-5400803434) in [psmux/psmux](https://github.com/psmux/psmux)
+2. 🔒 Closed issue [#573](https://github.com/psmux/psmux/issues/573) in [psmux/psmux](https://github.com/psmux/psmux)
+3. 🗣 Commented on [#573](https://github.com/psmux/psmux/issues/573#issuecomment-5306098796) in [psmux/psmux](https://github.com/psmux/psmux)
+4. 🗣 Commented on [#573](https://github.com/psmux/psmux/issues/573#issuecomment-5306062488) in [psmux/psmux](https://github.com/psmux/psmux)
+5. ❗ Opened issue [#573](https://github.com/psmux/psmux/issues/573) in [psmux/psmux](https://github.com/psmux/psmux)
+6. 🗣 Commented on [#332](https://github.com/facebookresearch/dinov3/issues/332#issuecomment-5233836193) in [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
+7. ❗ Opened issue [#652](https://github.com/1jehuang/jcode/issues/652) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
 8. 🗣 Commented on [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997#issuecomment-4173994370) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
 9. 🔒 Closed issue [#1997](https://github.com/multiversx/mx-sdk-rs/issues/1997) in [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs)
 10. 🗣 Commented on [#4939](https://github.com/zellij-org/zellij/issues/4939#issuecomment-4166420277) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
